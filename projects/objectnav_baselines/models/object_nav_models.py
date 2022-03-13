@@ -199,6 +199,8 @@ class ResnetTensorObjectNavActorCritic(ActorCriticModel[CategoricalDistr]):
                 if rgb_resnet_preprocessor_uuid is not None
                 else depth_resnet_preprocessor_uuid
             )
+            # TODO!!!: Copy this code and add RGB augmenter. Augmenter should be added here
+            # Add identity augmenter
             self.goal_visual_encoder = ResnetTensorGoalEncoder(
                 self.observation_space,
                 goal_sensor_uuid,
