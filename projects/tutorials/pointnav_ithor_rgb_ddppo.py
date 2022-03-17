@@ -115,8 +115,8 @@ class ObjectNavRoboThorRGBPPOExperimentConfig(ExperimentConfig):
         num_mini_batch = 1
         update_repeats = 3
         num_steps = 30
-        save_interval = 5000000
-        log_interval = 10000
+        save_interval = 166666
+        log_interval = 1000
         gamma = 0.99
         use_gae = True
         gae_lambda = 0.95
