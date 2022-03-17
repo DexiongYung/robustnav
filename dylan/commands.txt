@@ -1,0 +1,3 @@
+# Command to run simple test data on clean
+python main.py -o storage/simple_test_clean -b projects/robustnav_baselines/experiments/robustnav_train objectnav_robothor_vanilla_rgb_resnet_ddppo 
+-trd dylan/subsample_task/simple_test/train -vld dylan/subsample_task/simple_test/val
