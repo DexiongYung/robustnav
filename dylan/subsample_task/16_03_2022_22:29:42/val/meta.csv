@@ -1,0 +1,506 @@
+,File Name,Difficulty,Target,Original Count,Sub-sample Count,Sampled Ids
+0,FloorPlan_Val3_4.json.gz,easy,AlarmClock,1,1,[0]
+1,FloorPlan_Val3_4.json.gz,medium,AlarmClock,3,2,"[4, 7]"
+2,FloorPlan_Val3_4.json.gz,hard,AlarmClock,6,3,"[5, 9, 6]"
+3,FloorPlan_Val3_4.json.gz,medium,Apple,5,3,"[18, 14, 10]"
+4,FloorPlan_Val3_4.json.gz,easy,Apple,1,1,[11]
+5,FloorPlan_Val3_4.json.gz,hard,Apple,4,2,"[13, 12]"
+6,FloorPlan_Val3_4.json.gz,hard,BaseballBat,6,3,"[25, 22, 20]"
+7,FloorPlan_Val3_4.json.gz,medium,BaseballBat,3,2,"[28, 21]"
+8,FloorPlan_Val3_4.json.gz,easy,BaseballBat,1,1,[24]
+9,FloorPlan_Val3_4.json.gz,medium,BasketBall,4,2,"[33, 38]"
+10,FloorPlan_Val3_4.json.gz,hard,BasketBall,5,3,"[32, 34, 36]"
+11,FloorPlan_Val3_4.json.gz,easy,BasketBall,1,1,[39]
+12,FloorPlan_Val3_4.json.gz,easy,Bowl,2,1,[40]
+13,FloorPlan_Val3_4.json.gz,hard,Bowl,5,3,"[47, 41, 45]"
+14,FloorPlan_Val3_4.json.gz,medium,Bowl,3,2,"[46, 44]"
+15,FloorPlan_Val3_4.json.gz,medium,GarbageCan,5,3,"[57, 54, 58]"
+16,FloorPlan_Val3_4.json.gz,hard,GarbageCan,5,3,"[59, 51, 56]"
+17,FloorPlan_Val3_4.json.gz,medium,HousePlant,3,2,"[69, 60]"
+18,FloorPlan_Val3_4.json.gz,easy,HousePlant,5,3,"[67, 63, 68]"
+19,FloorPlan_Val3_4.json.gz,hard,HousePlant,2,1,[66]
+20,FloorPlan_Val3_4.json.gz,medium,Laptop,9,5,"[75, 77, 71, 70, 79]"
+21,FloorPlan_Val3_4.json.gz,easy,Laptop,1,1,[76]
+22,FloorPlan_Val3_4.json.gz,hard,Mug,5,3,"[86, 80, 84]"
+23,FloorPlan_Val3_4.json.gz,easy,Mug,3,2,"[81, 87]"
+24,FloorPlan_Val3_4.json.gz,medium,Mug,2,1,[89]
+25,FloorPlan_Val3_4.json.gz,hard,SprayBottle,3,2,"[90, 94]"
+26,FloorPlan_Val3_4.json.gz,medium,SprayBottle,4,2,"[91, 99]"
+27,FloorPlan_Val3_4.json.gz,easy,SprayBottle,3,2,"[98, 93]"
+28,FloorPlan_Val3_4.json.gz,easy,Television,2,1,[100]
+29,FloorPlan_Val3_4.json.gz,medium,Television,4,2,"[108, 103]"
+30,FloorPlan_Val3_4.json.gz,hard,Television,4,2,"[104, 109]"
+31,FloorPlan_Val3_4.json.gz,hard,Vase,3,2,"[110, 113]"
+32,FloorPlan_Val3_4.json.gz,medium,Vase,3,2,"[112, 118]"
+33,FloorPlan_Val3_4.json.gz,easy,Vase,4,2,"[119, 116]"
+0,FloorPlan_Val2_3.json.gz,medium,AlarmClock,6,3,"[1, 9, 0]"
+1,FloorPlan_Val2_3.json.gz,hard,AlarmClock,4,2,"[2, 8]"
+2,FloorPlan_Val2_3.json.gz,hard,Apple,8,4,"[18, 13, 19, 12]"
+3,FloorPlan_Val2_3.json.gz,medium,Apple,1,1,[14]
+4,FloorPlan_Val2_3.json.gz,easy,Apple,1,1,[16]
+5,FloorPlan_Val2_3.json.gz,medium,BaseballBat,3,2,"[23, 20]"
+6,FloorPlan_Val2_3.json.gz,easy,BaseballBat,4,2,"[25, 28]"
+7,FloorPlan_Val2_3.json.gz,hard,BaseballBat,3,2,"[29, 24]"
+8,FloorPlan_Val2_3.json.gz,hard,BasketBall,3,2,"[32, 30]"
+9,FloorPlan_Val2_3.json.gz,medium,BasketBall,6,3,"[37, 31, 39]"
+10,FloorPlan_Val2_3.json.gz,easy,BasketBall,1,1,[35]
+11,FloorPlan_Val2_3.json.gz,medium,Bowl,6,3,"[45, 46, 48]"
+12,FloorPlan_Val2_3.json.gz,easy,Bowl,1,1,[41]
+13,FloorPlan_Val2_3.json.gz,hard,Bowl,3,2,"[44, 49]"
+14,FloorPlan_Val2_3.json.gz,hard,GarbageCan,7,4,"[50, 59, 53, 57]"
+15,FloorPlan_Val2_3.json.gz,medium,GarbageCan,2,1,[51]
+16,FloorPlan_Val2_3.json.gz,easy,GarbageCan,1,1,[54]
+17,FloorPlan_Val2_3.json.gz,medium,HousePlant,5,3,"[62, 67, 69]"
+18,FloorPlan_Val2_3.json.gz,easy,HousePlant,5,3,"[64, 66, 61]"
+19,FloorPlan_Val2_3.json.gz,hard,Laptop,4,2,"[77, 79]"
+20,FloorPlan_Val2_3.json.gz,medium,Laptop,3,2,"[71, 72]"
+21,FloorPlan_Val2_3.json.gz,easy,Laptop,3,2,"[76, 75]"
+22,FloorPlan_Val2_3.json.gz,hard,Mug,2,1,[81]
+23,FloorPlan_Val2_3.json.gz,medium,Mug,5,3,"[83, 87, 82]"
+24,FloorPlan_Val2_3.json.gz,easy,Mug,3,2,"[89, 85]"
+25,FloorPlan_Val2_3.json.gz,medium,SprayBottle,3,2,"[90, 94]"
+26,FloorPlan_Val2_3.json.gz,hard,SprayBottle,7,4,"[98, 95, 91, 93]"
+27,FloorPlan_Val2_3.json.gz,hard,Television,5,3,"[107, 105, 100]"
+28,FloorPlan_Val2_3.json.gz,medium,Television,4,2,"[106, 108]"
+29,FloorPlan_Val2_3.json.gz,easy,Television,1,1,[104]
+30,FloorPlan_Val2_3.json.gz,medium,Vase,4,2,"[112, 117]"
+31,FloorPlan_Val2_3.json.gz,easy,Vase,4,2,"[111, 114]"
+32,FloorPlan_Val2_3.json.gz,hard,Vase,2,1,[115]
+0,FloorPlan_Val1_1.json.gz,hard,AlarmClock,6,3,"[3, 2, 0]"
+1,FloorPlan_Val1_1.json.gz,medium,AlarmClock,3,2,"[1, 8]"
+2,FloorPlan_Val1_1.json.gz,easy,AlarmClock,1,1,[7]
+3,FloorPlan_Val1_1.json.gz,hard,Apple,8,4,"[10, 12, 16, 18]"
+4,FloorPlan_Val1_1.json.gz,medium,Apple,2,1,[19]
+5,FloorPlan_Val1_1.json.gz,medium,BaseballBat,8,4,"[26, 21, 20, 24]"
+6,FloorPlan_Val1_1.json.gz,hard,BaseballBat,2,1,[23]
+7,FloorPlan_Val1_1.json.gz,hard,BasketBall,3,2,"[38, 31]"
+8,FloorPlan_Val1_1.json.gz,easy,BasketBall,4,2,"[32, 37]"
+9,FloorPlan_Val1_1.json.gz,medium,BasketBall,3,2,"[34, 39]"
+10,FloorPlan_Val1_1.json.gz,easy,Bowl,1,1,[40]
+11,FloorPlan_Val1_1.json.gz,medium,Bowl,7,4,"[45, 48, 42, 43]"
+12,FloorPlan_Val1_1.json.gz,hard,Bowl,2,1,[44]
+13,FloorPlan_Val1_1.json.gz,easy,GarbageCan,3,2,"[55, 50]"
+14,FloorPlan_Val1_1.json.gz,medium,GarbageCan,3,2,"[56, 51]"
+15,FloorPlan_Val1_1.json.gz,hard,GarbageCan,4,2,"[57, 58]"
+16,FloorPlan_Val1_1.json.gz,medium,HousePlant,7,4,"[64, 65, 69, 62]"
+17,FloorPlan_Val1_1.json.gz,hard,HousePlant,1,1,[61]
+18,FloorPlan_Val1_1.json.gz,easy,HousePlant,2,1,[66]
+19,FloorPlan_Val1_1.json.gz,hard,Laptop,5,3,"[70, 78, 77]"
+20,FloorPlan_Val1_1.json.gz,easy,Laptop,3,2,"[71, 75]"
+21,FloorPlan_Val1_1.json.gz,medium,Laptop,2,1,[79]
+22,FloorPlan_Val1_1.json.gz,hard,Mug,5,3,"[80, 83, 82]"
+23,FloorPlan_Val1_1.json.gz,medium,Mug,2,1,[81]
+24,FloorPlan_Val1_1.json.gz,easy,Mug,3,2,"[87, 85]"
+25,FloorPlan_Val1_1.json.gz,easy,SprayBottle,3,2,"[98, 99]"
+26,FloorPlan_Val1_1.json.gz,medium,SprayBottle,3,2,"[93, 91]"
+27,FloorPlan_Val1_1.json.gz,hard,SprayBottle,4,2,"[92, 95]"
+28,FloorPlan_Val1_1.json.gz,hard,Television,6,3,"[109, 104, 102]"
+29,FloorPlan_Val1_1.json.gz,easy,Television,1,1,[101]
+30,FloorPlan_Val1_1.json.gz,medium,Television,3,2,"[105, 107]"
+31,FloorPlan_Val1_1.json.gz,medium,Vase,6,3,"[119, 115, 118]"
+32,FloorPlan_Val1_1.json.gz,easy,Vase,2,1,[116]
+33,FloorPlan_Val1_1.json.gz,hard,Vase,2,1,[112]
+0,FloorPlan_Val2_4.json.gz,hard,AlarmClock,8,4,"[3, 7, 4, 9]"
+1,FloorPlan_Val2_4.json.gz,medium,AlarmClock,2,1,[6]
+2,FloorPlan_Val2_4.json.gz,medium,Apple,5,3,"[10, 18, 11]"
+3,FloorPlan_Val2_4.json.gz,hard,Apple,5,3,"[16, 14, 12]"
+4,FloorPlan_Val2_4.json.gz,medium,BaseballBat,6,3,"[21, 26, 24]"
+5,FloorPlan_Val2_4.json.gz,easy,BaseballBat,3,2,"[22, 25]"
+6,FloorPlan_Val2_4.json.gz,hard,BaseballBat,1,1,[28]
+7,FloorPlan_Val2_4.json.gz,medium,BasketBall,4,2,"[30, 31]"
+8,FloorPlan_Val2_4.json.gz,hard,BasketBall,5,3,"[36, 35, 32]"
+9,FloorPlan_Val2_4.json.gz,easy,BasketBall,1,1,[33]
+10,FloorPlan_Val2_4.json.gz,medium,Bowl,2,1,[40]
+11,FloorPlan_Val2_4.json.gz,easy,Bowl,2,1,[41]
+12,FloorPlan_Val2_4.json.gz,hard,Bowl,6,3,"[46, 44, 43]"
+13,FloorPlan_Val2_4.json.gz,hard,GarbageCan,1,1,[50]
+14,FloorPlan_Val2_4.json.gz,medium,GarbageCan,3,2,"[52, 56]"
+15,FloorPlan_Val2_4.json.gz,easy,GarbageCan,6,3,"[54, 59, 55]"
+16,FloorPlan_Val2_4.json.gz,medium,HousePlant,5,3,"[67, 60, 65]"
+17,FloorPlan_Val2_4.json.gz,hard,HousePlant,3,2,"[62, 63]"
+18,FloorPlan_Val2_4.json.gz,easy,HousePlant,2,1,[64]
+19,FloorPlan_Val2_4.json.gz,hard,Laptop,7,4,"[74, 73, 77, 70]"
+20,FloorPlan_Val2_4.json.gz,easy,Laptop,2,1,[78]
+21,FloorPlan_Val2_4.json.gz,medium,Laptop,1,1,[72]
+22,FloorPlan_Val2_4.json.gz,medium,Mug,6,3,"[80, 86, 83]"
+23,FloorPlan_Val2_4.json.gz,easy,Mug,3,2,"[87, 82]"
+24,FloorPlan_Val2_4.json.gz,hard,Mug,1,1,[85]
+25,FloorPlan_Val2_4.json.gz,hard,SprayBottle,6,3,"[91, 94, 99]"
+26,FloorPlan_Val2_4.json.gz,medium,SprayBottle,4,2,"[97, 98]"
+27,FloorPlan_Val2_4.json.gz,medium,Television,7,4,"[104, 105, 107, 106]"
+28,FloorPlan_Val2_4.json.gz,easy,Television,3,2,"[109, 102]"
+29,FloorPlan_Val2_4.json.gz,easy,Vase,1,1,[110]
+30,FloorPlan_Val2_4.json.gz,hard,Vase,5,3,"[119, 111, 112]"
+31,FloorPlan_Val2_4.json.gz,medium,Vase,4,2,"[115, 117]"
+0,FloorPlan_Val2_1.json.gz,hard,AlarmClock,4,2,"[4, 9]"
+1,FloorPlan_Val2_1.json.gz,medium,AlarmClock,4,2,"[1, 3]"
+2,FloorPlan_Val2_1.json.gz,easy,AlarmClock,2,1,[2]
+3,FloorPlan_Val2_1.json.gz,hard,Apple,5,3,"[13, 10, 16]"
+4,FloorPlan_Val2_1.json.gz,medium,Apple,5,3,"[18, 14, 11]"
+5,FloorPlan_Val2_1.json.gz,medium,BaseballBat,4,2,"[28, 27]"
+6,FloorPlan_Val2_1.json.gz,hard,BaseballBat,5,3,"[25, 24, 29]"
+7,FloorPlan_Val2_1.json.gz,easy,BaseballBat,1,1,[26]
+8,FloorPlan_Val2_1.json.gz,easy,BasketBall,6,3,"[39, 32, 38]"
+9,FloorPlan_Val2_1.json.gz,medium,BasketBall,4,2,"[35, 33]"
+10,FloorPlan_Val2_1.json.gz,medium,Bowl,5,3,"[45, 40, 41]"
+11,FloorPlan_Val2_1.json.gz,hard,Bowl,3,2,"[44, 42]"
+12,FloorPlan_Val2_1.json.gz,easy,Bowl,2,1,[43]
+13,FloorPlan_Val2_1.json.gz,hard,GarbageCan,2,1,[52]
+14,FloorPlan_Val2_1.json.gz,medium,GarbageCan,6,3,"[54, 51, 57]"
+15,FloorPlan_Val2_1.json.gz,easy,GarbageCan,2,1,[58]
+16,FloorPlan_Val2_1.json.gz,medium,HousePlant,4,2,"[66, 65]"
+17,FloorPlan_Val2_1.json.gz,hard,HousePlant,4,2,"[67, 64]"
+18,FloorPlan_Val2_1.json.gz,easy,HousePlant,2,1,[69]
+19,FloorPlan_Val2_1.json.gz,easy,Laptop,1,1,[70]
+20,FloorPlan_Val2_1.json.gz,medium,Laptop,2,1,[71]
+21,FloorPlan_Val2_1.json.gz,hard,Laptop,7,4,"[79, 75, 72, 74]"
+22,FloorPlan_Val2_1.json.gz,hard,Mug,2,1,[80]
+23,FloorPlan_Val2_1.json.gz,easy,Mug,5,3,"[86, 89, 81]"
+24,FloorPlan_Val2_1.json.gz,medium,Mug,3,2,"[84, 82]"
+25,FloorPlan_Val2_1.json.gz,hard,SprayBottle,9,5,"[91, 92, 95, 96, 99]"
+26,FloorPlan_Val2_1.json.gz,medium,SprayBottle,1,1,[98]
+27,FloorPlan_Val2_1.json.gz,easy,Television,2,1,[100]
+28,FloorPlan_Val2_1.json.gz,hard,Television,4,2,"[104, 101]"
+29,FloorPlan_Val2_1.json.gz,medium,Television,4,2,"[109, 103]"
+30,FloorPlan_Val2_1.json.gz,medium,Vase,6,3,"[116, 115, 110]"
+31,FloorPlan_Val2_1.json.gz,hard,Vase,3,2,"[118, 117]"
+32,FloorPlan_Val2_1.json.gz,easy,Vase,1,1,[113]
+0,FloorPlan_Val3_2.json.gz,hard,AlarmClock,6,3,"[3, 7, 2]"
+1,FloorPlan_Val3_2.json.gz,medium,AlarmClock,4,2,"[5, 4]"
+2,FloorPlan_Val3_2.json.gz,medium,Apple,7,4,"[13, 14, 10, 11]"
+3,FloorPlan_Val3_2.json.gz,easy,Apple,3,2,"[12, 16]"
+4,FloorPlan_Val3_2.json.gz,hard,BaseballBat,5,3,"[27, 26, 20]"
+5,FloorPlan_Val3_2.json.gz,easy,BaseballBat,3,2,"[25, 21]"
+6,FloorPlan_Val3_2.json.gz,medium,BaseballBat,2,1,[24]
+7,FloorPlan_Val3_2.json.gz,easy,BasketBall,3,2,"[35, 38]"
+8,FloorPlan_Val3_2.json.gz,hard,BasketBall,3,2,"[34, 31]"
+9,FloorPlan_Val3_2.json.gz,medium,BasketBall,4,2,"[37, 33]"
+10,FloorPlan_Val3_2.json.gz,hard,Bowl,8,4,"[42, 40, 45, 44]"
+11,FloorPlan_Val3_2.json.gz,medium,Bowl,2,1,[41]
+12,FloorPlan_Val3_2.json.gz,hard,GarbageCan,6,3,"[54, 55, 53]"
+13,FloorPlan_Val3_2.json.gz,medium,GarbageCan,3,2,"[51, 58]"
+14,FloorPlan_Val3_2.json.gz,easy,GarbageCan,1,1,[52]
+15,FloorPlan_Val3_2.json.gz,medium,HousePlant,3,2,"[65, 60]"
+16,FloorPlan_Val3_2.json.gz,hard,HousePlant,6,3,"[62, 66, 67]"
+17,FloorPlan_Val3_2.json.gz,easy,HousePlant,1,1,[64]
+18,FloorPlan_Val3_2.json.gz,medium,Laptop,2,1,[70]
+19,FloorPlan_Val3_2.json.gz,hard,Laptop,5,3,"[79, 71, 75]"
+20,FloorPlan_Val3_2.json.gz,easy,Laptop,3,2,"[78, 73]"
+21,FloorPlan_Val3_2.json.gz,hard,Mug,3,2,"[85, 87]"
+22,FloorPlan_Val3_2.json.gz,medium,Mug,5,3,"[89, 88, 84]"
+23,FloorPlan_Val3_2.json.gz,easy,Mug,2,1,[82]
+24,FloorPlan_Val3_2.json.gz,medium,SprayBottle,7,4,"[93, 90, 92, 95]"
+25,FloorPlan_Val3_2.json.gz,hard,SprayBottle,2,1,[98]
+26,FloorPlan_Val3_2.json.gz,easy,SprayBottle,1,1,[99]
+27,FloorPlan_Val3_2.json.gz,medium,Television,6,3,"[100, 108, 104]"
+28,FloorPlan_Val3_2.json.gz,easy,Television,3,2,"[101, 107]"
+29,FloorPlan_Val3_2.json.gz,hard,Television,1,1,[102]
+30,FloorPlan_Val3_2.json.gz,hard,Vase,3,2,"[110, 116]"
+31,FloorPlan_Val3_2.json.gz,easy,Vase,2,1,[118]
+32,FloorPlan_Val3_2.json.gz,medium,Vase,5,3,"[117, 115, 114]"
+0,FloorPlan_Val3_1.json.gz,medium,AlarmClock,3,2,"[0, 1]"
+1,FloorPlan_Val3_1.json.gz,hard,AlarmClock,6,3,"[4, 2, 8]"
+2,FloorPlan_Val3_1.json.gz,easy,AlarmClock,1,1,[6]
+3,FloorPlan_Val3_1.json.gz,hard,Apple,5,3,"[11, 16, 10]"
+4,FloorPlan_Val3_1.json.gz,medium,Apple,5,3,"[13, 14, 15]"
+5,FloorPlan_Val3_1.json.gz,medium,BaseballBat,5,3,"[21, 20, 28]"
+6,FloorPlan_Val3_1.json.gz,hard,BaseballBat,5,3,"[23, 29, 26]"
+7,FloorPlan_Val3_1.json.gz,medium,BasketBall,3,2,"[38, 30]"
+8,FloorPlan_Val3_1.json.gz,hard,BasketBall,5,3,"[31, 32, 35]"
+9,FloorPlan_Val3_1.json.gz,easy,BasketBall,2,1,[39]
+10,FloorPlan_Val3_1.json.gz,hard,Bowl,4,2,"[41, 40]"
+11,FloorPlan_Val3_1.json.gz,medium,Bowl,4,2,"[42, 48]"
+12,FloorPlan_Val3_1.json.gz,easy,Bowl,2,1,[46]
+13,FloorPlan_Val3_1.json.gz,hard,GarbageCan,3,2,"[57, 50]"
+14,FloorPlan_Val3_1.json.gz,medium,GarbageCan,5,3,"[52, 58, 53]"
+15,FloorPlan_Val3_1.json.gz,easy,GarbageCan,2,1,[54]
+16,FloorPlan_Val3_1.json.gz,medium,HousePlant,7,4,"[63, 69, 60, 61]"
+17,FloorPlan_Val3_1.json.gz,easy,HousePlant,3,2,"[66, 68]"
+18,FloorPlan_Val3_1.json.gz,hard,Laptop,6,3,"[74, 79, 70]"
+19,FloorPlan_Val3_1.json.gz,easy,Laptop,2,1,[75]
+20,FloorPlan_Val3_1.json.gz,medium,Laptop,2,1,[76]
+21,FloorPlan_Val3_1.json.gz,hard,Mug,7,4,"[80, 86, 89, 85]"
+22,FloorPlan_Val3_1.json.gz,medium,Mug,2,1,[83]
+23,FloorPlan_Val3_1.json.gz,easy,Mug,1,1,[84]
+24,FloorPlan_Val3_1.json.gz,medium,SprayBottle,3,2,"[97, 90]"
+25,FloorPlan_Val3_1.json.gz,easy,SprayBottle,2,1,[98]
+26,FloorPlan_Val3_1.json.gz,hard,SprayBottle,5,3,"[99, 93, 94]"
+27,FloorPlan_Val3_1.json.gz,hard,Television,1,1,[100]
+28,FloorPlan_Val3_1.json.gz,easy,Television,2,1,[105]
+29,FloorPlan_Val3_1.json.gz,medium,Television,7,4,"[108, 103, 102, 104]"
+30,FloorPlan_Val3_1.json.gz,medium,Vase,8,4,"[111, 110, 115, 112]"
+31,FloorPlan_Val3_1.json.gz,hard,Vase,1,1,[117]
+32,FloorPlan_Val3_1.json.gz,easy,Vase,1,1,[118]
+0,FloorPlan_Val1_3.json.gz,medium,AlarmClock,3,2,"[1, 4]"
+1,FloorPlan_Val1_3.json.gz,easy,AlarmClock,2,1,[2]
+2,FloorPlan_Val1_3.json.gz,hard,AlarmClock,5,3,"[9, 6, 7]"
+3,FloorPlan_Val1_3.json.gz,medium,Apple,5,3,"[10, 14, 17]"
+4,FloorPlan_Val1_3.json.gz,hard,Apple,3,2,"[13, 19]"
+5,FloorPlan_Val1_3.json.gz,easy,Apple,2,1,[18]
+6,FloorPlan_Val1_3.json.gz,hard,BaseballBat,5,3,"[22, 21, 25]"
+7,FloorPlan_Val1_3.json.gz,medium,BaseballBat,4,2,"[28, 26]"
+8,FloorPlan_Val1_3.json.gz,easy,BaseballBat,1,1,[27]
+9,FloorPlan_Val1_3.json.gz,medium,BasketBall,6,3,"[38, 36, 34]"
+10,FloorPlan_Val1_3.json.gz,hard,BasketBall,2,1,[32]
+11,FloorPlan_Val1_3.json.gz,easy,BasketBall,2,1,[39]
+12,FloorPlan_Val1_3.json.gz,medium,Bowl,4,2,"[41, 40]"
+13,FloorPlan_Val1_3.json.gz,easy,Bowl,3,2,"[48, 45]"
+14,FloorPlan_Val1_3.json.gz,hard,Bowl,3,2,"[44, 46]"
+15,FloorPlan_Val1_3.json.gz,hard,GarbageCan,3,2,"[54, 58]"
+16,FloorPlan_Val1_3.json.gz,medium,GarbageCan,5,3,"[57, 52, 51]"
+17,FloorPlan_Val1_3.json.gz,easy,GarbageCan,2,1,[56]
+18,FloorPlan_Val1_3.json.gz,medium,HousePlant,4,2,"[63, 62]"
+19,FloorPlan_Val1_3.json.gz,easy,HousePlant,2,1,[61]
+20,FloorPlan_Val1_3.json.gz,hard,HousePlant,4,2,"[67, 64]"
+21,FloorPlan_Val1_3.json.gz,easy,Laptop,3,2,"[70, 76]"
+22,FloorPlan_Val1_3.json.gz,medium,Laptop,3,2,"[78, 71]"
+23,FloorPlan_Val1_3.json.gz,hard,Laptop,4,2,"[73, 75]"
+24,FloorPlan_Val1_3.json.gz,medium,Mug,4,2,"[80, 88]"
+25,FloorPlan_Val1_3.json.gz,hard,Mug,4,2,"[81, 86]"
+26,FloorPlan_Val1_3.json.gz,easy,Mug,2,1,[84]
+27,FloorPlan_Val1_3.json.gz,medium,SprayBottle,5,3,"[91, 90, 92]"
+28,FloorPlan_Val1_3.json.gz,easy,SprayBottle,2,1,[93]
+29,FloorPlan_Val1_3.json.gz,hard,SprayBottle,3,2,"[96, 94]"
+30,FloorPlan_Val1_3.json.gz,medium,Television,5,3,"[103, 108, 100]"
+31,FloorPlan_Val1_3.json.gz,easy,Television,2,1,[106]
+32,FloorPlan_Val1_3.json.gz,hard,Television,3,2,"[109, 107]"
+33,FloorPlan_Val1_3.json.gz,medium,Vase,1,1,[110]
+34,FloorPlan_Val1_3.json.gz,hard,Vase,9,5,"[111, 115, 112, 113, 116]"
+0,FloorPlan_Val3_5.json.gz,medium,AlarmClock,5,3,"[7, 2, 3]"
+1,FloorPlan_Val3_5.json.gz,easy,AlarmClock,1,1,[1]
+2,FloorPlan_Val3_5.json.gz,hard,AlarmClock,4,2,"[6, 4]"
+3,FloorPlan_Val3_5.json.gz,easy,Apple,4,2,"[10, 12]"
+4,FloorPlan_Val3_5.json.gz,medium,Apple,5,3,"[11, 17, 14]"
+5,FloorPlan_Val3_5.json.gz,hard,Apple,1,1,[15]
+6,FloorPlan_Val3_5.json.gz,medium,BaseballBat,4,2,"[25, 27]"
+7,FloorPlan_Val3_5.json.gz,hard,BaseballBat,6,3,"[21, 23, 26]"
+8,FloorPlan_Val3_5.json.gz,medium,BasketBall,4,2,"[34, 30]"
+9,FloorPlan_Val3_5.json.gz,hard,BasketBall,6,3,"[31, 37, 39]"
+10,FloorPlan_Val3_5.json.gz,easy,Bowl,4,2,"[49, 48]"
+11,FloorPlan_Val3_5.json.gz,medium,Bowl,3,2,"[44, 41]"
+12,FloorPlan_Val3_5.json.gz,hard,Bowl,3,2,"[43, 45]"
+13,FloorPlan_Val3_5.json.gz,hard,GarbageCan,4,2,"[50, 54]"
+14,FloorPlan_Val3_5.json.gz,medium,GarbageCan,3,2,"[52, 59]"
+15,FloorPlan_Val3_5.json.gz,easy,GarbageCan,3,2,"[58, 56]"
+16,FloorPlan_Val3_5.json.gz,hard,HousePlant,5,3,"[60, 62, 65]"
+17,FloorPlan_Val3_5.json.gz,easy,HousePlant,3,2,"[63, 68]"
+18,FloorPlan_Val3_5.json.gz,medium,HousePlant,2,1,[67]
+19,FloorPlan_Val3_5.json.gz,medium,Laptop,5,3,"[74, 70, 72]"
+20,FloorPlan_Val3_5.json.gz,easy,Laptop,3,2,"[78, 73]"
+21,FloorPlan_Val3_5.json.gz,hard,Laptop,2,1,[76]
+22,FloorPlan_Val3_5.json.gz,medium,Mug,6,3,"[87, 83, 88]"
+23,FloorPlan_Val3_5.json.gz,hard,Mug,3,2,"[84, 85]"
+24,FloorPlan_Val3_5.json.gz,easy,Mug,1,1,[89]
+25,FloorPlan_Val3_5.json.gz,hard,SprayBottle,5,3,"[98, 90, 94]"
+26,FloorPlan_Val3_5.json.gz,medium,SprayBottle,4,2,"[99, 96]"
+27,FloorPlan_Val3_5.json.gz,easy,SprayBottle,1,1,[97]
+28,FloorPlan_Val3_5.json.gz,easy,Television,3,2,"[106, 100]"
+29,FloorPlan_Val3_5.json.gz,medium,Television,2,1,[107]
+30,FloorPlan_Val3_5.json.gz,hard,Television,5,3,"[103, 102, 109]"
+31,FloorPlan_Val3_5.json.gz,medium,Vase,5,3,"[112, 116, 110]"
+32,FloorPlan_Val3_5.json.gz,easy,Vase,1,1,[111]
+33,FloorPlan_Val3_5.json.gz,hard,Vase,4,2,"[115, 118]"
+0,FloorPlan_Val3_3.json.gz,hard,AlarmClock,5,3,"[5, 7, 2]"
+1,FloorPlan_Val3_3.json.gz,easy,AlarmClock,2,1,[9]
+2,FloorPlan_Val3_3.json.gz,medium,AlarmClock,3,2,"[3, 8]"
+3,FloorPlan_Val3_3.json.gz,medium,Apple,6,3,"[19, 12, 10]"
+4,FloorPlan_Val3_3.json.gz,hard,Apple,3,2,"[18, 13]"
+5,FloorPlan_Val3_3.json.gz,easy,Apple,1,1,[15]
+6,FloorPlan_Val3_3.json.gz,easy,BaseballBat,4,2,"[20, 28]"
+7,FloorPlan_Val3_3.json.gz,medium,BaseballBat,5,3,"[27, 23, 22]"
+8,FloorPlan_Val3_3.json.gz,hard,BaseballBat,1,1,[29]
+9,FloorPlan_Val3_3.json.gz,hard,BasketBall,7,4,"[39, 37, 33, 30]"
+10,FloorPlan_Val3_3.json.gz,medium,BasketBall,1,1,[32]
+11,FloorPlan_Val3_3.json.gz,easy,BasketBall,2,1,[36]
+12,FloorPlan_Val3_3.json.gz,easy,Bowl,2,1,[40]
+13,FloorPlan_Val3_3.json.gz,hard,Bowl,5,3,"[48, 42, 43]"
+14,FloorPlan_Val3_3.json.gz,medium,Bowl,3,2,"[47, 46]"
+15,FloorPlan_Val3_3.json.gz,medium,GarbageCan,6,3,"[50, 58, 52]"
+16,FloorPlan_Val3_3.json.gz,easy,GarbageCan,1,1,[51]
+17,FloorPlan_Val3_3.json.gz,hard,GarbageCan,3,2,"[55, 54]"
+18,FloorPlan_Val3_3.json.gz,medium,HousePlant,3,2,"[66, 65]"
+19,FloorPlan_Val3_3.json.gz,hard,HousePlant,5,3,"[61, 67, 63]"
+20,FloorPlan_Val3_3.json.gz,easy,HousePlant,2,1,[69]
+21,FloorPlan_Val3_3.json.gz,hard,Laptop,4,2,"[75, 71]"
+22,FloorPlan_Val3_3.json.gz,medium,Laptop,4,2,"[73, 77]"
+23,FloorPlan_Val3_3.json.gz,easy,Laptop,2,1,[74]
+24,FloorPlan_Val3_3.json.gz,hard,Mug,4,2,"[85, 88]"
+25,FloorPlan_Val3_3.json.gz,medium,Mug,3,2,"[81, 87]"
+26,FloorPlan_Val3_3.json.gz,easy,Mug,3,2,"[83, 82]"
+27,FloorPlan_Val3_3.json.gz,hard,SprayBottle,5,3,"[97, 90, 93]"
+28,FloorPlan_Val3_3.json.gz,medium,SprayBottle,5,3,"[91, 98, 96]"
+29,FloorPlan_Val3_3.json.gz,medium,Television,6,3,"[106, 101, 102]"
+30,FloorPlan_Val3_3.json.gz,hard,Television,2,1,[104]
+31,FloorPlan_Val3_3.json.gz,easy,Television,2,1,[109]
+32,FloorPlan_Val3_3.json.gz,hard,Vase,4,2,"[114, 110]"
+33,FloorPlan_Val3_3.json.gz,easy,Vase,2,1,[113]
+34,FloorPlan_Val3_3.json.gz,medium,Vase,4,2,"[115, 119]"
+0,FloorPlan_Val2_2.json.gz,hard,AlarmClock,6,3,"[5, 3, 9]"
+1,FloorPlan_Val2_2.json.gz,medium,AlarmClock,4,2,"[6, 2]"
+2,FloorPlan_Val2_2.json.gz,medium,Apple,6,3,"[17, 15, 14]"
+3,FloorPlan_Val2_2.json.gz,hard,Apple,4,2,"[16, 12]"
+4,FloorPlan_Val2_2.json.gz,easy,BaseballBat,3,2,"[26, 21]"
+5,FloorPlan_Val2_2.json.gz,hard,BaseballBat,3,2,"[22, 24]"
+6,FloorPlan_Val2_2.json.gz,medium,BaseballBat,4,2,"[29, 25]"
+7,FloorPlan_Val2_2.json.gz,easy,BasketBall,3,2,"[36, 31]"
+8,FloorPlan_Val2_2.json.gz,hard,BasketBall,4,2,"[39, 32]"
+9,FloorPlan_Val2_2.json.gz,medium,BasketBall,3,2,"[34, 35]"
+10,FloorPlan_Val2_2.json.gz,hard,Bowl,1,1,[40]
+11,FloorPlan_Val2_2.json.gz,easy,Bowl,6,3,"[48, 45, 44]"
+12,FloorPlan_Val2_2.json.gz,medium,Bowl,3,2,"[43, 47]"
+13,FloorPlan_Val2_2.json.gz,medium,GarbageCan,5,3,"[50, 54, 53]"
+14,FloorPlan_Val2_2.json.gz,hard,GarbageCan,4,2,"[56, 52]"
+15,FloorPlan_Val2_2.json.gz,easy,GarbageCan,1,1,[59]
+16,FloorPlan_Val2_2.json.gz,hard,HousePlant,5,3,"[64, 61, 60]"
+17,FloorPlan_Val2_2.json.gz,medium,HousePlant,4,2,"[67, 68]"
+18,FloorPlan_Val2_2.json.gz,easy,HousePlant,1,1,[69]
+19,FloorPlan_Val2_2.json.gz,medium,Laptop,2,1,[70]
+20,FloorPlan_Val2_2.json.gz,hard,Laptop,6,3,"[75, 74, 77]"
+21,FloorPlan_Val2_2.json.gz,easy,Laptop,2,1,[76]
+22,FloorPlan_Val2_2.json.gz,medium,Mug,5,3,"[81, 83, 86]"
+23,FloorPlan_Val2_2.json.gz,hard,Mug,5,3,"[82, 88, 89]"
+24,FloorPlan_Val2_2.json.gz,easy,SprayBottle,3,2,"[93, 90]"
+25,FloorPlan_Val2_2.json.gz,medium,SprayBottle,3,2,"[98, 99]"
+26,FloorPlan_Val2_2.json.gz,hard,SprayBottle,4,2,"[94, 97]"
+27,FloorPlan_Val2_2.json.gz,hard,Television,2,1,[100]
+28,FloorPlan_Val2_2.json.gz,medium,Television,7,4,"[109, 105, 103, 107]"
+29,FloorPlan_Val2_2.json.gz,easy,Television,1,1,[102]
+30,FloorPlan_Val2_2.json.gz,hard,Vase,4,2,"[116, 110]"
+31,FloorPlan_Val2_2.json.gz,easy,Vase,4,2,"[113, 114]"
+32,FloorPlan_Val2_2.json.gz,medium,Vase,2,1,[112]
+0,FloorPlan_Val1_2.json.gz,medium,AlarmClock,3,2,"[6, 3]"
+1,FloorPlan_Val1_2.json.gz,hard,AlarmClock,5,3,"[1, 4, 8]"
+2,FloorPlan_Val1_2.json.gz,easy,AlarmClock,2,1,[7]
+3,FloorPlan_Val1_2.json.gz,hard,Apple,2,1,[12]
+4,FloorPlan_Val1_2.json.gz,medium,Apple,4,2,"[14, 13]"
+5,FloorPlan_Val1_2.json.gz,easy,Apple,4,2,"[18, 19]"
+6,FloorPlan_Val1_2.json.gz,easy,BaseballBat,2,1,[20]
+7,FloorPlan_Val1_2.json.gz,medium,BaseballBat,5,3,"[24, 27, 21]"
+8,FloorPlan_Val1_2.json.gz,hard,BaseballBat,3,2,"[25, 29]"
+9,FloorPlan_Val1_2.json.gz,easy,BasketBall,2,1,[36]
+10,FloorPlan_Val1_2.json.gz,medium,BasketBall,3,2,"[38, 31]"
+11,FloorPlan_Val1_2.json.gz,hard,BasketBall,5,3,"[32, 39, 34]"
+12,FloorPlan_Val1_2.json.gz,hard,Bowl,7,4,"[45, 43, 47, 48]"
+13,FloorPlan_Val1_2.json.gz,medium,Bowl,3,2,"[44, 46]"
+14,FloorPlan_Val1_2.json.gz,hard,GarbageCan,4,2,"[50, 57]"
+15,FloorPlan_Val1_2.json.gz,medium,GarbageCan,4,2,"[51, 58]"
+16,FloorPlan_Val1_2.json.gz,easy,GarbageCan,2,1,[53]
+17,FloorPlan_Val1_2.json.gz,medium,HousePlant,5,3,"[65, 63, 60]"
+18,FloorPlan_Val1_2.json.gz,hard,HousePlant,1,1,[61]
+19,FloorPlan_Val1_2.json.gz,easy,HousePlant,4,2,"[67, 62]"
+20,FloorPlan_Val1_2.json.gz,hard,Laptop,8,4,"[74, 73, 72, 78]"
+21,FloorPlan_Val1_2.json.gz,medium,Laptop,2,1,[79]
+22,FloorPlan_Val1_2.json.gz,medium,Mug,4,2,"[80, 83]"
+23,FloorPlan_Val1_2.json.gz,hard,Mug,4,2,"[81, 84]"
+24,FloorPlan_Val1_2.json.gz,easy,Mug,2,1,[89]
+25,FloorPlan_Val1_2.json.gz,easy,SprayBottle,3,2,"[96, 93]"
+26,FloorPlan_Val1_2.json.gz,medium,SprayBottle,6,3,"[99, 97, 98]"
+27,FloorPlan_Val1_2.json.gz,hard,SprayBottle,1,1,[94]
+28,FloorPlan_Val1_2.json.gz,hard,Television,6,3,"[104, 106, 100]"
+29,FloorPlan_Val1_2.json.gz,easy,Television,2,1,[109]
+30,FloorPlan_Val1_2.json.gz,medium,Television,2,1,[103]
+31,FloorPlan_Val1_2.json.gz,medium,Vase,8,4,"[111, 119, 110, 118]"
+32,FloorPlan_Val1_2.json.gz,hard,Vase,2,1,[113]
+0,FloorPlan_Val1_4.json.gz,easy,AlarmClock,2,1,[1]
+1,FloorPlan_Val1_4.json.gz,medium,AlarmClock,7,4,"[3, 5, 2, 7]"
+2,FloorPlan_Val1_4.json.gz,hard,AlarmClock,1,1,[4]
+3,FloorPlan_Val1_4.json.gz,medium,Apple,4,2,"[11, 10]"
+4,FloorPlan_Val1_4.json.gz,easy,Apple,4,2,"[14, 12]"
+5,FloorPlan_Val1_4.json.gz,hard,Apple,2,1,[13]
+6,FloorPlan_Val1_4.json.gz,hard,BaseballBat,3,2,"[20, 22]"
+7,FloorPlan_Val1_4.json.gz,easy,BaseballBat,2,1,[25]
+8,FloorPlan_Val1_4.json.gz,medium,BaseballBat,5,3,"[24, 29, 28]"
+9,FloorPlan_Val1_4.json.gz,medium,BasketBall,6,3,"[33, 30, 36]"
+10,FloorPlan_Val1_4.json.gz,hard,BasketBall,1,1,[31]
+11,FloorPlan_Val1_4.json.gz,easy,BasketBall,3,2,"[38, 35]"
+12,FloorPlan_Val1_4.json.gz,medium,Bowl,5,3,"[45, 40, 46]"
+13,FloorPlan_Val1_4.json.gz,easy,Bowl,4,2,"[44, 43]"
+14,FloorPlan_Val1_4.json.gz,hard,Bowl,1,1,[42]
+15,FloorPlan_Val1_4.json.gz,hard,GarbageCan,8,4,"[50, 57, 55, 56]"
+16,FloorPlan_Val1_4.json.gz,easy,GarbageCan,1,1,[52]
+17,FloorPlan_Val1_4.json.gz,medium,GarbageCan,1,1,[58]
+18,FloorPlan_Val1_4.json.gz,hard,HousePlant,6,3,"[61, 66, 65]"
+19,FloorPlan_Val1_4.json.gz,medium,HousePlant,3,2,"[64, 62]"
+20,FloorPlan_Val1_4.json.gz,easy,HousePlant,1,1,[63]
+21,FloorPlan_Val1_4.json.gz,hard,Laptop,7,4,"[73, 77, 70, 71]"
+22,FloorPlan_Val1_4.json.gz,medium,Laptop,3,2,"[74, 72]"
+23,FloorPlan_Val1_4.json.gz,easy,Mug,3,2,"[84, 85]"
+24,FloorPlan_Val1_4.json.gz,hard,Mug,3,2,"[83, 81]"
+25,FloorPlan_Val1_4.json.gz,medium,Mug,4,2,"[87, 86]"
+26,FloorPlan_Val1_4.json.gz,hard,SprayBottle,5,3,"[92, 96, 91]"
+27,FloorPlan_Val1_4.json.gz,medium,SprayBottle,5,3,"[98, 95, 99]"
+28,FloorPlan_Val1_4.json.gz,hard,Television,4,2,"[100, 103]"
+29,FloorPlan_Val1_4.json.gz,medium,Television,3,2,"[101, 106]"
+30,FloorPlan_Val1_4.json.gz,easy,Television,3,2,"[109, 104]"
+31,FloorPlan_Val1_4.json.gz,easy,Vase,1,1,[110]
+32,FloorPlan_Val1_4.json.gz,hard,Vase,7,4,"[115, 114, 118, 117]"
+33,FloorPlan_Val1_4.json.gz,medium,Vase,2,1,[113]
+0,FloorPlan_Val1_5.json.gz,hard,AlarmClock,2,1,[0]
+1,FloorPlan_Val1_5.json.gz,medium,AlarmClock,7,4,"[1, 9, 8, 2]"
+2,FloorPlan_Val1_5.json.gz,easy,AlarmClock,1,1,[4]
+3,FloorPlan_Val1_5.json.gz,hard,Apple,4,2,"[11, 13]"
+4,FloorPlan_Val1_5.json.gz,medium,Apple,5,3,"[19, 12, 17]"
+5,FloorPlan_Val1_5.json.gz,easy,Apple,1,1,[15]
+6,FloorPlan_Val1_5.json.gz,hard,BaseballBat,6,3,"[20, 27, 22]"
+7,FloorPlan_Val1_5.json.gz,easy,BaseballBat,2,1,[25]
+8,FloorPlan_Val1_5.json.gz,medium,BaseballBat,2,1,[26]
+9,FloorPlan_Val1_5.json.gz,easy,BasketBall,4,2,"[30, 35]"
+10,FloorPlan_Val1_5.json.gz,hard,BasketBall,3,2,"[36, 39]"
+11,FloorPlan_Val1_5.json.gz,medium,BasketBall,3,2,"[37, 34]"
+12,FloorPlan_Val1_5.json.gz,medium,Bowl,6,3,"[49, 45, 43]"
+13,FloorPlan_Val1_5.json.gz,easy,Bowl,1,1,[41]
+14,FloorPlan_Val1_5.json.gz,hard,Bowl,3,2,"[47, 42]"
+15,FloorPlan_Val1_5.json.gz,easy,GarbageCan,4,2,"[54, 59]"
+16,FloorPlan_Val1_5.json.gz,medium,GarbageCan,4,2,"[53, 51]"
+17,FloorPlan_Val1_5.json.gz,hard,GarbageCan,2,1,[57]
+18,FloorPlan_Val1_5.json.gz,easy,HousePlant,1,1,[60]
+19,FloorPlan_Val1_5.json.gz,hard,HousePlant,8,4,"[66, 68, 61, 69]"
+20,FloorPlan_Val1_5.json.gz,medium,HousePlant,1,1,[67]
+21,FloorPlan_Val1_5.json.gz,easy,Laptop,1,1,[70]
+22,FloorPlan_Val1_5.json.gz,medium,Laptop,9,5,"[73, 75, 74, 78, 72]"
+23,FloorPlan_Val1_5.json.gz,hard,Mug,6,3,"[81, 83, 87]"
+24,FloorPlan_Val1_5.json.gz,easy,Mug,1,1,[82]
+25,FloorPlan_Val1_5.json.gz,medium,Mug,3,2,"[84, 86]"
+26,FloorPlan_Val1_5.json.gz,easy,SprayBottle,4,2,"[91, 90]"
+27,FloorPlan_Val1_5.json.gz,medium,SprayBottle,4,2,"[98, 92]"
+28,FloorPlan_Val1_5.json.gz,hard,SprayBottle,2,1,[95]
+29,FloorPlan_Val1_5.json.gz,hard,Television,4,2,"[100, 102]"
+30,FloorPlan_Val1_5.json.gz,medium,Television,4,2,"[109, 101]"
+31,FloorPlan_Val1_5.json.gz,easy,Television,2,1,[108]
+32,FloorPlan_Val1_5.json.gz,hard,Vase,8,4,"[117, 111, 118, 114]"
+33,FloorPlan_Val1_5.json.gz,easy,Vase,1,1,[113]
+34,FloorPlan_Val1_5.json.gz,medium,Vase,1,1,[115]
+0,FloorPlan_Val2_5.json.gz,hard,AlarmClock,6,3,"[8, 3, 0]"
+1,FloorPlan_Val2_5.json.gz,medium,AlarmClock,3,2,"[6, 2]"
+2,FloorPlan_Val2_5.json.gz,easy,AlarmClock,1,1,[5]
+3,FloorPlan_Val2_5.json.gz,hard,Apple,6,3,"[15, 12, 14]"
+4,FloorPlan_Val2_5.json.gz,easy,Apple,1,1,[11]
+5,FloorPlan_Val2_5.json.gz,medium,Apple,3,2,"[17, 13]"
+6,FloorPlan_Val2_5.json.gz,medium,BaseballBat,4,2,"[20, 21]"
+7,FloorPlan_Val2_5.json.gz,hard,BaseballBat,5,3,"[27, 29, 24]"
+8,FloorPlan_Val2_5.json.gz,easy,BaseballBat,1,1,[26]
+9,FloorPlan_Val2_5.json.gz,hard,BasketBall,6,3,"[35, 38, 31]"
+10,FloorPlan_Val2_5.json.gz,medium,BasketBall,4,2,"[34, 32]"
+11,FloorPlan_Val2_5.json.gz,hard,Bowl,7,4,"[40, 46, 45, 49]"
+12,FloorPlan_Val2_5.json.gz,easy,Bowl,1,1,[42]
+13,FloorPlan_Val2_5.json.gz,medium,Bowl,2,1,[48]
+14,FloorPlan_Val2_5.json.gz,medium,GarbageCan,5,3,"[55, 53, 57]"
+15,FloorPlan_Val2_5.json.gz,easy,GarbageCan,3,2,"[56, 52]"
+16,FloorPlan_Val2_5.json.gz,hard,GarbageCan,2,1,[54]
+17,FloorPlan_Val2_5.json.gz,medium,HousePlant,3,2,"[60, 67]"
+18,FloorPlan_Val2_5.json.gz,hard,HousePlant,3,2,"[61, 62]"
+19,FloorPlan_Val2_5.json.gz,easy,HousePlant,4,2,"[66, 69]"
+20,FloorPlan_Val2_5.json.gz,medium,Laptop,4,2,"[74, 78]"
+21,FloorPlan_Val2_5.json.gz,hard,Laptop,4,2,"[75, 79]"
+22,FloorPlan_Val2_5.json.gz,easy,Laptop,2,1,[77]
+23,FloorPlan_Val2_5.json.gz,medium,Mug,6,3,"[86, 83, 80]"
+24,FloorPlan_Val2_5.json.gz,easy,Mug,4,2,"[87, 89]"
+25,FloorPlan_Val2_5.json.gz,medium,SprayBottle,6,3,"[94, 90, 95]"
+26,FloorPlan_Val2_5.json.gz,hard,SprayBottle,3,2,"[96, 98]"
+27,FloorPlan_Val2_5.json.gz,easy,SprayBottle,1,1,[99]
+28,FloorPlan_Val2_5.json.gz,easy,Television,2,1,[100]
+29,FloorPlan_Val2_5.json.gz,hard,Television,5,3,"[102, 101, 107]"
+30,FloorPlan_Val2_5.json.gz,medium,Television,3,2,"[105, 103]"
+31,FloorPlan_Val2_5.json.gz,medium,Vase,5,3,"[116, 111, 114]"
+32,FloorPlan_Val2_5.json.gz,easy,Vase,4,2,"[115, 118]"
+33,FloorPlan_Val2_5.json.gz,hard,Vase,1,1,[117]
