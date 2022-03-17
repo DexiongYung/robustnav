@@ -1,3 +1,4 @@
+from genericpath import exists
 from math import ceil
 from random import sample
 from datetime import datetime
@@ -104,18 +105,21 @@ if __name__ == "__main__":
     else:
         name = cmd_args.name
 
-    logging.basicConfig(filename=f'dylan/subsample_task_logs/{name}.txt')
-    logger = logging.getLogger()
-    logger.setLevel(logging.DEBUG)
+    log_path = "dylan/subsample_task_logs"
     train_folder_path = "/home/dyung6/robustnav/datasets/robothor-objectnav/train/episodes"
     val_folder_path = "/home/dyung6/robustnav/datasets/robothor-objectnav/val/episodes"
     subsample_task_folder = f"/home/dyung6/robustnav/dylan/subsample_task/{name}"
-    train_save_folder = save_folder=subsample_task_folder + '/train'
-    val_save_folder = subsample_task_folder + '/val'
+    train_save_folder = save_folder=subsample_task_folder + '/train/episodes'
+    val_save_folder = subsample_task_folder + '/val/episodes'
 
-    os.mkdir(subsample_task_folder)
-    os.mkdir(train_save_folder)
-    os.mkdir(val_save_folder)
+    os.makedirs(subsample_task_folder, exist_ok=True)
+    os.makedirs(train_save_folder, exist_ok=True)
+    os.makedirs(val_save_folder, exist_ok=True)
+    os.makedirs(log_path, exist_ok=True)
+
+    logging.basicConfig(filename=f'{log_path}/{name}.txt')
+    logger = logging.getLogger()
+    logger.setLevel(logging.DEBUG)
 
     logger.info(f'Running: {train_folder_path}')
     iterate_over_ep_folder(folder_path=train_folder_path, frac = cmd_args.frac, save_folder=train_save_folder)
