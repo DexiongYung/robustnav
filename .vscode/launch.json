@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["-o", "storage/simple_test_clean",
+                "-b", "projects/robustnav_baselines/experiments/robustnav_train", "objectnav_robothor_vanilla_rgb_resnet_ddppo",
+                "-trd", "dylan/subsample_task/5_percent/train",  "-vld", "dylan/subsample_task/5_percent/val"]
+        }
+    ]
+}

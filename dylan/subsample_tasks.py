@@ -13,7 +13,7 @@ def get_args():
     parser = argparse.ArgumentParser(description='Arguments for sampling tasks from environment episodes.')
     parser.add_argument(
         "-frac",
-        default=0.5,
+        default=0.05,
         type=float,
         help="Percent of tasks from train and val to sample from entire set",
     )
@@ -74,7 +74,7 @@ def read_gz(frac, gz_path, save_folder):
         info_list.append([file_name, key[0], key[1], count, sub_sample_count, sampled_ids_list])
 
     with gzip.open(f'{save_folder}/{file_name}', 'w') as fout:
-        json_str = json.dumps(sampled_ids_list)
+        json_str = json.dumps(sub_sample_list)
         json_bytes = json_str.encode('utf-8')
         fout.write(json_bytes)
     
