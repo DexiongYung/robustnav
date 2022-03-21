@@ -19,3 +19,6 @@ ctrl+a+b -> : then type 'detach'
 
 # List tmux sessions
 'tmux ls'
+
+# Scroll in screen
+`ctrl-a esc`

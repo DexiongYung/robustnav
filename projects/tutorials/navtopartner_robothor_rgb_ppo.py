@@ -83,7 +83,7 @@ class NavToPartnerRoboThorRGBPPOExperimentConfig(ExperimentConfig):
 
     @classmethod
     def training_pipeline(cls, **kwargs):
-        ppo_steps = int(10000000)
+        ppo_steps = int(40000000)
         lr = 3e-4
         num_mini_batch = 1
         update_repeats = 3
