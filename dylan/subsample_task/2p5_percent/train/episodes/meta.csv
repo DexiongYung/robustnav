@@ -1,0 +1,2160 @@
+,File Name,Difficulty,Target,Original Count,Sub-sample Count,Sampled Ids
+0,FloorPlan_Train3_1.json.gz,medium,AlarmClock,78,2,"[104, 14]"
+1,FloorPlan_Train3_1.json.gz,easy,AlarmClock,39,1,[6]
+2,FloorPlan_Train3_1.json.gz,hard,AlarmClock,33,1,[141]
+3,FloorPlan_Train3_1.json.gz,hard,Apple,95,3,"[258, 218, 206]"
+4,FloorPlan_Train3_1.json.gz,medium,Apple,42,2,"[213, 159]"
+5,FloorPlan_Train3_1.json.gz,easy,Apple,13,1,[289]
+6,FloorPlan_Train3_1.json.gz,easy,BaseballBat,13,1,[300]
+7,FloorPlan_Train3_1.json.gz,hard,BaseballBat,81,3,"[371, 418, 397]"
+8,FloorPlan_Train3_1.json.gz,medium,BaseballBat,56,2,"[334, 444]"
+9,FloorPlan_Train3_1.json.gz,medium,BasketBall,84,3,"[522, 539, 478]"
+10,FloorPlan_Train3_1.json.gz,hard,BasketBall,28,1,[515]
+11,FloorPlan_Train3_1.json.gz,easy,BasketBall,38,1,[487]
+12,FloorPlan_Train3_1.json.gz,easy,Bowl,38,1,[635]
+13,FloorPlan_Train3_1.json.gz,medium,Bowl,83,3,"[672, 728, 683]"
+14,FloorPlan_Train3_1.json.gz,hard,Bowl,29,1,[702]
+15,FloorPlan_Train3_1.json.gz,medium,GarbageCan,46,2,"[753, 766]"
+16,FloorPlan_Train3_1.json.gz,hard,GarbageCan,86,3,"[811, 767, 830]"
+17,FloorPlan_Train3_1.json.gz,easy,GarbageCan,18,1,[836]
+18,FloorPlan_Train3_1.json.gz,medium,HousePlant,63,2,"[1041, 940]"
+19,FloorPlan_Train3_1.json.gz,easy,HousePlant,77,2,"[1044, 954]"
+20,FloorPlan_Train3_1.json.gz,hard,HousePlant,10,1,[980]
+21,FloorPlan_Train3_1.json.gz,hard,Laptop,85,3,"[1137, 1055, 1105]"
+22,FloorPlan_Train3_1.json.gz,medium,Laptop,47,2,"[1196, 1125]"
+23,FloorPlan_Train3_1.json.gz,easy,Laptop,18,1,[1078]
+24,FloorPlan_Train3_1.json.gz,medium,Mug,48,2,"[1295, 1315]"
+25,FloorPlan_Train3_1.json.gz,easy,Mug,33,1,[1259]
+26,FloorPlan_Train3_1.json.gz,hard,Mug,69,2,"[1208, 1323]"
+27,FloorPlan_Train3_1.json.gz,medium,SprayBottle,74,2,"[1361, 1458]"
+28,FloorPlan_Train3_1.json.gz,hard,SprayBottle,50,2,"[1382, 1387]"
+29,FloorPlan_Train3_1.json.gz,easy,SprayBottle,26,1,[1464]
+30,FloorPlan_Train3_1.json.gz,hard,Television,92,3,"[1618, 1538, 1638]"
+31,FloorPlan_Train3_1.json.gz,medium,Television,38,1,[1621]
+32,FloorPlan_Train3_1.json.gz,easy,Television,20,1,[1566]
+33,FloorPlan_Train3_1.json.gz,hard,Vase,62,2,"[1659, 1791]"
+34,FloorPlan_Train3_1.json.gz,easy,Vase,19,1,[1708]
+35,FloorPlan_Train3_1.json.gz,medium,Vase,69,2,"[1755, 1700]"
+0,FloorPlan_Train4_2.json.gz,medium,AlarmClock,82,3,"[39, 98, 132]"
+1,FloorPlan_Train4_2.json.gz,easy,AlarmClock,32,1,[52]
+2,FloorPlan_Train4_2.json.gz,hard,AlarmClock,36,1,[54]
+3,FloorPlan_Train4_2.json.gz,hard,Apple,75,2,"[259, 159]"
+4,FloorPlan_Train4_2.json.gz,medium,Apple,65,2,"[224, 260]"
+5,FloorPlan_Train4_2.json.gz,easy,Apple,10,1,[264]
+6,FloorPlan_Train4_2.json.gz,medium,BaseballBat,68,2,"[379, 429]"
+7,FloorPlan_Train4_2.json.gz,hard,BaseballBat,48,2,"[301, 337]"
+8,FloorPlan_Train4_2.json.gz,easy,BaseballBat,34,1,[432]
+9,FloorPlan_Train4_2.json.gz,hard,BasketBall,57,2,"[460, 514]"
+10,FloorPlan_Train4_2.json.gz,easy,BasketBall,23,1,[582]
+11,FloorPlan_Train4_2.json.gz,medium,BasketBall,70,2,"[574, 531]"
+12,FloorPlan_Train4_2.json.gz,easy,Bowl,26,1,[635]
+13,FloorPlan_Train4_2.json.gz,hard,Bowl,76,2,"[726, 709]"
+14,FloorPlan_Train4_2.json.gz,medium,Bowl,48,2,"[704, 674]"
+15,FloorPlan_Train4_2.json.gz,hard,GarbageCan,83,3,"[852, 878, 784]"
+16,FloorPlan_Train4_2.json.gz,medium,GarbageCan,48,2,"[785, 788]"
+17,FloorPlan_Train4_2.json.gz,easy,GarbageCan,19,1,[838]
+18,FloorPlan_Train4_2.json.gz,easy,HousePlant,37,1,[957]
+19,FloorPlan_Train4_2.json.gz,hard,HousePlant,73,2,"[971, 966]"
+20,FloorPlan_Train4_2.json.gz,medium,HousePlant,40,1,[955]
+21,FloorPlan_Train4_2.json.gz,medium,Laptop,53,2,"[1160, 1186]"
+22,FloorPlan_Train4_2.json.gz,easy,Laptop,47,2,"[1061, 1056]"
+23,FloorPlan_Train4_2.json.gz,hard,Laptop,50,2,"[1057, 1133]"
+24,FloorPlan_Train4_2.json.gz,easy,Mug,36,1,[1311]
+25,FloorPlan_Train4_2.json.gz,hard,Mug,66,2,"[1247, 1326]"
+26,FloorPlan_Train4_2.json.gz,medium,Mug,48,2,"[1219, 1217]"
+27,FloorPlan_Train4_2.json.gz,medium,SprayBottle,56,2,"[1374, 1474]"
+28,FloorPlan_Train4_2.json.gz,hard,SprayBottle,64,2,"[1428, 1432]"
+29,FloorPlan_Train4_2.json.gz,easy,SprayBottle,30,1,[1482]
+30,FloorPlan_Train4_2.json.gz,medium,Television,57,2,"[1500, 1538]"
+31,FloorPlan_Train4_2.json.gz,hard,Television,76,2,"[1534, 1526]"
+32,FloorPlan_Train4_2.json.gz,easy,Television,17,1,[1519]
+33,FloorPlan_Train4_2.json.gz,medium,Vase,94,3,"[1703, 1755, 1717]"
+34,FloorPlan_Train4_2.json.gz,easy,Vase,40,1,[1724]
+35,FloorPlan_Train4_2.json.gz,hard,Vase,16,1,[1710]
+0,FloorPlan_Train7_4.json.gz,medium,AlarmClock,72,2,"[93, 59]"
+1,FloorPlan_Train7_4.json.gz,hard,AlarmClock,38,1,[43]
+2,FloorPlan_Train7_4.json.gz,easy,AlarmClock,40,1,[146]
+3,FloorPlan_Train7_4.json.gz,medium,Apple,83,3,"[233, 213, 183]"
+4,FloorPlan_Train7_4.json.gz,easy,Apple,43,2,"[247, 267]"
+5,FloorPlan_Train7_4.json.gz,hard,Apple,24,1,[277]
+6,FloorPlan_Train7_4.json.gz,medium,BaseballBat,89,3,"[311, 346, 310]"
+7,FloorPlan_Train7_4.json.gz,hard,BaseballBat,31,1,[313]
+8,FloorPlan_Train7_4.json.gz,easy,BaseballBat,30,1,[416]
+9,FloorPlan_Train7_4.json.gz,easy,BasketBall,18,1,[450]
+10,FloorPlan_Train7_4.json.gz,medium,BasketBall,58,2,"[571, 572]"
+11,FloorPlan_Train7_4.json.gz,hard,BasketBall,74,2,"[573, 498]"
+12,FloorPlan_Train7_4.json.gz,hard,Bowl,92,3,"[692, 635, 618]"
+13,FloorPlan_Train7_4.json.gz,medium,Bowl,38,1,[660]
+14,FloorPlan_Train7_4.json.gz,easy,Bowl,20,1,[683]
+15,FloorPlan_Train7_4.json.gz,hard,GarbageCan,84,3,"[759, 846, 871]"
+16,FloorPlan_Train7_4.json.gz,medium,GarbageCan,33,1,[864]
+17,FloorPlan_Train7_4.json.gz,easy,GarbageCan,33,1,[783]
+18,FloorPlan_Train7_4.json.gz,hard,HousePlant,104,3,"[961, 1025, 1013]"
+19,FloorPlan_Train7_4.json.gz,easy,HousePlant,19,1,[975]
+20,FloorPlan_Train7_4.json.gz,medium,HousePlant,27,1,[994]
+21,FloorPlan_Train7_4.json.gz,hard,Laptop,121,4,"[1197, 1136, 1180, 1098]"
+22,FloorPlan_Train7_4.json.gz,medium,Laptop,17,1,[1198]
+23,FloorPlan_Train7_4.json.gz,easy,Laptop,12,1,[1156]
+24,FloorPlan_Train7_4.json.gz,medium,Mug,73,2,"[1296, 1305]"
+25,FloorPlan_Train7_4.json.gz,easy,Mug,49,2,"[1307, 1339]"
+26,FloorPlan_Train7_4.json.gz,hard,Mug,28,1,[1342]
+27,FloorPlan_Train7_4.json.gz,hard,SprayBottle,35,1,[1458]
+28,FloorPlan_Train7_4.json.gz,medium,SprayBottle,93,3,"[1429, 1364, 1393]"
+29,FloorPlan_Train7_4.json.gz,easy,SprayBottle,22,1,[1483]
+30,FloorPlan_Train7_4.json.gz,easy,Television,38,1,[1634]
+31,FloorPlan_Train7_4.json.gz,medium,Television,66,2,"[1633, 1595]"
+32,FloorPlan_Train7_4.json.gz,hard,Television,46,2,"[1545, 1555]"
+33,FloorPlan_Train7_4.json.gz,medium,Vase,74,2,"[1680, 1731]"
+34,FloorPlan_Train7_4.json.gz,hard,Vase,43,2,"[1775, 1784]"
+35,FloorPlan_Train7_4.json.gz,easy,Vase,33,1,[1683]
+0,FloorPlan_Train7_1.json.gz,hard,AlarmClock,38,1,[73]
+1,FloorPlan_Train7_1.json.gz,medium,AlarmClock,73,2,"[117, 23]"
+2,FloorPlan_Train7_1.json.gz,easy,AlarmClock,39,1,[139]
+3,FloorPlan_Train7_1.json.gz,hard,Apple,93,3,"[290, 189, 211]"
+4,FloorPlan_Train7_1.json.gz,easy,Apple,25,1,[233]
+5,FloorPlan_Train7_1.json.gz,medium,Apple,32,1,[199]
+6,FloorPlan_Train7_1.json.gz,medium,BaseballBat,22,1,[387]
+7,FloorPlan_Train7_1.json.gz,hard,BaseballBat,108,3,"[431, 327, 355]"
+8,FloorPlan_Train7_1.json.gz,easy,BaseballBat,20,1,[328]
+9,FloorPlan_Train7_1.json.gz,easy,BasketBall,28,1,[531]
+10,FloorPlan_Train7_1.json.gz,hard,BasketBall,98,3,"[507, 534, 484]"
+11,FloorPlan_Train7_1.json.gz,medium,BasketBall,24,1,[476]
+12,FloorPlan_Train7_1.json.gz,medium,Bowl,72,2,"[669, 693]"
+13,FloorPlan_Train7_1.json.gz,easy,Bowl,32,1,[650]
+14,FloorPlan_Train7_1.json.gz,hard,Bowl,46,2,"[703, 602]"
+15,FloorPlan_Train7_1.json.gz,easy,GarbageCan,30,1,[802]
+16,FloorPlan_Train7_1.json.gz,medium,GarbageCan,92,3,"[814, 763, 828]"
+17,FloorPlan_Train7_1.json.gz,hard,GarbageCan,28,1,[801]
+18,FloorPlan_Train7_1.json.gz,medium,HousePlant,78,2,"[903, 1013]"
+19,FloorPlan_Train7_1.json.gz,easy,HousePlant,38,1,[929]
+20,FloorPlan_Train7_1.json.gz,hard,HousePlant,34,1,[957]
+21,FloorPlan_Train7_1.json.gz,hard,Laptop,125,4,"[1174, 1120, 1111, 1195]"
+22,FloorPlan_Train7_1.json.gz,easy,Laptop,15,1,[1194]
+23,FloorPlan_Train7_1.json.gz,medium,Laptop,10,1,[1163]
+24,FloorPlan_Train7_1.json.gz,medium,Mug,93,3,"[1289, 1202, 1238]"
+25,FloorPlan_Train7_1.json.gz,hard,Mug,38,1,[1205]
+26,FloorPlan_Train7_1.json.gz,easy,Mug,19,1,[1343]
+27,FloorPlan_Train7_1.json.gz,medium,SprayBottle,88,3,"[1497, 1484, 1359]"
+28,FloorPlan_Train7_1.json.gz,hard,SprayBottle,34,1,[1380]
+29,FloorPlan_Train7_1.json.gz,easy,SprayBottle,28,1,[1393]
+30,FloorPlan_Train7_1.json.gz,medium,Television,48,2,"[1534, 1592]"
+31,FloorPlan_Train7_1.json.gz,easy,Television,53,2,"[1630, 1555]"
+32,FloorPlan_Train7_1.json.gz,hard,Television,49,2,"[1551, 1580]"
+33,FloorPlan_Train7_1.json.gz,easy,Vase,33,1,[1658]
+34,FloorPlan_Train7_1.json.gz,hard,Vase,30,1,[1701]
+35,FloorPlan_Train7_1.json.gz,medium,Vase,87,3,"[1664, 1662, 1739]"
+0,FloorPlan_Train10_2.json.gz,easy,AlarmClock,48,2,"[143, 47]"
+1,FloorPlan_Train10_2.json.gz,medium,AlarmClock,74,2,"[23, 39]"
+2,FloorPlan_Train10_2.json.gz,hard,AlarmClock,28,1,[54]
+3,FloorPlan_Train10_2.json.gz,hard,Apple,95,3,"[178, 260, 172]"
+4,FloorPlan_Train10_2.json.gz,medium,Apple,41,2,"[189, 214]"
+5,FloorPlan_Train10_2.json.gz,easy,Apple,14,1,[221]
+6,FloorPlan_Train10_2.json.gz,medium,BaseballBat,64,2,"[342, 415]"
+7,FloorPlan_Train10_2.json.gz,hard,BaseballBat,54,2,"[376, 330]"
+8,FloorPlan_Train10_2.json.gz,easy,BaseballBat,32,1,[393]
+9,FloorPlan_Train10_2.json.gz,medium,BasketBall,53,2,"[546, 521]"
+10,FloorPlan_Train10_2.json.gz,hard,BasketBall,57,2,"[477, 479]"
+11,FloorPlan_Train10_2.json.gz,easy,BasketBall,40,1,[522]
+12,FloorPlan_Train10_2.json.gz,medium,Bowl,48,2,"[672, 633]"
+13,FloorPlan_Train10_2.json.gz,easy,Bowl,30,1,[663]
+14,FloorPlan_Train10_2.json.gz,hard,Bowl,72,2,"[645, 742]"
+15,FloorPlan_Train10_2.json.gz,medium,GarbageCan,81,3,"[829, 798, 833]"
+16,FloorPlan_Train10_2.json.gz,hard,GarbageCan,44,2,"[865, 783]"
+17,FloorPlan_Train10_2.json.gz,easy,GarbageCan,25,1,[774]
+18,FloorPlan_Train10_2.json.gz,medium,HousePlant,64,2,"[940, 1047]"
+19,FloorPlan_Train10_2.json.gz,hard,HousePlant,53,2,"[972, 911]"
+20,FloorPlan_Train10_2.json.gz,easy,HousePlant,33,1,[955]
+21,FloorPlan_Train10_2.json.gz,hard,Laptop,73,2,"[1086, 1140]"
+22,FloorPlan_Train10_2.json.gz,easy,Laptop,32,1,[1084]
+23,FloorPlan_Train10_2.json.gz,medium,Laptop,45,2,"[1134, 1057]"
+24,FloorPlan_Train10_2.json.gz,hard,Mug,50,2,"[1317, 1255]"
+25,FloorPlan_Train10_2.json.gz,medium,Mug,79,2,"[1321, 1331]"
+26,FloorPlan_Train10_2.json.gz,easy,Mug,21,1,[1252]
+27,FloorPlan_Train10_2.json.gz,medium,SprayBottle,72,2,"[1459, 1497]"
+28,FloorPlan_Train10_2.json.gz,hard,SprayBottle,48,2,"[1419, 1467]"
+29,FloorPlan_Train10_2.json.gz,easy,SprayBottle,30,1,[1364]
+30,FloorPlan_Train10_2.json.gz,medium,Television,75,2,"[1533, 1535]"
+31,FloorPlan_Train10_2.json.gz,easy,Television,20,1,[1506]
+32,FloorPlan_Train10_2.json.gz,hard,Television,55,2,"[1639, 1547]"
+33,FloorPlan_Train10_2.json.gz,hard,Vase,91,3,"[1681, 1687, 1680]"
+34,FloorPlan_Train10_2.json.gz,medium,Vase,50,2,"[1693, 1655]"
+35,FloorPlan_Train10_2.json.gz,easy,Vase,9,1,[1699]
+0,FloorPlan_Train2_5.json.gz,medium,AlarmClock,84,3,"[107, 100, 141]"
+1,FloorPlan_Train2_5.json.gz,easy,AlarmClock,20,1,[42]
+2,FloorPlan_Train2_5.json.gz,hard,AlarmClock,46,2,"[25, 142]"
+3,FloorPlan_Train2_5.json.gz,hard,Apple,45,2,"[230, 237]"
+4,FloorPlan_Train2_5.json.gz,medium,Apple,82,3,"[286, 263, 180]"
+5,FloorPlan_Train2_5.json.gz,easy,Apple,23,1,[219]
+6,FloorPlan_Train2_5.json.gz,hard,BaseballBat,79,2,"[413, 311]"
+7,FloorPlan_Train2_5.json.gz,medium,BaseballBat,54,2,"[424, 375]"
+8,FloorPlan_Train2_5.json.gz,easy,BaseballBat,17,1,[360]
+9,FloorPlan_Train2_5.json.gz,easy,BasketBall,27,1,[516]
+10,FloorPlan_Train2_5.json.gz,hard,BasketBall,65,2,"[478, 571]"
+11,FloorPlan_Train2_5.json.gz,medium,BasketBall,58,2,"[548, 534]"
+12,FloorPlan_Train2_5.json.gz,medium,Bowl,46,2,"[741, 665]"
+13,FloorPlan_Train2_5.json.gz,hard,Bowl,62,2,"[696, 707]"
+14,FloorPlan_Train2_5.json.gz,easy,Bowl,42,2,"[633, 612]"
+15,FloorPlan_Train2_5.json.gz,hard,GarbageCan,54,2,"[884, 766]"
+16,FloorPlan_Train2_5.json.gz,medium,GarbageCan,49,2,"[819, 781]"
+17,FloorPlan_Train2_5.json.gz,easy,GarbageCan,47,2,"[864, 845]"
+18,FloorPlan_Train2_5.json.gz,medium,HousePlant,74,2,"[1001, 981]"
+19,FloorPlan_Train2_5.json.gz,hard,HousePlant,45,2,"[918, 926]"
+20,FloorPlan_Train2_5.json.gz,easy,HousePlant,31,1,[915]
+21,FloorPlan_Train2_5.json.gz,medium,Laptop,55,2,"[1128, 1100]"
+22,FloorPlan_Train2_5.json.gz,hard,Laptop,60,2,"[1173, 1069]"
+23,FloorPlan_Train2_5.json.gz,easy,Laptop,35,1,[1167]
+24,FloorPlan_Train2_5.json.gz,hard,Mug,62,2,"[1266, 1312]"
+25,FloorPlan_Train2_5.json.gz,medium,Mug,68,2,"[1229, 1340]"
+26,FloorPlan_Train2_5.json.gz,easy,Mug,20,1,[1289]
+27,FloorPlan_Train2_5.json.gz,medium,SprayBottle,66,2,"[1399, 1423]"
+28,FloorPlan_Train2_5.json.gz,hard,SprayBottle,48,2,"[1361, 1491]"
+29,FloorPlan_Train2_5.json.gz,easy,SprayBottle,36,1,[1440]
+30,FloorPlan_Train2_5.json.gz,hard,Television,74,2,"[1580, 1570]"
+31,FloorPlan_Train2_5.json.gz,easy,Television,38,1,[1615]
+32,FloorPlan_Train2_5.json.gz,medium,Television,38,1,[1510]
+33,FloorPlan_Train2_5.json.gz,easy,Vase,24,1,[1671]
+34,FloorPlan_Train2_5.json.gz,hard,Vase,80,2,"[1690, 1779]"
+35,FloorPlan_Train2_5.json.gz,medium,Vase,46,2,"[1708, 1681]"
+0,FloorPlan_Train3_3.json.gz,easy,AlarmClock,27,1,[84]
+1,FloorPlan_Train3_3.json.gz,hard,AlarmClock,55,2,"[82, 11]"
+2,FloorPlan_Train3_3.json.gz,medium,AlarmClock,68,2,"[131, 80]"
+3,FloorPlan_Train3_3.json.gz,hard,Apple,30,1,[279]
+4,FloorPlan_Train3_3.json.gz,medium,Apple,80,2,"[287, 271]"
+5,FloorPlan_Train3_3.json.gz,easy,Apple,40,1,[260]
+6,FloorPlan_Train3_3.json.gz,medium,BaseballBat,79,2,"[406, 379]"
+7,FloorPlan_Train3_3.json.gz,hard,BaseballBat,43,2,"[441, 417]"
+8,FloorPlan_Train3_3.json.gz,easy,BaseballBat,28,1,[381]
+9,FloorPlan_Train3_3.json.gz,hard,BasketBall,67,2,"[508, 454]"
+10,FloorPlan_Train3_3.json.gz,medium,BasketBall,55,2,"[561, 506]"
+11,FloorPlan_Train3_3.json.gz,easy,BasketBall,28,1,[524]
+12,FloorPlan_Train3_3.json.gz,hard,Bowl,78,2,"[644, 668]"
+13,FloorPlan_Train3_3.json.gz,easy,Bowl,29,1,[716]
+14,FloorPlan_Train3_3.json.gz,medium,Bowl,43,2,"[724, 675]"
+15,FloorPlan_Train3_3.json.gz,hard,GarbageCan,43,2,"[814, 750]"
+16,FloorPlan_Train3_3.json.gz,medium,GarbageCan,72,2,"[802, 793]"
+17,FloorPlan_Train3_3.json.gz,easy,GarbageCan,35,1,[816]
+18,FloorPlan_Train3_3.json.gz,medium,HousePlant,52,2,"[913, 911]"
+19,FloorPlan_Train3_3.json.gz,hard,HousePlant,73,2,"[948, 902]"
+20,FloorPlan_Train3_3.json.gz,easy,HousePlant,25,1,[1032]
+21,FloorPlan_Train3_3.json.gz,medium,Laptop,67,2,"[1085, 1116]"
+22,FloorPlan_Train3_3.json.gz,hard,Laptop,53,2,"[1195, 1126]"
+23,FloorPlan_Train3_3.json.gz,easy,Laptop,30,1,[1138]
+24,FloorPlan_Train3_3.json.gz,medium,Mug,57,2,"[1269, 1323]"
+25,FloorPlan_Train3_3.json.gz,hard,Mug,68,2,"[1257, 1345]"
+26,FloorPlan_Train3_3.json.gz,easy,Mug,25,1,[1331]
+27,FloorPlan_Train3_3.json.gz,medium,SprayBottle,44,2,"[1425, 1367]"
+28,FloorPlan_Train3_3.json.gz,hard,SprayBottle,70,2,"[1410, 1388]"
+29,FloorPlan_Train3_3.json.gz,easy,SprayBottle,36,1,[1386]
+30,FloorPlan_Train3_3.json.gz,hard,Television,65,2,"[1550, 1629]"
+31,FloorPlan_Train3_3.json.gz,easy,Television,31,1,[1589]
+32,FloorPlan_Train3_3.json.gz,medium,Television,54,2,"[1580, 1520]"
+33,FloorPlan_Train3_3.json.gz,easy,Vase,24,1,[1758]
+34,FloorPlan_Train3_3.json.gz,hard,Vase,76,2,"[1682, 1722]"
+35,FloorPlan_Train3_3.json.gz,medium,Vase,50,2,"[1654, 1785]"
+0,FloorPlan_Train9_1.json.gz,medium,AlarmClock,55,2,"[80, 46]"
+1,FloorPlan_Train9_1.json.gz,hard,AlarmClock,69,2,"[134, 48]"
+2,FloorPlan_Train9_1.json.gz,easy,AlarmClock,26,1,[15]
+3,FloorPlan_Train9_1.json.gz,hard,Apple,53,2,"[233, 289]"
+4,FloorPlan_Train9_1.json.gz,easy,Apple,42,2,"[255, 276]"
+5,FloorPlan_Train9_1.json.gz,medium,Apple,55,2,"[221, 182]"
+6,FloorPlan_Train9_1.json.gz,hard,BaseballBat,97,3,"[305, 303, 320]"
+7,FloorPlan_Train9_1.json.gz,medium,BaseballBat,43,2,"[301, 410]"
+8,FloorPlan_Train9_1.json.gz,easy,BaseballBat,10,1,[396]
+9,FloorPlan_Train9_1.json.gz,hard,BasketBall,80,2,"[462, 589]"
+10,FloorPlan_Train9_1.json.gz,easy,BasketBall,23,1,[483]
+11,FloorPlan_Train9_1.json.gz,medium,BasketBall,47,2,"[459, 551]"
+12,FloorPlan_Train9_1.json.gz,medium,Bowl,82,3,"[604, 725, 637]"
+13,FloorPlan_Train9_1.json.gz,easy,Bowl,36,1,[699]
+14,FloorPlan_Train9_1.json.gz,hard,Bowl,32,1,[620]
+15,FloorPlan_Train9_1.json.gz,medium,GarbageCan,74,2,"[874, 849]"
+16,FloorPlan_Train9_1.json.gz,easy,GarbageCan,46,2,"[842, 847]"
+17,FloorPlan_Train9_1.json.gz,hard,GarbageCan,30,1,[764]
+18,FloorPlan_Train9_1.json.gz,hard,HousePlant,47,2,"[952, 988]"
+19,FloorPlan_Train9_1.json.gz,medium,HousePlant,75,2,"[971, 1005]"
+20,FloorPlan_Train9_1.json.gz,easy,HousePlant,28,1,[1044]
+21,FloorPlan_Train9_1.json.gz,hard,Laptop,79,2,"[1116, 1060]"
+22,FloorPlan_Train9_1.json.gz,medium,Laptop,43,2,"[1115, 1123]"
+23,FloorPlan_Train9_1.json.gz,easy,Laptop,28,1,[1119]
+24,FloorPlan_Train9_1.json.gz,easy,Mug,32,1,[1264]
+25,FloorPlan_Train9_1.json.gz,hard,Mug,69,2,"[1307, 1338]"
+26,FloorPlan_Train9_1.json.gz,medium,Mug,49,2,"[1295, 1302]"
+27,FloorPlan_Train9_1.json.gz,easy,SprayBottle,20,1,[1365]
+28,FloorPlan_Train9_1.json.gz,medium,SprayBottle,68,2,"[1453, 1484]"
+29,FloorPlan_Train9_1.json.gz,hard,SprayBottle,62,2,"[1469, 1419]"
+30,FloorPlan_Train9_1.json.gz,hard,Television,72,2,"[1647, 1536]"
+31,FloorPlan_Train9_1.json.gz,medium,Television,60,2,"[1549, 1509]"
+32,FloorPlan_Train9_1.json.gz,easy,Television,18,1,[1590]
+33,FloorPlan_Train9_1.json.gz,medium,Vase,75,2,"[1720, 1692]"
+34,FloorPlan_Train9_1.json.gz,easy,Vase,45,2,"[1656, 1772]"
+35,FloorPlan_Train9_1.json.gz,hard,Vase,30,1,[1734]
+0,FloorPlan_Train8_2.json.gz,medium,AlarmClock,84,3,"[20, 102, 120]"
+1,FloorPlan_Train8_2.json.gz,easy,AlarmClock,57,2,"[137, 133]"
+2,FloorPlan_Train8_2.json.gz,hard,AlarmClock,9,1,[117]
+3,FloorPlan_Train8_2.json.gz,hard,Apple,56,2,"[204, 176]"
+4,FloorPlan_Train8_2.json.gz,medium,Apple,67,2,"[288, 265]"
+5,FloorPlan_Train8_2.json.gz,easy,Apple,27,1,[287]
+6,FloorPlan_Train8_2.json.gz,hard,BaseballBat,65,2,"[401, 432]"
+7,FloorPlan_Train8_2.json.gz,easy,BaseballBat,19,1,[332]
+8,FloorPlan_Train8_2.json.gz,medium,BaseballBat,66,2,"[434, 404]"
+9,FloorPlan_Train8_2.json.gz,hard,BasketBall,106,3,"[537, 595, 457]"
+10,FloorPlan_Train8_2.json.gz,medium,BasketBall,29,1,[499]
+11,FloorPlan_Train8_2.json.gz,easy,BasketBall,15,1,[455]
+12,FloorPlan_Train8_2.json.gz,medium,Bowl,81,3,"[644, 640, 638]"
+13,FloorPlan_Train8_2.json.gz,easy,Bowl,65,2,"[665, 657]"
+14,FloorPlan_Train8_2.json.gz,hard,Bowl,4,1,[634]
+15,FloorPlan_Train8_2.json.gz,hard,GarbageCan,96,3,"[788, 864, 880]"
+16,FloorPlan_Train8_2.json.gz,easy,GarbageCan,16,1,[858]
+17,FloorPlan_Train8_2.json.gz,medium,GarbageCan,38,1,[773]
+18,FloorPlan_Train8_2.json.gz,hard,HousePlant,77,2,"[913, 984]"
+19,FloorPlan_Train8_2.json.gz,medium,HousePlant,57,2,"[956, 1048]"
+20,FloorPlan_Train8_2.json.gz,easy,HousePlant,16,1,[960]
+21,FloorPlan_Train8_2.json.gz,medium,Laptop,78,2,"[1106, 1153]"
+22,FloorPlan_Train8_2.json.gz,easy,Laptop,53,2,"[1086, 1103]"
+23,FloorPlan_Train8_2.json.gz,hard,Laptop,19,1,[1139]
+24,FloorPlan_Train8_2.json.gz,hard,Mug,77,2,"[1227, 1310]"
+25,FloorPlan_Train8_2.json.gz,medium,Mug,58,2,"[1320, 1228]"
+26,FloorPlan_Train8_2.json.gz,easy,Mug,15,1,[1343]
+27,FloorPlan_Train8_2.json.gz,easy,SprayBottle,32,1,[1432]
+28,FloorPlan_Train8_2.json.gz,medium,SprayBottle,72,2,"[1408, 1413]"
+29,FloorPlan_Train8_2.json.gz,hard,SprayBottle,46,2,"[1434, 1380]"
+30,FloorPlan_Train8_2.json.gz,hard,Television,80,2,"[1539, 1618]"
+31,FloorPlan_Train8_2.json.gz,medium,Television,38,1,[1575]
+32,FloorPlan_Train8_2.json.gz,easy,Television,32,1,[1503]
+33,FloorPlan_Train8_2.json.gz,hard,Vase,85,3,"[1786, 1749, 1792]"
+34,FloorPlan_Train8_2.json.gz,easy,Vase,13,1,[1667]
+35,FloorPlan_Train8_2.json.gz,medium,Vase,52,2,"[1717, 1696]"
+0,FloorPlan_Train7_3.json.gz,medium,AlarmClock,80,2,"[111, 99]"
+1,FloorPlan_Train7_3.json.gz,hard,AlarmClock,44,2,"[65, 28]"
+2,FloorPlan_Train7_3.json.gz,easy,AlarmClock,26,1,[70]
+3,FloorPlan_Train7_3.json.gz,medium,Apple,105,3,"[181, 251, 279]"
+4,FloorPlan_Train7_3.json.gz,easy,Apple,28,1,[288]
+5,FloorPlan_Train7_3.json.gz,hard,Apple,17,1,[228]
+6,FloorPlan_Train7_3.json.gz,hard,BaseballBat,53,2,"[312, 345]"
+7,FloorPlan_Train7_3.json.gz,easy,BaseballBat,38,1,[429]
+8,FloorPlan_Train7_3.json.gz,medium,BaseballBat,59,2,"[323, 400]"
+9,FloorPlan_Train7_3.json.gz,hard,BasketBall,113,3,"[467, 455, 506]"
+10,FloorPlan_Train7_3.json.gz,medium,BasketBall,28,1,[477]
+11,FloorPlan_Train7_3.json.gz,easy,BasketBall,9,1,[517]
+12,FloorPlan_Train7_3.json.gz,medium,Bowl,53,2,"[693, 609]"
+13,FloorPlan_Train7_3.json.gz,hard,Bowl,70,2,"[646, 684]"
+14,FloorPlan_Train7_3.json.gz,easy,Bowl,27,1,[672]
+15,FloorPlan_Train7_3.json.gz,medium,GarbageCan,84,3,"[795, 805, 772]"
+16,FloorPlan_Train7_3.json.gz,hard,GarbageCan,38,1,[858]
+17,FloorPlan_Train7_3.json.gz,easy,GarbageCan,28,1,[767]
+18,FloorPlan_Train7_3.json.gz,easy,HousePlant,28,1,[972]
+19,FloorPlan_Train7_3.json.gz,medium,HousePlant,49,2,"[911, 991]"
+20,FloorPlan_Train7_3.json.gz,hard,HousePlant,73,2,"[928, 1036]"
+21,FloorPlan_Train7_3.json.gz,medium,Laptop,65,2,"[1136, 1139]"
+22,FloorPlan_Train7_3.json.gz,hard,Laptop,49,2,"[1198, 1127]"
+23,FloorPlan_Train7_3.json.gz,easy,Laptop,36,1,[1169]
+24,FloorPlan_Train7_3.json.gz,medium,Mug,102,3,"[1258, 1296, 1252]"
+25,FloorPlan_Train7_3.json.gz,hard,Mug,16,1,[1325]
+26,FloorPlan_Train7_3.json.gz,easy,Mug,32,1,[1265]
+27,FloorPlan_Train7_3.json.gz,easy,SprayBottle,27,1,[1443]
+28,FloorPlan_Train7_3.json.gz,hard,SprayBottle,85,3,"[1394, 1496, 1359]"
+29,FloorPlan_Train7_3.json.gz,medium,SprayBottle,38,1,[1475]
+30,FloorPlan_Train7_3.json.gz,hard,Television,80,2,"[1629, 1648]"
+31,FloorPlan_Train7_3.json.gz,medium,Television,38,1,[1517]
+32,FloorPlan_Train7_3.json.gz,easy,Television,32,1,[1606]
+33,FloorPlan_Train7_3.json.gz,medium,Vase,37,1,[1661]
+34,FloorPlan_Train7_3.json.gz,hard,Vase,82,3,"[1684, 1748, 1765]"
+35,FloorPlan_Train7_3.json.gz,easy,Vase,31,1,[1658]
+0,FloorPlan_Train12_4.json.gz,hard,AlarmClock,111,3,"[37, 63, 132]"
+1,FloorPlan_Train12_4.json.gz,easy,AlarmClock,28,1,[111]
+2,FloorPlan_Train12_4.json.gz,medium,AlarmClock,11,1,[14]
+3,FloorPlan_Train12_4.json.gz,hard,Apple,124,4,"[262, 187, 190, 230]"
+4,FloorPlan_Train12_4.json.gz,easy,Apple,8,1,[247]
+5,FloorPlan_Train12_4.json.gz,medium,Apple,18,1,[214]
+6,FloorPlan_Train12_4.json.gz,medium,BaseballBat,81,3,"[415, 350, 407]"
+7,FloorPlan_Train12_4.json.gz,easy,BaseballBat,43,2,"[417, 446]"
+8,FloorPlan_Train12_4.json.gz,hard,BaseballBat,26,1,[307]
+9,FloorPlan_Train12_4.json.gz,easy,BasketBall,21,1,[589]
+10,FloorPlan_Train12_4.json.gz,medium,BasketBall,76,2,"[594, 497]"
+11,FloorPlan_Train12_4.json.gz,hard,BasketBall,53,2,"[487, 460]"
+12,FloorPlan_Train12_4.json.gz,hard,Bowl,42,2,"[680, 618]"
+13,FloorPlan_Train12_4.json.gz,medium,Bowl,84,3,"[619, 727, 638]"
+14,FloorPlan_Train12_4.json.gz,easy,Bowl,24,1,[746]
+15,FloorPlan_Train12_4.json.gz,easy,GarbageCan,38,1,[897]
+16,FloorPlan_Train12_4.json.gz,medium,GarbageCan,66,2,"[825, 759]"
+17,FloorPlan_Train12_4.json.gz,hard,GarbageCan,46,2,"[800, 860]"
+18,FloorPlan_Train12_4.json.gz,hard,HousePlant,47,2,"[1005, 991]"
+19,FloorPlan_Train12_4.json.gz,medium,HousePlant,82,3,"[998, 1041, 942]"
+20,FloorPlan_Train12_4.json.gz,easy,HousePlant,21,1,[1042]
+21,FloorPlan_Train12_4.json.gz,medium,Laptop,71,2,"[1142, 1140]"
+22,FloorPlan_Train12_4.json.gz,hard,Laptop,31,1,[1179]
+23,FloorPlan_Train12_4.json.gz,easy,Laptop,48,2,"[1079, 1093]"
+24,FloorPlan_Train12_4.json.gz,hard,Mug,121,4,"[1306, 1288, 1327, 1252]"
+25,FloorPlan_Train12_4.json.gz,easy,Mug,20,1,[1283]
+26,FloorPlan_Train12_4.json.gz,medium,Mug,9,1,[1205]
+27,FloorPlan_Train12_4.json.gz,easy,SprayBottle,33,1,[1391]
+28,FloorPlan_Train12_4.json.gz,medium,SprayBottle,81,3,"[1374, 1400, 1484]"
+29,FloorPlan_Train12_4.json.gz,hard,SprayBottle,36,1,[1384]
+30,FloorPlan_Train12_4.json.gz,medium,Television,64,2,"[1628, 1585]"
+31,FloorPlan_Train12_4.json.gz,hard,Television,55,2,"[1609, 1602]"
+32,FloorPlan_Train12_4.json.gz,easy,Television,31,1,[1575]
+33,FloorPlan_Train12_4.json.gz,easy,Vase,45,2,"[1705, 1686]"
+34,FloorPlan_Train12_4.json.gz,medium,Vase,77,2,"[1749, 1771]"
+35,FloorPlan_Train12_4.json.gz,hard,Vase,28,1,[1767]
+0,FloorPlan_Train12_5.json.gz,hard,AlarmClock,68,2,"[110, 12]"
+1,FloorPlan_Train12_5.json.gz,medium,AlarmClock,65,2,"[80, 66]"
+2,FloorPlan_Train12_5.json.gz,easy,AlarmClock,17,1,[140]
+3,FloorPlan_Train12_5.json.gz,hard,Apple,67,2,"[278, 202]"
+4,FloorPlan_Train12_5.json.gz,easy,Apple,23,1,[224]
+5,FloorPlan_Train12_5.json.gz,medium,Apple,60,2,"[246, 187]"
+6,FloorPlan_Train12_5.json.gz,easy,BaseballBat,51,2,"[359, 413]"
+7,FloorPlan_Train12_5.json.gz,medium,BaseballBat,79,2,"[356, 423]"
+8,FloorPlan_Train12_5.json.gz,hard,BaseballBat,20,1,[436]
+9,FloorPlan_Train12_5.json.gz,hard,BasketBall,89,3,"[498, 488, 457]"
+10,FloorPlan_Train12_5.json.gz,medium,BasketBall,43,2,"[597, 580]"
+11,FloorPlan_Train12_5.json.gz,easy,BasketBall,18,1,[496]
+12,FloorPlan_Train12_5.json.gz,medium,Bowl,34,1,[704]
+13,FloorPlan_Train12_5.json.gz,easy,Bowl,27,1,[680]
+14,FloorPlan_Train12_5.json.gz,hard,Bowl,89,3,"[740, 641, 711]"
+15,FloorPlan_Train12_5.json.gz,hard,GarbageCan,71,2,"[831, 898]"
+16,FloorPlan_Train12_5.json.gz,easy,GarbageCan,19,1,[890]
+17,FloorPlan_Train12_5.json.gz,medium,GarbageCan,60,2,"[826, 849]"
+18,FloorPlan_Train12_5.json.gz,hard,HousePlant,62,2,"[1014, 971]"
+19,FloorPlan_Train12_5.json.gz,medium,HousePlant,60,2,"[945, 1024]"
+20,FloorPlan_Train12_5.json.gz,easy,HousePlant,28,1,[1047]
+21,FloorPlan_Train12_5.json.gz,medium,Laptop,72,2,"[1110, 1149]"
+22,FloorPlan_Train12_5.json.gz,easy,Laptop,39,1,[1130]
+23,FloorPlan_Train12_5.json.gz,hard,Laptop,39,1,[1138]
+24,FloorPlan_Train12_5.json.gz,easy,Mug,27,1,[1294]
+25,FloorPlan_Train12_5.json.gz,hard,Mug,55,2,"[1208, 1224]"
+26,FloorPlan_Train12_5.json.gz,medium,Mug,68,2,"[1288, 1311]"
+27,FloorPlan_Train12_5.json.gz,easy,SprayBottle,19,1,[1446]
+28,FloorPlan_Train12_5.json.gz,hard,SprayBottle,46,2,"[1445, 1497]"
+29,FloorPlan_Train12_5.json.gz,medium,SprayBottle,85,3,"[1458, 1392, 1429]"
+30,FloorPlan_Train12_5.json.gz,hard,Television,23,1,[1533]
+31,FloorPlan_Train12_5.json.gz,medium,Television,76,2,"[1582, 1587]"
+32,FloorPlan_Train12_5.json.gz,easy,Television,51,2,"[1512, 1525]"
+33,FloorPlan_Train12_5.json.gz,easy,Vase,25,1,[1684]
+34,FloorPlan_Train12_5.json.gz,hard,Vase,91,3,"[1659, 1703, 1777]"
+35,FloorPlan_Train12_5.json.gz,medium,Vase,34,1,[1764]
+0,FloorPlan_Train4_3.json.gz,medium,AlarmClock,75,2,"[148, 98]"
+1,FloorPlan_Train4_3.json.gz,hard,AlarmClock,70,2,"[68, 12]"
+2,FloorPlan_Train4_3.json.gz,easy,AlarmClock,5,1,[78]
+3,FloorPlan_Train4_3.json.gz,easy,Apple,20,1,[264]
+4,FloorPlan_Train4_3.json.gz,hard,Apple,75,2,"[178, 215]"
+5,FloorPlan_Train4_3.json.gz,medium,Apple,55,2,"[276, 244]"
+6,FloorPlan_Train4_3.json.gz,hard,BaseballBat,84,3,"[389, 392, 395]"
+7,FloorPlan_Train4_3.json.gz,easy,BaseballBat,33,1,[407]
+8,FloorPlan_Train4_3.json.gz,medium,BaseballBat,33,1,[416]
+9,FloorPlan_Train4_3.json.gz,hard,BasketBall,23,1,[539]
+10,FloorPlan_Train4_3.json.gz,medium,BasketBall,100,3,"[479, 555, 489]"
+11,FloorPlan_Train4_3.json.gz,easy,BasketBall,27,1,[580]
+12,FloorPlan_Train4_3.json.gz,easy,Bowl,28,1,[721]
+13,FloorPlan_Train4_3.json.gz,hard,Bowl,74,2,"[727, 605]"
+14,FloorPlan_Train4_3.json.gz,medium,Bowl,48,2,"[604, 651]"
+15,FloorPlan_Train4_3.json.gz,hard,GarbageCan,87,3,"[797, 787, 893]"
+16,FloorPlan_Train4_3.json.gz,easy,GarbageCan,24,1,[888]
+17,FloorPlan_Train4_3.json.gz,medium,GarbageCan,39,1,[752]
+18,FloorPlan_Train4_3.json.gz,medium,HousePlant,86,3,"[924, 1019, 982]"
+19,FloorPlan_Train4_3.json.gz,easy,HousePlant,28,1,[937]
+20,FloorPlan_Train4_3.json.gz,hard,HousePlant,36,1,[1041]
+21,FloorPlan_Train4_3.json.gz,easy,Laptop,36,1,[1184]
+22,FloorPlan_Train4_3.json.gz,hard,Laptop,60,2,"[1163, 1141]"
+23,FloorPlan_Train4_3.json.gz,medium,Laptop,54,2,"[1127, 1174]"
+24,FloorPlan_Train4_3.json.gz,hard,Mug,75,2,"[1253, 1215]"
+25,FloorPlan_Train4_3.json.gz,easy,Mug,36,1,[1273]
+26,FloorPlan_Train4_3.json.gz,medium,Mug,39,1,[1208]
+27,FloorPlan_Train4_3.json.gz,medium,SprayBottle,85,3,"[1389, 1473, 1419]"
+28,FloorPlan_Train4_3.json.gz,easy,SprayBottle,26,1,[1369]
+29,FloorPlan_Train4_3.json.gz,hard,SprayBottle,39,1,[1393]
+30,FloorPlan_Train4_3.json.gz,easy,Television,49,2,"[1506, 1604]"
+31,FloorPlan_Train4_3.json.gz,medium,Television,55,2,"[1630, 1502]"
+32,FloorPlan_Train4_3.json.gz,hard,Television,46,2,"[1595, 1617]"
+33,FloorPlan_Train4_3.json.gz,hard,Vase,51,2,"[1741, 1696]"
+34,FloorPlan_Train4_3.json.gz,easy,Vase,19,1,[1657]
+35,FloorPlan_Train4_3.json.gz,medium,Vase,80,2,"[1788, 1749]"
+0,FloorPlan_Train8_1.json.gz,medium,AlarmClock,62,2,"[11, 118]"
+1,FloorPlan_Train8_1.json.gz,hard,AlarmClock,79,2,"[66, 50]"
+2,FloorPlan_Train8_1.json.gz,easy,AlarmClock,9,1,[4]
+3,FloorPlan_Train8_1.json.gz,medium,Apple,95,3,"[197, 226, 284]"
+4,FloorPlan_Train8_1.json.gz,easy,Apple,40,1,[175]
+5,FloorPlan_Train8_1.json.gz,hard,Apple,15,1,[182]
+6,FloorPlan_Train8_1.json.gz,easy,BaseballBat,18,1,[435]
+7,FloorPlan_Train8_1.json.gz,hard,BaseballBat,93,3,"[359, 344, 337]"
+8,FloorPlan_Train8_1.json.gz,medium,BaseballBat,39,1,[340]
+9,FloorPlan_Train8_1.json.gz,hard,BasketBall,34,1,[536]
+10,FloorPlan_Train8_1.json.gz,medium,BasketBall,88,3,"[524, 491, 597]"
+11,FloorPlan_Train8_1.json.gz,easy,BasketBall,28,1,[562]
+12,FloorPlan_Train8_1.json.gz,easy,Bowl,64,2,"[641, 723]"
+13,FloorPlan_Train8_1.json.gz,medium,Bowl,78,2,"[722, 716]"
+14,FloorPlan_Train8_1.json.gz,hard,Bowl,8,1,[718]
+15,FloorPlan_Train8_1.json.gz,medium,GarbageCan,38,1,[790]
+16,FloorPlan_Train8_1.json.gz,hard,GarbageCan,93,3,"[807, 759, 837]"
+17,FloorPlan_Train8_1.json.gz,easy,GarbageCan,19,1,[871]
+18,FloorPlan_Train8_1.json.gz,hard,HousePlant,3,1,[900]
+19,FloorPlan_Train8_1.json.gz,easy,HousePlant,65,2,"[1046, 1040]"
+20,FloorPlan_Train8_1.json.gz,medium,HousePlant,82,3,"[1016, 981, 1023]"
+21,FloorPlan_Train8_1.json.gz,hard,Laptop,94,3,"[1180, 1143, 1050]"
+22,FloorPlan_Train8_1.json.gz,easy,Laptop,17,1,[1142]
+23,FloorPlan_Train8_1.json.gz,medium,Laptop,39,1,[1175]
+24,FloorPlan_Train8_1.json.gz,hard,Mug,106,3,"[1213, 1327, 1317]"
+25,FloorPlan_Train8_1.json.gz,medium,Mug,32,1,[1218]
+26,FloorPlan_Train8_1.json.gz,easy,Mug,12,1,[1237]
+27,FloorPlan_Train8_1.json.gz,medium,SprayBottle,95,3,"[1406, 1463, 1388]"
+28,FloorPlan_Train8_1.json.gz,easy,SprayBottle,45,2,"[1383, 1482]"
+29,FloorPlan_Train8_1.json.gz,hard,SprayBottle,10,1,[1483]
+30,FloorPlan_Train8_1.json.gz,medium,Television,40,1,[1550]
+31,FloorPlan_Train8_1.json.gz,hard,Television,91,3,"[1515, 1613, 1519]"
+32,FloorPlan_Train8_1.json.gz,easy,Television,19,1,[1639]
+33,FloorPlan_Train8_1.json.gz,easy,Vase,20,1,[1761]
+34,FloorPlan_Train8_1.json.gz,hard,Vase,94,3,"[1716, 1763, 1749]"
+35,FloorPlan_Train8_1.json.gz,medium,Vase,36,1,[1660]
+0,FloorPlan_Train1_2.json.gz,hard,AlarmClock,84,3,"[29, 92, 135]"
+1,FloorPlan_Train1_2.json.gz,medium,AlarmClock,51,2,"[89, 107]"
+2,FloorPlan_Train1_2.json.gz,easy,AlarmClock,15,1,[120]
+3,FloorPlan_Train1_2.json.gz,medium,Apple,63,2,"[269, 220]"
+4,FloorPlan_Train1_2.json.gz,easy,Apple,38,1,[256]
+5,FloorPlan_Train1_2.json.gz,hard,Apple,49,2,"[158, 245]"
+6,FloorPlan_Train1_2.json.gz,medium,BaseballBat,92,3,"[361, 335, 317]"
+7,FloorPlan_Train1_2.json.gz,easy,BaseballBat,42,2,"[360, 410]"
+8,FloorPlan_Train1_2.json.gz,hard,BaseballBat,16,1,[358]
+9,FloorPlan_Train1_2.json.gz,hard,BasketBall,48,2,"[556, 575]"
+10,FloorPlan_Train1_2.json.gz,easy,BasketBall,49,2,"[583, 462]"
+11,FloorPlan_Train1_2.json.gz,medium,BasketBall,53,2,"[492, 479]"
+12,FloorPlan_Train1_2.json.gz,medium,Bowl,77,2,"[701, 661]"
+13,FloorPlan_Train1_2.json.gz,hard,Bowl,51,2,"[608, 623]"
+14,FloorPlan_Train1_2.json.gz,easy,Bowl,22,1,[699]
+15,FloorPlan_Train1_2.json.gz,medium,GarbageCan,71,2,"[870, 833]"
+16,FloorPlan_Train1_2.json.gz,hard,GarbageCan,51,2,"[871, 835]"
+17,FloorPlan_Train1_2.json.gz,easy,GarbageCan,28,1,[755]
+18,FloorPlan_Train1_2.json.gz,easy,HousePlant,21,1,[914]
+19,FloorPlan_Train1_2.json.gz,hard,HousePlant,90,3,"[918, 955, 971]"
+20,FloorPlan_Train1_2.json.gz,medium,HousePlant,39,1,[1046]
+21,FloorPlan_Train1_2.json.gz,easy,Laptop,27,1,[1144]
+22,FloorPlan_Train1_2.json.gz,hard,Laptop,67,2,"[1117, 1097]"
+23,FloorPlan_Train1_2.json.gz,medium,Laptop,56,2,"[1089, 1087]"
+24,FloorPlan_Train1_2.json.gz,hard,Mug,74,2,"[1252, 1200]"
+25,FloorPlan_Train1_2.json.gz,medium,Mug,34,1,[1236]
+26,FloorPlan_Train1_2.json.gz,easy,Mug,42,2,"[1279, 1288]"
+27,FloorPlan_Train1_2.json.gz,hard,SprayBottle,58,2,"[1471, 1350]"
+28,FloorPlan_Train1_2.json.gz,medium,SprayBottle,64,2,"[1437, 1467]"
+29,FloorPlan_Train1_2.json.gz,easy,SprayBottle,28,1,[1418]
+30,FloorPlan_Train1_2.json.gz,medium,Television,77,2,"[1508, 1630]"
+31,FloorPlan_Train1_2.json.gz,easy,Television,11,1,[1507]
+32,FloorPlan_Train1_2.json.gz,hard,Television,62,2,"[1534, 1540]"
+33,FloorPlan_Train1_2.json.gz,hard,Vase,70,2,"[1688, 1716]"
+34,FloorPlan_Train1_2.json.gz,medium,Vase,43,2,"[1792, 1733]"
+35,FloorPlan_Train1_2.json.gz,easy,Vase,37,1,[1796]
+0,FloorPlan_Train5_3.json.gz,hard,AlarmClock,87,3,"[25, 30, 52]"
+1,FloorPlan_Train5_3.json.gz,easy,AlarmClock,19,1,[98]
+2,FloorPlan_Train5_3.json.gz,medium,AlarmClock,44,2,"[37, 145]"
+3,FloorPlan_Train5_3.json.gz,easy,Apple,24,1,[160]
+4,FloorPlan_Train5_3.json.gz,medium,Apple,100,3,"[289, 233, 207]"
+5,FloorPlan_Train5_3.json.gz,hard,Apple,26,1,[161]
+6,FloorPlan_Train5_3.json.gz,hard,BaseballBat,59,2,"[382, 409]"
+7,FloorPlan_Train5_3.json.gz,easy,BaseballBat,36,1,[410]
+8,FloorPlan_Train5_3.json.gz,medium,BaseballBat,55,2,"[333, 358]"
+9,FloorPlan_Train5_3.json.gz,hard,BasketBall,18,1,[498]
+10,FloorPlan_Train5_3.json.gz,medium,BasketBall,96,3,"[492, 459, 578]"
+11,FloorPlan_Train5_3.json.gz,easy,BasketBall,36,1,[478]
+12,FloorPlan_Train5_3.json.gz,hard,Bowl,65,2,"[659, 602]"
+13,FloorPlan_Train5_3.json.gz,medium,Bowl,68,2,"[612, 699]"
+14,FloorPlan_Train5_3.json.gz,easy,Bowl,17,1,[637]
+15,FloorPlan_Train5_3.json.gz,medium,GarbageCan,49,2,"[815, 764]"
+16,FloorPlan_Train5_3.json.gz,hard,GarbageCan,63,2,"[774, 786]"
+17,FloorPlan_Train5_3.json.gz,easy,GarbageCan,38,1,[770]
+18,FloorPlan_Train5_3.json.gz,hard,HousePlant,101,3,"[1048, 968, 1009]"
+19,FloorPlan_Train5_3.json.gz,medium,HousePlant,30,1,[906]
+20,FloorPlan_Train5_3.json.gz,easy,HousePlant,19,1,[903]
+21,FloorPlan_Train5_3.json.gz,medium,Laptop,64,2,"[1181, 1150]"
+22,FloorPlan_Train5_3.json.gz,easy,Laptop,37,1,[1118]
+23,FloorPlan_Train5_3.json.gz,hard,Laptop,49,2,"[1179, 1136]"
+24,FloorPlan_Train5_3.json.gz,medium,Mug,59,2,"[1303, 1214]"
+25,FloorPlan_Train5_3.json.gz,easy,Mug,60,2,"[1291, 1343]"
+26,FloorPlan_Train5_3.json.gz,hard,Mug,31,1,[1248]
+27,FloorPlan_Train5_3.json.gz,hard,SprayBottle,82,3,"[1399, 1350, 1476]"
+28,FloorPlan_Train5_3.json.gz,medium,SprayBottle,52,2,"[1378, 1408]"
+29,FloorPlan_Train5_3.json.gz,easy,SprayBottle,16,1,[1361]
+30,FloorPlan_Train5_3.json.gz,hard,Television,83,3,"[1549, 1506, 1618]"
+31,FloorPlan_Train5_3.json.gz,medium,Television,43,2,"[1607, 1644]"
+32,FloorPlan_Train5_3.json.gz,easy,Television,24,1,[1608]
+33,FloorPlan_Train5_3.json.gz,medium,Vase,64,2,"[1791, 1795]"
+34,FloorPlan_Train5_3.json.gz,hard,Vase,56,2,"[1794, 1740]"
+35,FloorPlan_Train5_3.json.gz,easy,Vase,30,1,[1716]
+0,FloorPlan_Train10_1.json.gz,hard,AlarmClock,59,2,"[27, 96]"
+1,FloorPlan_Train10_1.json.gz,medium,AlarmClock,65,2,"[33, 85]"
+2,FloorPlan_Train10_1.json.gz,easy,AlarmClock,26,1,[26]
+3,FloorPlan_Train10_1.json.gz,medium,Apple,65,2,"[200, 269]"
+4,FloorPlan_Train10_1.json.gz,hard,Apple,49,2,"[241, 291]"
+5,FloorPlan_Train10_1.json.gz,easy,Apple,36,1,[219]
+6,FloorPlan_Train10_1.json.gz,medium,BaseballBat,67,2,"[410, 415]"
+7,FloorPlan_Train10_1.json.gz,hard,BaseballBat,69,2,"[325, 426]"
+8,FloorPlan_Train10_1.json.gz,easy,BaseballBat,14,1,[447]
+9,FloorPlan_Train10_1.json.gz,medium,BasketBall,78,2,"[490, 455]"
+10,FloorPlan_Train10_1.json.gz,easy,BasketBall,43,2,"[582, 565]"
+11,FloorPlan_Train10_1.json.gz,hard,BasketBall,29,1,[532]
+12,FloorPlan_Train10_1.json.gz,easy,Bowl,25,1,[662]
+13,FloorPlan_Train10_1.json.gz,hard,Bowl,65,2,"[644, 630]"
+14,FloorPlan_Train10_1.json.gz,medium,Bowl,60,2,"[697, 734]"
+15,FloorPlan_Train10_1.json.gz,hard,GarbageCan,38,1,[844]
+16,FloorPlan_Train10_1.json.gz,medium,GarbageCan,71,2,"[887, 773]"
+17,FloorPlan_Train10_1.json.gz,easy,GarbageCan,41,2,"[789, 874]"
+18,FloorPlan_Train10_1.json.gz,medium,HousePlant,55,2,"[1010, 955]"
+19,FloorPlan_Train10_1.json.gz,hard,HousePlant,62,2,"[1002, 953]"
+20,FloorPlan_Train10_1.json.gz,easy,HousePlant,33,1,[1038]
+21,FloorPlan_Train10_1.json.gz,medium,Laptop,36,1,[1050]
+22,FloorPlan_Train10_1.json.gz,hard,Laptop,79,2,"[1053, 1126]"
+23,FloorPlan_Train10_1.json.gz,easy,Laptop,35,1,[1173]
+24,FloorPlan_Train10_1.json.gz,easy,Mug,31,1,[1341]
+25,FloorPlan_Train10_1.json.gz,hard,Mug,65,2,"[1239, 1255]"
+26,FloorPlan_Train10_1.json.gz,medium,Mug,54,2,"[1297, 1234]"
+27,FloorPlan_Train10_1.json.gz,hard,SprayBottle,50,2,"[1440, 1486]"
+28,FloorPlan_Train10_1.json.gz,medium,SprayBottle,83,3,"[1425, 1373, 1408]"
+29,FloorPlan_Train10_1.json.gz,easy,SprayBottle,17,1,[1419]
+30,FloorPlan_Train10_1.json.gz,medium,Television,43,2,"[1578, 1523]"
+31,FloorPlan_Train10_1.json.gz,hard,Television,87,3,"[1604, 1583, 1640]"
+32,FloorPlan_Train10_1.json.gz,easy,Television,20,1,[1621]
+33,FloorPlan_Train10_1.json.gz,hard,Vase,69,2,"[1761, 1717]"
+34,FloorPlan_Train10_1.json.gz,easy,Vase,34,1,[1792]
+35,FloorPlan_Train10_1.json.gz,medium,Vase,47,2,"[1675, 1688]"
+0,FloorPlan_Train11_2.json.gz,hard,AlarmClock,37,1,[48]
+1,FloorPlan_Train11_2.json.gz,medium,AlarmClock,78,2,"[140, 107]"
+2,FloorPlan_Train11_2.json.gz,easy,AlarmClock,35,1,[64]
+3,FloorPlan_Train11_2.json.gz,hard,Apple,120,3,"[180, 268, 215]"
+4,FloorPlan_Train11_2.json.gz,easy,Apple,10,1,[264]
+5,FloorPlan_Train11_2.json.gz,medium,Apple,20,1,[254]
+6,FloorPlan_Train11_2.json.gz,medium,BaseballBat,51,2,"[317, 380]"
+7,FloorPlan_Train11_2.json.gz,hard,BaseballBat,70,2,"[383, 431]"
+8,FloorPlan_Train11_2.json.gz,easy,BaseballBat,29,1,[433]
+9,FloorPlan_Train11_2.json.gz,hard,BasketBall,93,3,"[498, 493, 535]"
+10,FloorPlan_Train11_2.json.gz,medium,BasketBall,32,1,[574]
+11,FloorPlan_Train11_2.json.gz,easy,BasketBall,25,1,[538]
+12,FloorPlan_Train11_2.json.gz,medium,Bowl,104,3,"[704, 686, 716]"
+13,FloorPlan_Train11_2.json.gz,easy,Bowl,25,1,[658]
+14,FloorPlan_Train11_2.json.gz,hard,Bowl,21,1,[669]
+15,FloorPlan_Train11_2.json.gz,hard,GarbageCan,100,3,"[890, 873, 776]"
+16,FloorPlan_Train11_2.json.gz,medium,GarbageCan,35,1,[760]
+17,FloorPlan_Train11_2.json.gz,easy,GarbageCan,15,1,[788]
+18,FloorPlan_Train11_2.json.gz,hard,HousePlant,21,1,[1025]
+19,FloorPlan_Train11_2.json.gz,easy,HousePlant,38,1,[985]
+20,FloorPlan_Train11_2.json.gz,medium,HousePlant,91,3,"[916, 920, 978]"
+21,FloorPlan_Train11_2.json.gz,easy,Laptop,48,2,"[1193, 1150]"
+22,FloorPlan_Train11_2.json.gz,medium,Laptop,76,2,"[1074, 1156]"
+23,FloorPlan_Train11_2.json.gz,hard,Laptop,26,1,[1085]
+24,FloorPlan_Train11_2.json.gz,medium,Mug,38,1,[1307]
+25,FloorPlan_Train11_2.json.gz,hard,Mug,94,3,"[1298, 1314, 1331]"
+26,FloorPlan_Train11_2.json.gz,easy,Mug,18,1,[1318]
+27,FloorPlan_Train11_2.json.gz,medium,SprayBottle,80,2,"[1403, 1485]"
+28,FloorPlan_Train11_2.json.gz,hard,SprayBottle,28,1,[1364]
+29,FloorPlan_Train11_2.json.gz,easy,SprayBottle,42,2,"[1439, 1494]"
+30,FloorPlan_Train11_2.json.gz,easy,Television,38,1,[1553]
+31,FloorPlan_Train11_2.json.gz,hard,Television,54,2,"[1515, 1607]"
+32,FloorPlan_Train11_2.json.gz,medium,Television,58,2,"[1603, 1629]"
+33,FloorPlan_Train11_2.json.gz,medium,Vase,65,2,"[1666, 1683]"
+34,FloorPlan_Train11_2.json.gz,easy,Vase,29,1,[1680]
+35,FloorPlan_Train11_2.json.gz,hard,Vase,56,2,"[1695, 1789]"
+0,FloorPlan_Train6_5.json.gz,hard,AlarmClock,56,2,"[116, 20]"
+1,FloorPlan_Train6_5.json.gz,medium,AlarmClock,78,2,"[102, 25]"
+2,FloorPlan_Train6_5.json.gz,easy,AlarmClock,16,1,[126]
+3,FloorPlan_Train6_5.json.gz,medium,Apple,29,1,[175]
+4,FloorPlan_Train6_5.json.gz,hard,Apple,103,3,"[208, 151, 214]"
+5,FloorPlan_Train6_5.json.gz,easy,Apple,18,1,[196]
+6,FloorPlan_Train6_5.json.gz,easy,BaseballBat,35,1,[340]
+7,FloorPlan_Train6_5.json.gz,hard,BaseballBat,42,2,"[385, 438]"
+8,FloorPlan_Train6_5.json.gz,medium,BaseballBat,73,2,"[390, 447]"
+9,FloorPlan_Train6_5.json.gz,hard,BasketBall,106,3,"[530, 528, 501]"
+10,FloorPlan_Train6_5.json.gz,medium,BasketBall,34,1,[553]
+11,FloorPlan_Train6_5.json.gz,easy,BasketBall,10,1,[509]
+12,FloorPlan_Train6_5.json.gz,medium,Bowl,69,2,"[727, 742]"
+13,FloorPlan_Train6_5.json.gz,easy,Bowl,42,2,"[657, 726]"
+14,FloorPlan_Train6_5.json.gz,hard,Bowl,39,1,[626]
+15,FloorPlan_Train6_5.json.gz,hard,GarbageCan,40,1,[888]
+16,FloorPlan_Train6_5.json.gz,medium,GarbageCan,82,3,"[764, 751, 827]"
+17,FloorPlan_Train6_5.json.gz,easy,GarbageCan,28,1,[855]
+18,FloorPlan_Train6_5.json.gz,medium,HousePlant,64,2,"[932, 1031]"
+19,FloorPlan_Train6_5.json.gz,easy,HousePlant,41,2,"[1004, 901]"
+20,FloorPlan_Train6_5.json.gz,hard,HousePlant,45,2,"[975, 919]"
+21,FloorPlan_Train6_5.json.gz,hard,Laptop,36,1,[1059]
+22,FloorPlan_Train6_5.json.gz,medium,Laptop,85,3,"[1053, 1101, 1186]"
+23,FloorPlan_Train6_5.json.gz,easy,Laptop,29,1,[1098]
+24,FloorPlan_Train6_5.json.gz,medium,Mug,70,2,"[1222, 1271]"
+25,FloorPlan_Train6_5.json.gz,easy,Mug,32,1,[1274]
+26,FloorPlan_Train6_5.json.gz,hard,Mug,48,2,"[1275, 1343]"
+27,FloorPlan_Train6_5.json.gz,hard,SprayBottle,101,3,"[1420, 1443, 1351]"
+28,FloorPlan_Train6_5.json.gz,easy,SprayBottle,17,1,[1435]
+29,FloorPlan_Train6_5.json.gz,medium,SprayBottle,32,1,[1421]
+30,FloorPlan_Train6_5.json.gz,medium,Television,63,2,"[1606, 1591]"
+31,FloorPlan_Train6_5.json.gz,hard,Television,49,2,"[1531, 1528]"
+32,FloorPlan_Train6_5.json.gz,easy,Television,38,1,[1534]
+33,FloorPlan_Train6_5.json.gz,medium,Vase,66,2,"[1653, 1774]"
+34,FloorPlan_Train6_5.json.gz,easy,Vase,29,1,[1662]
+35,FloorPlan_Train6_5.json.gz,hard,Vase,55,2,"[1667, 1696]"
+0,FloorPlan_Train10_4.json.gz,hard,AlarmClock,55,2,"[60, 58]"
+1,FloorPlan_Train10_4.json.gz,medium,AlarmClock,51,2,"[24, 140]"
+2,FloorPlan_Train10_4.json.gz,easy,AlarmClock,44,2,"[116, 70]"
+3,FloorPlan_Train10_4.json.gz,hard,Apple,56,2,"[287, 247]"
+4,FloorPlan_Train10_4.json.gz,easy,Apple,23,1,[296]
+5,FloorPlan_Train10_4.json.gz,medium,Apple,71,2,"[220, 168]"
+6,FloorPlan_Train10_4.json.gz,hard,BaseballBat,70,2,"[416, 410]"
+7,FloorPlan_Train10_4.json.gz,easy,BaseballBat,22,1,[301]
+8,FloorPlan_Train10_4.json.gz,medium,BaseballBat,58,2,"[395, 312]"
+9,FloorPlan_Train10_4.json.gz,hard,BasketBall,73,2,"[527, 560]"
+10,FloorPlan_Train10_4.json.gz,medium,BasketBall,60,2,"[488, 452]"
+11,FloorPlan_Train10_4.json.gz,easy,BasketBall,17,1,[512]
+12,FloorPlan_Train10_4.json.gz,medium,Bowl,63,2,"[708, 627]"
+13,FloorPlan_Train10_4.json.gz,hard,Bowl,76,2,"[661, 608]"
+14,FloorPlan_Train10_4.json.gz,easy,Bowl,11,1,[637]
+15,FloorPlan_Train10_4.json.gz,hard,GarbageCan,62,2,"[784, 883]"
+16,FloorPlan_Train10_4.json.gz,easy,GarbageCan,27,1,[778]
+17,FloorPlan_Train10_4.json.gz,medium,GarbageCan,61,2,"[866, 816]"
+18,FloorPlan_Train10_4.json.gz,medium,HousePlant,56,2,"[937, 950]"
+19,FloorPlan_Train10_4.json.gz,hard,HousePlant,62,2,"[939, 962]"
+20,FloorPlan_Train10_4.json.gz,easy,HousePlant,32,1,[957]
+21,FloorPlan_Train10_4.json.gz,hard,Laptop,55,2,"[1121, 1055]"
+22,FloorPlan_Train10_4.json.gz,medium,Laptop,46,2,"[1141, 1088]"
+23,FloorPlan_Train10_4.json.gz,easy,Laptop,49,2,"[1154, 1127]"
+24,FloorPlan_Train10_4.json.gz,medium,Mug,67,2,"[1342, 1312]"
+25,FloorPlan_Train10_4.json.gz,easy,Mug,38,1,[1316]
+26,FloorPlan_Train10_4.json.gz,hard,Mug,45,2,"[1325, 1295]"
+27,FloorPlan_Train10_4.json.gz,easy,SprayBottle,34,1,[1456]
+28,FloorPlan_Train10_4.json.gz,hard,SprayBottle,69,2,"[1453, 1359]"
+29,FloorPlan_Train10_4.json.gz,medium,SprayBottle,47,2,"[1475, 1396]"
+30,FloorPlan_Train10_4.json.gz,medium,Television,79,2,"[1550, 1632]"
+31,FloorPlan_Train10_4.json.gz,hard,Television,43,2,"[1563, 1526]"
+32,FloorPlan_Train10_4.json.gz,easy,Television,28,1,[1560]
+33,FloorPlan_Train10_4.json.gz,medium,Vase,73,2,"[1749, 1731]"
+34,FloorPlan_Train10_4.json.gz,hard,Vase,54,2,"[1662, 1705]"
+35,FloorPlan_Train10_4.json.gz,easy,Vase,23,1,[1754]
+0,FloorPlan_Train5_5.json.gz,medium,AlarmClock,89,3,"[146, 108, 19]"
+1,FloorPlan_Train5_5.json.gz,hard,AlarmClock,27,1,[45]
+2,FloorPlan_Train5_5.json.gz,easy,AlarmClock,34,1,[97]
+3,FloorPlan_Train5_5.json.gz,hard,Apple,68,2,"[245, 286]"
+4,FloorPlan_Train5_5.json.gz,easy,Apple,28,1,[282]
+5,FloorPlan_Train5_5.json.gz,medium,Apple,54,2,"[261, 253]"
+6,FloorPlan_Train5_5.json.gz,hard,BaseballBat,79,2,"[378, 303]"
+7,FloorPlan_Train5_5.json.gz,medium,BaseballBat,51,2,"[367, 355]"
+8,FloorPlan_Train5_5.json.gz,easy,BaseballBat,20,1,[382]
+9,FloorPlan_Train5_5.json.gz,easy,BasketBall,33,1,[560]
+10,FloorPlan_Train5_5.json.gz,medium,BasketBall,86,3,"[566, 483, 521]"
+11,FloorPlan_Train5_5.json.gz,hard,BasketBall,31,1,[489]
+12,FloorPlan_Train5_5.json.gz,hard,Bowl,73,2,"[655, 723]"
+13,FloorPlan_Train5_5.json.gz,medium,Bowl,41,2,"[608, 728]"
+14,FloorPlan_Train5_5.json.gz,easy,Bowl,36,1,[623]
+15,FloorPlan_Train5_5.json.gz,medium,GarbageCan,62,2,"[897, 762]"
+16,FloorPlan_Train5_5.json.gz,hard,GarbageCan,68,2,"[798, 797]"
+17,FloorPlan_Train5_5.json.gz,easy,GarbageCan,20,1,[782]
+18,FloorPlan_Train5_5.json.gz,medium,HousePlant,73,2,"[934, 978]"
+19,FloorPlan_Train5_5.json.gz,hard,HousePlant,52,2,"[927, 1048]"
+20,FloorPlan_Train5_5.json.gz,easy,HousePlant,25,1,[974]
+21,FloorPlan_Train5_5.json.gz,medium,Laptop,47,2,"[1088, 1179]"
+22,FloorPlan_Train5_5.json.gz,hard,Laptop,66,2,"[1075, 1190]"
+23,FloorPlan_Train5_5.json.gz,easy,Laptop,37,1,[1126]
+24,FloorPlan_Train5_5.json.gz,hard,Mug,62,2,"[1332, 1200]"
+25,FloorPlan_Train5_5.json.gz,easy,Mug,16,1,[1336]
+26,FloorPlan_Train5_5.json.gz,medium,Mug,72,2,"[1324, 1318]"
+27,FloorPlan_Train5_5.json.gz,medium,SprayBottle,67,2,"[1364, 1422]"
+28,FloorPlan_Train5_5.json.gz,easy,SprayBottle,44,2,"[1407, 1463]"
+29,FloorPlan_Train5_5.json.gz,hard,SprayBottle,39,1,[1481]
+30,FloorPlan_Train5_5.json.gz,medium,Television,31,1,[1554]
+31,FloorPlan_Train5_5.json.gz,hard,Television,106,3,"[1649, 1628, 1577]"
+32,FloorPlan_Train5_5.json.gz,easy,Television,13,1,[1647]
+33,FloorPlan_Train5_5.json.gz,medium,Vase,65,2,"[1796, 1703]"
+34,FloorPlan_Train5_5.json.gz,hard,Vase,49,2,"[1715, 1756]"
+35,FloorPlan_Train5_5.json.gz,easy,Vase,36,1,[1720]
+0,FloorPlan_Train12_3.json.gz,hard,AlarmClock,34,1,[67]
+1,FloorPlan_Train12_3.json.gz,easy,AlarmClock,48,2,"[60, 2]"
+2,FloorPlan_Train12_3.json.gz,medium,AlarmClock,68,2,"[55, 49]"
+3,FloorPlan_Train12_3.json.gz,easy,Apple,33,1,[264]
+4,FloorPlan_Train12_3.json.gz,medium,Apple,84,3,"[234, 278, 268]"
+5,FloorPlan_Train12_3.json.gz,hard,Apple,33,1,[257]
+6,FloorPlan_Train12_3.json.gz,hard,BaseballBat,79,2,"[424, 391]"
+7,FloorPlan_Train12_3.json.gz,medium,BaseballBat,44,2,"[435, 314]"
+8,FloorPlan_Train12_3.json.gz,easy,BaseballBat,27,1,[381]
+9,FloorPlan_Train12_3.json.gz,hard,BasketBall,45,2,"[564, 497]"
+10,FloorPlan_Train12_3.json.gz,medium,BasketBall,65,2,"[494, 582]"
+11,FloorPlan_Train12_3.json.gz,easy,BasketBall,40,1,[598]
+12,FloorPlan_Train12_3.json.gz,easy,Bowl,25,1,[701]
+13,FloorPlan_Train12_3.json.gz,medium,Bowl,59,2,"[730, 620]"
+14,FloorPlan_Train12_3.json.gz,hard,Bowl,66,2,"[746, 640]"
+15,FloorPlan_Train12_3.json.gz,easy,GarbageCan,28,1,[802]
+16,FloorPlan_Train12_3.json.gz,hard,GarbageCan,51,2,"[770, 899]"
+17,FloorPlan_Train12_3.json.gz,medium,GarbageCan,71,2,"[766, 814]"
+18,FloorPlan_Train12_3.json.gz,medium,HousePlant,44,2,"[924, 1013]"
+19,FloorPlan_Train12_3.json.gz,easy,HousePlant,25,1,[954]
+20,FloorPlan_Train12_3.json.gz,hard,HousePlant,81,3,"[962, 990, 960]"
+21,FloorPlan_Train12_3.json.gz,hard,Laptop,70,2,"[1057, 1111]"
+22,FloorPlan_Train12_3.json.gz,medium,Laptop,60,2,"[1144, 1170]"
+23,FloorPlan_Train12_3.json.gz,easy,Laptop,20,1,[1090]
+24,FloorPlan_Train12_3.json.gz,hard,Mug,38,1,[1218]
+25,FloorPlan_Train12_3.json.gz,medium,Mug,89,3,"[1248, 1244, 1216]"
+26,FloorPlan_Train12_3.json.gz,easy,Mug,23,1,[1290]
+27,FloorPlan_Train12_3.json.gz,medium,SprayBottle,36,1,[1499]
+28,FloorPlan_Train12_3.json.gz,easy,SprayBottle,27,1,[1378]
+29,FloorPlan_Train12_3.json.gz,hard,SprayBottle,87,3,"[1377, 1487, 1396]"
+30,FloorPlan_Train12_3.json.gz,hard,Television,77,2,"[1532, 1509]"
+31,FloorPlan_Train12_3.json.gz,easy,Television,22,1,[1582]
+32,FloorPlan_Train12_3.json.gz,medium,Television,51,2,"[1606, 1611]"
+33,FloorPlan_Train12_3.json.gz,medium,Vase,59,2,"[1668, 1755]"
+34,FloorPlan_Train12_3.json.gz,hard,Vase,59,2,"[1742, 1726]"
+35,FloorPlan_Train12_3.json.gz,easy,Vase,32,1,[1680]
+0,FloorPlan_Train12_1.json.gz,medium,AlarmClock,80,2,"[131, 113]"
+1,FloorPlan_Train12_1.json.gz,easy,AlarmClock,22,1,[20]
+2,FloorPlan_Train12_1.json.gz,hard,AlarmClock,48,2,"[102, 16]"
+3,FloorPlan_Train12_1.json.gz,medium,Apple,73,2,"[280, 267]"
+4,FloorPlan_Train12_1.json.gz,easy,Apple,33,1,[153]
+5,FloorPlan_Train12_1.json.gz,hard,Apple,44,2,"[272, 295]"
+6,FloorPlan_Train12_1.json.gz,hard,BaseballBat,33,1,[426]
+7,FloorPlan_Train12_1.json.gz,easy,BaseballBat,54,2,"[444, 375]"
+8,FloorPlan_Train12_1.json.gz,medium,BaseballBat,63,2,"[398, 307]"
+9,FloorPlan_Train12_1.json.gz,medium,BasketBall,55,2,"[507, 538]"
+10,FloorPlan_Train12_1.json.gz,easy,BasketBall,46,2,"[530, 580]"
+11,FloorPlan_Train12_1.json.gz,hard,BasketBall,49,2,"[509, 475]"
+12,FloorPlan_Train12_1.json.gz,hard,Bowl,63,2,"[730, 655]"
+13,FloorPlan_Train12_1.json.gz,medium,Bowl,62,2,"[625, 636]"
+14,FloorPlan_Train12_1.json.gz,easy,Bowl,25,1,[726]
+15,FloorPlan_Train12_1.json.gz,easy,GarbageCan,12,1,[871]
+16,FloorPlan_Train12_1.json.gz,medium,GarbageCan,65,2,"[791, 853]"
+17,FloorPlan_Train12_1.json.gz,hard,GarbageCan,73,2,"[757, 849]"
+18,FloorPlan_Train12_1.json.gz,medium,HousePlant,47,2,"[931, 1029]"
+19,FloorPlan_Train12_1.json.gz,hard,HousePlant,70,2,"[923, 996]"
+20,FloorPlan_Train12_1.json.gz,easy,HousePlant,33,1,[1045]
+21,FloorPlan_Train12_1.json.gz,medium,Laptop,53,2,"[1136, 1073]"
+22,FloorPlan_Train12_1.json.gz,hard,Laptop,64,2,"[1193, 1197]"
+23,FloorPlan_Train12_1.json.gz,easy,Laptop,33,1,[1089]
+24,FloorPlan_Train12_1.json.gz,hard,Mug,68,2,"[1316, 1317]"
+25,FloorPlan_Train12_1.json.gz,easy,Mug,30,1,[1213]
+26,FloorPlan_Train12_1.json.gz,medium,Mug,52,2,"[1334, 1246]"
+27,FloorPlan_Train12_1.json.gz,hard,SprayBottle,60,2,"[1361, 1369]"
+28,FloorPlan_Train12_1.json.gz,medium,SprayBottle,75,2,"[1491, 1403]"
+29,FloorPlan_Train12_1.json.gz,easy,SprayBottle,15,1,[1423]
+30,FloorPlan_Train12_1.json.gz,hard,Television,75,2,"[1543, 1541]"
+31,FloorPlan_Train12_1.json.gz,medium,Television,48,2,"[1617, 1534]"
+32,FloorPlan_Train12_1.json.gz,easy,Television,27,1,[1586]
+33,FloorPlan_Train12_1.json.gz,hard,Vase,73,2,"[1781, 1706]"
+34,FloorPlan_Train12_1.json.gz,easy,Vase,25,1,[1736]
+35,FloorPlan_Train12_1.json.gz,medium,Vase,52,2,"[1663, 1707]"
+0,FloorPlan_Train9_2.json.gz,hard,AlarmClock,62,2,"[61, 106]"
+1,FloorPlan_Train9_2.json.gz,easy,AlarmClock,27,1,[84]
+2,FloorPlan_Train9_2.json.gz,medium,AlarmClock,61,2,"[36, 48]"
+3,FloorPlan_Train9_2.json.gz,hard,Apple,33,1,[153]
+4,FloorPlan_Train9_2.json.gz,medium,Apple,74,2,"[213, 184]"
+5,FloorPlan_Train9_2.json.gz,easy,Apple,43,2,"[166, 238]"
+6,FloorPlan_Train9_2.json.gz,medium,BaseballBat,60,2,"[398, 374]"
+7,FloorPlan_Train9_2.json.gz,easy,BaseballBat,27,1,[422]
+8,FloorPlan_Train9_2.json.gz,hard,BaseballBat,63,2,"[438, 397]"
+9,FloorPlan_Train9_2.json.gz,medium,BasketBall,59,2,"[561, 537]"
+10,FloorPlan_Train9_2.json.gz,hard,BasketBall,64,2,"[591, 555]"
+11,FloorPlan_Train9_2.json.gz,easy,BasketBall,27,1,[471]
+12,FloorPlan_Train9_2.json.gz,easy,Bowl,26,1,[681]
+13,FloorPlan_Train9_2.json.gz,hard,Bowl,69,2,"[669, 627]"
+14,FloorPlan_Train9_2.json.gz,medium,Bowl,55,2,"[726, 626]"
+15,FloorPlan_Train9_2.json.gz,hard,GarbageCan,68,2,"[761, 886]"
+16,FloorPlan_Train9_2.json.gz,easy,GarbageCan,16,1,[751]
+17,FloorPlan_Train9_2.json.gz,medium,GarbageCan,66,2,"[852, 801]"
+18,FloorPlan_Train9_2.json.gz,hard,HousePlant,80,2,"[1002, 963]"
+19,FloorPlan_Train9_2.json.gz,easy,HousePlant,23,1,[1034]
+20,FloorPlan_Train9_2.json.gz,medium,HousePlant,47,2,"[1019, 1035]"
+21,FloorPlan_Train9_2.json.gz,hard,Laptop,62,2,"[1143, 1134]"
+22,FloorPlan_Train9_2.json.gz,medium,Laptop,64,2,"[1074, 1104]"
+23,FloorPlan_Train9_2.json.gz,easy,Laptop,24,1,[1084]
+24,FloorPlan_Train9_2.json.gz,easy,Mug,36,1,[1253]
+25,FloorPlan_Train9_2.json.gz,hard,Mug,44,2,"[1341, 1347]"
+26,FloorPlan_Train9_2.json.gz,medium,Mug,70,2,"[1294, 1301]"
+27,FloorPlan_Train9_2.json.gz,hard,SprayBottle,68,2,"[1480, 1428]"
+28,FloorPlan_Train9_2.json.gz,medium,SprayBottle,52,2,"[1494, 1440]"
+29,FloorPlan_Train9_2.json.gz,easy,SprayBottle,30,1,[1425]
+30,FloorPlan_Train9_2.json.gz,hard,Television,73,2,"[1564, 1645]"
+31,FloorPlan_Train9_2.json.gz,medium,Television,49,2,"[1512, 1625]"
+32,FloorPlan_Train9_2.json.gz,easy,Television,28,1,[1583]
+33,FloorPlan_Train9_2.json.gz,medium,Vase,69,2,"[1660, 1684]"
+34,FloorPlan_Train9_2.json.gz,hard,Vase,36,1,[1705]
+35,FloorPlan_Train9_2.json.gz,easy,Vase,45,2,"[1741, 1714]"
+0,FloorPlan_Train11_3.json.gz,hard,AlarmClock,85,3,"[51, 52, 33]"
+1,FloorPlan_Train11_3.json.gz,easy,AlarmClock,22,1,[70]
+2,FloorPlan_Train11_3.json.gz,medium,AlarmClock,43,2,"[135, 57]"
+3,FloorPlan_Train11_3.json.gz,hard,Apple,82,3,"[192, 185, 169]"
+4,FloorPlan_Train11_3.json.gz,easy,Apple,22,1,[211]
+5,FloorPlan_Train11_3.json.gz,medium,Apple,46,2,"[219, 213]"
+6,FloorPlan_Train11_3.json.gz,medium,BaseballBat,29,1,[309]
+7,FloorPlan_Train11_3.json.gz,hard,BaseballBat,88,3,"[346, 368, 438]"
+8,FloorPlan_Train11_3.json.gz,easy,BaseballBat,33,1,[338]
+9,FloorPlan_Train11_3.json.gz,medium,BasketBall,89,3,"[591, 540, 504]"
+10,FloorPlan_Train11_3.json.gz,easy,BasketBall,51,2,"[567, 506]"
+11,FloorPlan_Train11_3.json.gz,hard,BasketBall,10,1,[599]
+12,FloorPlan_Train11_3.json.gz,medium,Bowl,88,3,"[624, 641, 663]"
+13,FloorPlan_Train11_3.json.gz,hard,Bowl,13,1,[685]
+14,FloorPlan_Train11_3.json.gz,easy,Bowl,49,2,"[667, 722]"
+15,FloorPlan_Train11_3.json.gz,easy,GarbageCan,9,1,[891]
+16,FloorPlan_Train11_3.json.gz,hard,GarbageCan,112,3,"[823, 761, 822]"
+17,FloorPlan_Train11_3.json.gz,medium,GarbageCan,29,1,[826]
+18,FloorPlan_Train11_3.json.gz,easy,HousePlant,41,2,"[1049, 1001]"
+19,FloorPlan_Train11_3.json.gz,medium,HousePlant,67,2,"[952, 962]"
+20,FloorPlan_Train11_3.json.gz,hard,HousePlant,42,2,"[1033, 1034]"
+21,FloorPlan_Train11_3.json.gz,medium,Laptop,99,3,"[1058, 1085, 1186]"
+22,FloorPlan_Train11_3.json.gz,easy,Laptop,47,2,"[1057, 1162]"
+23,FloorPlan_Train11_3.json.gz,hard,Laptop,4,1,[1072]
+24,FloorPlan_Train11_3.json.gz,medium,Mug,54,2,"[1338, 1342]"
+25,FloorPlan_Train11_3.json.gz,hard,Mug,71,2,"[1293, 1312]"
+26,FloorPlan_Train11_3.json.gz,easy,Mug,25,1,[1208]
+27,FloorPlan_Train11_3.json.gz,hard,SprayBottle,100,3,"[1430, 1397, 1438]"
+28,FloorPlan_Train11_3.json.gz,medium,SprayBottle,32,1,[1365]
+29,FloorPlan_Train11_3.json.gz,easy,SprayBottle,18,1,[1454]
+30,FloorPlan_Train11_3.json.gz,hard,Television,92,3,"[1511, 1528, 1610]"
+31,FloorPlan_Train11_3.json.gz,medium,Television,36,1,[1637]
+32,FloorPlan_Train11_3.json.gz,easy,Television,22,1,[1525]
+33,FloorPlan_Train11_3.json.gz,easy,Vase,21,1,[1767]
+34,FloorPlan_Train11_3.json.gz,medium,Vase,108,3,"[1791, 1768, 1759]"
+35,FloorPlan_Train11_3.json.gz,hard,Vase,21,1,[1769]
+0,FloorPlan_Train7_5.json.gz,hard,AlarmClock,81,3,"[6, 66, 142]"
+1,FloorPlan_Train7_5.json.gz,medium,AlarmClock,42,2,"[100, 21]"
+2,FloorPlan_Train7_5.json.gz,easy,AlarmClock,27,1,[122]
+3,FloorPlan_Train7_5.json.gz,hard,Apple,46,2,"[196, 173]"
+4,FloorPlan_Train7_5.json.gz,medium,Apple,70,2,"[194, 188]"
+5,FloorPlan_Train7_5.json.gz,easy,Apple,34,1,[207]
+6,FloorPlan_Train7_5.json.gz,easy,BaseballBat,9,1,[313]
+7,FloorPlan_Train7_5.json.gz,hard,BaseballBat,106,3,"[346, 358, 319]"
+8,FloorPlan_Train7_5.json.gz,medium,BaseballBat,35,1,[411]
+9,FloorPlan_Train7_5.json.gz,hard,BasketBall,106,3,"[533, 534, 493]"
+10,FloorPlan_Train7_5.json.gz,easy,BasketBall,9,1,[451]
+11,FloorPlan_Train7_5.json.gz,medium,BasketBall,35,1,[492]
+12,FloorPlan_Train7_5.json.gz,easy,Bowl,32,1,[737]
+13,FloorPlan_Train7_5.json.gz,hard,Bowl,27,1,[718]
+14,FloorPlan_Train7_5.json.gz,medium,Bowl,91,3,"[636, 697, 713]"
+15,FloorPlan_Train7_5.json.gz,easy,GarbageCan,45,2,"[891, 853]"
+16,FloorPlan_Train7_5.json.gz,hard,GarbageCan,55,2,"[852, 896]"
+17,FloorPlan_Train7_5.json.gz,medium,GarbageCan,50,2,"[820, 801]"
+18,FloorPlan_Train7_5.json.gz,easy,HousePlant,30,1,[942]
+19,FloorPlan_Train7_5.json.gz,medium,HousePlant,27,1,[929]
+20,FloorPlan_Train7_5.json.gz,hard,HousePlant,93,3,"[989, 973, 1047]"
+21,FloorPlan_Train7_5.json.gz,medium,Laptop,90,3,"[1053, 1172, 1150]"
+22,FloorPlan_Train7_5.json.gz,hard,Laptop,29,1,[1081]
+23,FloorPlan_Train7_5.json.gz,easy,Laptop,31,1,[1159]
+24,FloorPlan_Train7_5.json.gz,medium,Mug,86,3,"[1292, 1238, 1294]"
+25,FloorPlan_Train7_5.json.gz,easy,Mug,39,1,[1282]
+26,FloorPlan_Train7_5.json.gz,hard,Mug,25,1,[1305]
+27,FloorPlan_Train7_5.json.gz,hard,SprayBottle,52,2,"[1398, 1350]"
+28,FloorPlan_Train7_5.json.gz,easy,SprayBottle,38,1,[1403]
+29,FloorPlan_Train7_5.json.gz,medium,SprayBottle,60,2,"[1467, 1451]"
+30,FloorPlan_Train7_5.json.gz,hard,Television,74,2,"[1605, 1579]"
+31,FloorPlan_Train7_5.json.gz,medium,Television,52,2,"[1530, 1589]"
+32,FloorPlan_Train7_5.json.gz,easy,Television,24,1,[1531]
+33,FloorPlan_Train7_5.json.gz,medium,Vase,97,3,"[1763, 1749, 1655]"
+34,FloorPlan_Train7_5.json.gz,easy,Vase,27,1,[1754]
+35,FloorPlan_Train7_5.json.gz,hard,Vase,26,1,[1687]
+0,FloorPlan_Train2_2.json.gz,hard,AlarmClock,60,2,"[144, 59]"
+1,FloorPlan_Train2_2.json.gz,medium,AlarmClock,76,2,"[66, 103]"
+2,FloorPlan_Train2_2.json.gz,easy,AlarmClock,14,1,[120]
+3,FloorPlan_Train2_2.json.gz,easy,Apple,15,1,[284]
+4,FloorPlan_Train2_2.json.gz,hard,Apple,57,2,"[286, 156]"
+5,FloorPlan_Train2_2.json.gz,medium,Apple,78,2,"[212, 157]"
+6,FloorPlan_Train2_2.json.gz,hard,BaseballBat,56,2,"[393, 324]"
+7,FloorPlan_Train2_2.json.gz,easy,BaseballBat,54,2,"[363, 419]"
+8,FloorPlan_Train2_2.json.gz,medium,BaseballBat,40,1,[329]
+9,FloorPlan_Train2_2.json.gz,medium,BasketBall,85,3,"[545, 518, 558]"
+10,FloorPlan_Train2_2.json.gz,hard,BasketBall,38,1,[526]
+11,FloorPlan_Train2_2.json.gz,easy,BasketBall,27,1,[548]
+12,FloorPlan_Train2_2.json.gz,easy,Bowl,38,1,[656]
+13,FloorPlan_Train2_2.json.gz,medium,Bowl,52,2,"[692, 679]"
+14,FloorPlan_Train2_2.json.gz,hard,Bowl,60,2,"[688, 705]"
+15,FloorPlan_Train2_2.json.gz,medium,GarbageCan,52,2,"[784, 781]"
+16,FloorPlan_Train2_2.json.gz,hard,GarbageCan,66,2,"[849, 885]"
+17,FloorPlan_Train2_2.json.gz,easy,GarbageCan,32,1,[805]
+18,FloorPlan_Train2_2.json.gz,medium,HousePlant,52,2,"[940, 951]"
+19,FloorPlan_Train2_2.json.gz,hard,HousePlant,69,2,"[975, 991]"
+20,FloorPlan_Train2_2.json.gz,easy,HousePlant,29,1,[920]
+21,FloorPlan_Train2_2.json.gz,hard,Laptop,71,2,"[1074, 1162]"
+22,FloorPlan_Train2_2.json.gz,medium,Laptop,63,2,"[1068, 1108]"
+23,FloorPlan_Train2_2.json.gz,easy,Laptop,16,1,[1146]
+24,FloorPlan_Train2_2.json.gz,hard,Mug,54,2,"[1284, 1252]"
+25,FloorPlan_Train2_2.json.gz,medium,Mug,59,2,"[1319, 1318]"
+26,FloorPlan_Train2_2.json.gz,easy,Mug,37,1,[1208]
+27,FloorPlan_Train2_2.json.gz,medium,SprayBottle,70,2,"[1385, 1495]"
+28,FloorPlan_Train2_2.json.gz,hard,SprayBottle,59,2,"[1362, 1440]"
+29,FloorPlan_Train2_2.json.gz,easy,SprayBottle,21,1,[1398]
+30,FloorPlan_Train2_2.json.gz,medium,Television,55,2,"[1640, 1597]"
+31,FloorPlan_Train2_2.json.gz,hard,Television,69,2,"[1560, 1572]"
+32,FloorPlan_Train2_2.json.gz,easy,Television,26,1,[1548]
+33,FloorPlan_Train2_2.json.gz,easy,Vase,35,1,[1686]
+34,FloorPlan_Train2_2.json.gz,hard,Vase,61,2,"[1725, 1744]"
+35,FloorPlan_Train2_2.json.gz,medium,Vase,54,2,"[1774, 1793]"
+0,FloorPlan_Train5_1.json.gz,hard,AlarmClock,83,3,"[138, 74, 103]"
+1,FloorPlan_Train5_1.json.gz,medium,AlarmClock,61,2,"[11, 2]"
+2,FloorPlan_Train5_1.json.gz,easy,AlarmClock,6,1,[16]
+3,FloorPlan_Train5_1.json.gz,easy,Apple,62,2,"[218, 207]"
+4,FloorPlan_Train5_1.json.gz,medium,Apple,56,2,"[247, 291]"
+5,FloorPlan_Train5_1.json.gz,hard,Apple,32,1,[180]
+6,FloorPlan_Train5_1.json.gz,medium,BaseballBat,91,3,"[350, 358, 386]"
+7,FloorPlan_Train5_1.json.gz,easy,BaseballBat,45,2,"[369, 435]"
+8,FloorPlan_Train5_1.json.gz,hard,BaseballBat,14,1,[410]
+9,FloorPlan_Train5_1.json.gz,hard,BasketBall,111,3,"[517, 515, 566]"
+10,FloorPlan_Train5_1.json.gz,medium,BasketBall,25,1,[459]
+11,FloorPlan_Train5_1.json.gz,easy,BasketBall,14,1,[474]
+12,FloorPlan_Train5_1.json.gz,hard,Bowl,23,1,[656]
+13,FloorPlan_Train5_1.json.gz,medium,Bowl,87,3,"[644, 676, 721]"
+14,FloorPlan_Train5_1.json.gz,easy,Bowl,40,1,[704]
+15,FloorPlan_Train5_1.json.gz,hard,GarbageCan,101,3,"[895, 783, 793]"
+16,FloorPlan_Train5_1.json.gz,medium,GarbageCan,41,2,"[889, 888]"
+17,FloorPlan_Train5_1.json.gz,easy,GarbageCan,8,1,[879]
+18,FloorPlan_Train5_1.json.gz,hard,HousePlant,98,3,"[975, 961, 969]"
+19,FloorPlan_Train5_1.json.gz,easy,HousePlant,16,1,[912]
+20,FloorPlan_Train5_1.json.gz,medium,HousePlant,36,1,[997]
+21,FloorPlan_Train5_1.json.gz,hard,Laptop,82,3,"[1146, 1088, 1137]"
+22,FloorPlan_Train5_1.json.gz,easy,Laptop,33,1,[1086]
+23,FloorPlan_Train5_1.json.gz,medium,Laptop,35,1,[1077]
+24,FloorPlan_Train5_1.json.gz,medium,Mug,93,3,"[1341, 1240, 1271]"
+25,FloorPlan_Train5_1.json.gz,hard,Mug,37,1,[1326]
+26,FloorPlan_Train5_1.json.gz,easy,Mug,20,1,[1320]
+27,FloorPlan_Train5_1.json.gz,hard,SprayBottle,48,2,"[1444, 1449]"
+28,FloorPlan_Train5_1.json.gz,medium,SprayBottle,39,1,[1403]
+29,FloorPlan_Train5_1.json.gz,easy,SprayBottle,63,2,"[1407, 1364]"
+30,FloorPlan_Train5_1.json.gz,medium,Television,64,2,"[1533, 1516]"
+31,FloorPlan_Train5_1.json.gz,easy,Television,26,1,[1583]
+32,FloorPlan_Train5_1.json.gz,hard,Television,60,2,"[1649, 1633]"
+33,FloorPlan_Train5_1.json.gz,medium,Vase,91,3,"[1775, 1774, 1699]"
+34,FloorPlan_Train5_1.json.gz,hard,Vase,33,1,[1766]
+35,FloorPlan_Train5_1.json.gz,easy,Vase,26,1,[1737]
+0,FloorPlan_Train5_4.json.gz,easy,AlarmClock,20,1,[2]
+1,FloorPlan_Train5_4.json.gz,hard,AlarmClock,89,3,"[26, 48, 84]"
+2,FloorPlan_Train5_4.json.gz,medium,AlarmClock,41,2,"[112, 22]"
+3,FloorPlan_Train5_4.json.gz,medium,Apple,62,2,"[248, 201]"
+4,FloorPlan_Train5_4.json.gz,easy,Apple,42,2,"[225, 231]"
+5,FloorPlan_Train5_4.json.gz,hard,Apple,46,2,"[297, 189]"
+6,FloorPlan_Train5_4.json.gz,hard,BaseballBat,109,3,"[425, 356, 368]"
+7,FloorPlan_Train5_4.json.gz,easy,BaseballBat,14,1,[354]
+8,FloorPlan_Train5_4.json.gz,medium,BaseballBat,27,1,[398]
+9,FloorPlan_Train5_4.json.gz,hard,BasketBall,88,3,"[595, 474, 580]"
+10,FloorPlan_Train5_4.json.gz,medium,BasketBall,46,2,"[486, 485]"
+11,FloorPlan_Train5_4.json.gz,easy,BasketBall,16,1,[515]
+12,FloorPlan_Train5_4.json.gz,hard,Bowl,66,2,"[723, 655]"
+13,FloorPlan_Train5_4.json.gz,medium,Bowl,51,2,"[691, 645]"
+14,FloorPlan_Train5_4.json.gz,easy,Bowl,33,1,[701]
+15,FloorPlan_Train5_4.json.gz,hard,GarbageCan,45,2,"[889, 758]"
+16,FloorPlan_Train5_4.json.gz,easy,GarbageCan,41,2,"[840, 867]"
+17,FloorPlan_Train5_4.json.gz,medium,GarbageCan,64,2,"[782, 816]"
+18,FloorPlan_Train5_4.json.gz,hard,HousePlant,56,2,"[900, 904]"
+19,FloorPlan_Train5_4.json.gz,medium,HousePlant,64,2,"[929, 996]"
+20,FloorPlan_Train5_4.json.gz,easy,HousePlant,30,1,[1046]
+21,FloorPlan_Train5_4.json.gz,medium,Laptop,41,2,"[1134, 1054]"
+22,FloorPlan_Train5_4.json.gz,easy,Laptop,45,2,"[1111, 1056]"
+23,FloorPlan_Train5_4.json.gz,hard,Laptop,64,2,"[1137, 1162]"
+24,FloorPlan_Train5_4.json.gz,easy,Mug,33,1,[1249]
+25,FloorPlan_Train5_4.json.gz,hard,Mug,13,1,[1225]
+26,FloorPlan_Train5_4.json.gz,medium,Mug,104,3,"[1260, 1308, 1237]"
+27,FloorPlan_Train5_4.json.gz,medium,SprayBottle,78,2,"[1414, 1370]"
+28,FloorPlan_Train5_4.json.gz,easy,SprayBottle,16,1,[1398]
+29,FloorPlan_Train5_4.json.gz,hard,SprayBottle,56,2,"[1357, 1358]"
+30,FloorPlan_Train5_4.json.gz,hard,Television,57,2,"[1561, 1572]"
+31,FloorPlan_Train5_4.json.gz,medium,Television,58,2,"[1587, 1591]"
+32,FloorPlan_Train5_4.json.gz,easy,Television,35,1,[1531]
+33,FloorPlan_Train5_4.json.gz,hard,Vase,36,1,[1688]
+34,FloorPlan_Train5_4.json.gz,medium,Vase,79,2,"[1775, 1700]"
+35,FloorPlan_Train5_4.json.gz,easy,Vase,35,1,[1762]
+0,FloorPlan_Train11_1.json.gz,easy,AlarmClock,29,1,[107]
+1,FloorPlan_Train11_1.json.gz,hard,AlarmClock,42,2,"[13, 10]"
+2,FloorPlan_Train11_1.json.gz,medium,AlarmClock,79,2,"[51, 74]"
+3,FloorPlan_Train11_1.json.gz,hard,Apple,64,2,"[249, 246]"
+4,FloorPlan_Train11_1.json.gz,easy,Apple,35,1,[245]
+5,FloorPlan_Train11_1.json.gz,medium,Apple,51,2,"[222, 181]"
+6,FloorPlan_Train11_1.json.gz,hard,BaseballBat,53,2,"[339, 321]"
+7,FloorPlan_Train11_1.json.gz,medium,BaseballBat,66,2,"[430, 413]"
+8,FloorPlan_Train11_1.json.gz,easy,BaseballBat,31,1,[349]
+9,FloorPlan_Train11_1.json.gz,easy,BasketBall,43,2,"[470, 494]"
+10,FloorPlan_Train11_1.json.gz,medium,BasketBall,86,3,"[516, 451, 593]"
+11,FloorPlan_Train11_1.json.gz,hard,BasketBall,21,1,[591]
+12,FloorPlan_Train11_1.json.gz,easy,Bowl,45,2,"[679, 717]"
+13,FloorPlan_Train11_1.json.gz,medium,Bowl,96,3,"[622, 678, 660]"
+14,FloorPlan_Train11_1.json.gz,hard,Bowl,9,1,[670]
+15,FloorPlan_Train11_1.json.gz,easy,GarbageCan,15,1,[799]
+16,FloorPlan_Train11_1.json.gz,hard,GarbageCan,65,2,"[785, 835]"
+17,FloorPlan_Train11_1.json.gz,medium,GarbageCan,70,2,"[781, 804]"
+18,FloorPlan_Train11_1.json.gz,hard,HousePlant,96,3,"[974, 1001, 949]"
+19,FloorPlan_Train11_1.json.gz,medium,HousePlant,37,1,[993]
+20,FloorPlan_Train11_1.json.gz,easy,HousePlant,17,1,[933]
+21,FloorPlan_Train11_1.json.gz,medium,Laptop,50,2,"[1081, 1128]"
+22,FloorPlan_Train11_1.json.gz,hard,Laptop,85,3,"[1080, 1093, 1116]"
+23,FloorPlan_Train11_1.json.gz,easy,Laptop,15,1,[1141]
+24,FloorPlan_Train11_1.json.gz,medium,Mug,52,2,"[1280, 1254]"
+25,FloorPlan_Train11_1.json.gz,hard,Mug,59,2,"[1341, 1258]"
+26,FloorPlan_Train11_1.json.gz,easy,Mug,39,1,[1327]
+27,FloorPlan_Train11_1.json.gz,hard,SprayBottle,105,3,"[1429, 1489, 1405]"
+28,FloorPlan_Train11_1.json.gz,easy,SprayBottle,14,1,[1446]
+29,FloorPlan_Train11_1.json.gz,medium,SprayBottle,31,1,[1376]
+30,FloorPlan_Train11_1.json.gz,hard,Television,97,3,"[1586, 1506, 1636]"
+31,FloorPlan_Train11_1.json.gz,easy,Television,22,1,[1609]
+32,FloorPlan_Train11_1.json.gz,medium,Television,31,1,[1626]
+33,FloorPlan_Train11_1.json.gz,medium,Vase,81,3,"[1709, 1762, 1743]"
+34,FloorPlan_Train11_1.json.gz,hard,Vase,27,1,[1733]
+35,FloorPlan_Train11_1.json.gz,easy,Vase,42,2,"[1781, 1713]"
+0,FloorPlan_Train5_2.json.gz,hard,AlarmClock,107,3,"[110, 135, 16]"
+1,FloorPlan_Train5_2.json.gz,medium,AlarmClock,30,1,[101]
+2,FloorPlan_Train5_2.json.gz,easy,AlarmClock,13,1,[96]
+3,FloorPlan_Train5_2.json.gz,hard,Apple,75,2,"[188, 299]"
+4,FloorPlan_Train5_2.json.gz,easy,Apple,35,1,[212]
+5,FloorPlan_Train5_2.json.gz,medium,Apple,40,1,[276]
+6,FloorPlan_Train5_2.json.gz,hard,BaseballBat,121,4,"[343, 401, 308, 357]"
+7,FloorPlan_Train5_2.json.gz,easy,BaseballBat,5,1,[395]
+8,FloorPlan_Train5_2.json.gz,medium,BaseballBat,24,1,[394]
+9,FloorPlan_Train5_2.json.gz,medium,BasketBall,79,2,"[584, 467]"
+10,FloorPlan_Train5_2.json.gz,easy,BasketBall,43,2,"[463, 558]"
+11,FloorPlan_Train5_2.json.gz,hard,BasketBall,28,1,[462]
+12,FloorPlan_Train5_2.json.gz,medium,Bowl,67,2,"[746, 651]"
+13,FloorPlan_Train5_2.json.gz,hard,Bowl,50,2,"[635, 701]"
+14,FloorPlan_Train5_2.json.gz,easy,Bowl,33,1,[616]
+15,FloorPlan_Train5_2.json.gz,easy,GarbageCan,30,1,[804]
+16,FloorPlan_Train5_2.json.gz,hard,GarbageCan,58,2,"[786, 892]"
+17,FloorPlan_Train5_2.json.gz,medium,GarbageCan,62,2,"[865, 873]"
+18,FloorPlan_Train5_2.json.gz,medium,HousePlant,94,3,"[908, 1012, 943]"
+19,FloorPlan_Train5_2.json.gz,hard,HousePlant,27,1,[1006]
+20,FloorPlan_Train5_2.json.gz,easy,HousePlant,29,1,[933]
+21,FloorPlan_Train5_2.json.gz,easy,Laptop,34,1,[1194]
+22,FloorPlan_Train5_2.json.gz,hard,Laptop,59,2,"[1156, 1187]"
+23,FloorPlan_Train5_2.json.gz,medium,Laptop,57,2,"[1109, 1168]"
+24,FloorPlan_Train5_2.json.gz,hard,Mug,87,3,"[1303, 1309, 1321]"
+25,FloorPlan_Train5_2.json.gz,medium,Mug,47,2,"[1270, 1335]"
+26,FloorPlan_Train5_2.json.gz,easy,Mug,16,1,[1252]
+27,FloorPlan_Train5_2.json.gz,medium,SprayBottle,85,3,"[1413, 1468, 1352]"
+28,FloorPlan_Train5_2.json.gz,easy,SprayBottle,41,2,"[1463, 1471]"
+29,FloorPlan_Train5_2.json.gz,hard,SprayBottle,24,1,[1410]
+30,FloorPlan_Train5_2.json.gz,easy,Television,44,2,"[1542, 1532]"
+31,FloorPlan_Train5_2.json.gz,medium,Television,48,2,"[1537, 1587]"
+32,FloorPlan_Train5_2.json.gz,hard,Television,58,2,"[1571, 1621]"
+33,FloorPlan_Train5_2.json.gz,medium,Vase,87,3,"[1696, 1791, 1660]"
+34,FloorPlan_Train5_2.json.gz,hard,Vase,26,1,[1695]
+35,FloorPlan_Train5_2.json.gz,easy,Vase,37,1,[1786]
+0,FloorPlan_Train11_4.json.gz,hard,AlarmClock,110,3,"[67, 112, 13]"
+1,FloorPlan_Train11_4.json.gz,easy,AlarmClock,15,1,[41]
+2,FloorPlan_Train11_4.json.gz,medium,AlarmClock,25,1,[20]
+3,FloorPlan_Train11_4.json.gz,medium,Apple,94,3,"[259, 217, 227]"
+4,FloorPlan_Train11_4.json.gz,easy,Apple,51,2,"[210, 283]"
+5,FloorPlan_Train11_4.json.gz,hard,Apple,5,1,[235]
+6,FloorPlan_Train11_4.json.gz,hard,BaseballBat,30,1,[420]
+7,FloorPlan_Train11_4.json.gz,medium,BaseballBat,88,3,"[325, 385, 444]"
+8,FloorPlan_Train11_4.json.gz,easy,BaseballBat,32,1,[357]
+9,FloorPlan_Train11_4.json.gz,hard,BasketBall,88,3,"[590, 582, 461]"
+10,FloorPlan_Train11_4.json.gz,medium,BasketBall,40,1,[475]
+11,FloorPlan_Train11_4.json.gz,easy,BasketBall,22,1,[497]
+12,FloorPlan_Train11_4.json.gz,easy,Bowl,41,2,"[613, 736]"
+13,FloorPlan_Train11_4.json.gz,medium,Bowl,97,3,"[671, 679, 632]"
+14,FloorPlan_Train11_4.json.gz,hard,Bowl,12,1,[713]
+15,FloorPlan_Train11_4.json.gz,medium,GarbageCan,91,3,"[816, 808, 819]"
+16,FloorPlan_Train11_4.json.gz,hard,GarbageCan,42,2,"[899, 881]"
+17,FloorPlan_Train11_4.json.gz,easy,GarbageCan,17,1,[778]
+18,FloorPlan_Train11_4.json.gz,medium,HousePlant,45,2,"[986, 959]"
+19,FloorPlan_Train11_4.json.gz,hard,HousePlant,95,3,"[1031, 966, 946]"
+20,FloorPlan_Train11_4.json.gz,easy,HousePlant,10,1,[985]
+21,FloorPlan_Train11_4.json.gz,hard,Laptop,96,3,"[1118, 1068, 1098]"
+22,FloorPlan_Train11_4.json.gz,medium,Laptop,40,1,[1100]
+23,FloorPlan_Train11_4.json.gz,easy,Laptop,14,1,[1170]
+24,FloorPlan_Train11_4.json.gz,easy,Mug,55,2,"[1265, 1213]"
+25,FloorPlan_Train11_4.json.gz,medium,Mug,90,3,"[1345, 1252, 1263]"
+26,FloorPlan_Train11_4.json.gz,hard,Mug,5,1,[1343]
+27,FloorPlan_Train11_4.json.gz,medium,SprayBottle,27,1,[1461]
+28,FloorPlan_Train11_4.json.gz,hard,SprayBottle,102,3,"[1379, 1438, 1395]"
+29,FloorPlan_Train11_4.json.gz,easy,SprayBottle,21,1,[1386]
+30,FloorPlan_Train11_4.json.gz,easy,Television,33,1,[1584]
+31,FloorPlan_Train11_4.json.gz,medium,Television,57,2,"[1525, 1620]"
+32,FloorPlan_Train11_4.json.gz,hard,Television,60,2,"[1571, 1574]"
+33,FloorPlan_Train11_4.json.gz,hard,Vase,75,2,"[1721, 1668]"
+34,FloorPlan_Train11_4.json.gz,medium,Vase,56,2,"[1665, 1776]"
+35,FloorPlan_Train11_4.json.gz,easy,Vase,19,1,[1655]
+0,FloorPlan_Train6_1.json.gz,medium,AlarmClock,80,2,"[25, 7]"
+1,FloorPlan_Train6_1.json.gz,easy,AlarmClock,31,1,[54]
+2,FloorPlan_Train6_1.json.gz,hard,AlarmClock,39,1,[43]
+3,FloorPlan_Train6_1.json.gz,easy,Apple,20,1,[290]
+4,FloorPlan_Train6_1.json.gz,hard,Apple,96,3,"[297, 233, 287]"
+5,FloorPlan_Train6_1.json.gz,medium,Apple,34,1,[235]
+6,FloorPlan_Train6_1.json.gz,hard,BaseballBat,82,3,"[381, 437, 318]"
+7,FloorPlan_Train6_1.json.gz,medium,BaseballBat,33,1,[307]
+8,FloorPlan_Train6_1.json.gz,easy,BaseballBat,35,1,[400]
+9,FloorPlan_Train6_1.json.gz,hard,BasketBall,46,2,"[579, 505]"
+10,FloorPlan_Train6_1.json.gz,medium,BasketBall,73,2,"[480, 578]"
+11,FloorPlan_Train6_1.json.gz,easy,BasketBall,31,1,[598]
+12,FloorPlan_Train6_1.json.gz,hard,Bowl,84,3,"[627, 673, 664]"
+13,FloorPlan_Train6_1.json.gz,medium,Bowl,42,2,"[740, 721]"
+14,FloorPlan_Train6_1.json.gz,easy,Bowl,24,1,[645]
+15,FloorPlan_Train6_1.json.gz,medium,GarbageCan,55,2,"[750, 873]"
+16,FloorPlan_Train6_1.json.gz,hard,GarbageCan,77,2,"[768, 878]"
+17,FloorPlan_Train6_1.json.gz,easy,GarbageCan,18,1,[825]
+18,FloorPlan_Train6_1.json.gz,easy,HousePlant,25,1,[925]
+19,FloorPlan_Train6_1.json.gz,medium,HousePlant,85,3,"[1037, 1031, 971]"
+20,FloorPlan_Train6_1.json.gz,hard,HousePlant,40,1,[985]
+21,FloorPlan_Train6_1.json.gz,medium,Laptop,71,2,"[1054, 1065]"
+22,FloorPlan_Train6_1.json.gz,easy,Laptop,30,1,[1135]
+23,FloorPlan_Train6_1.json.gz,hard,Laptop,49,2,"[1091, 1083]"
+24,FloorPlan_Train6_1.json.gz,medium,Mug,54,2,"[1207, 1236]"
+25,FloorPlan_Train6_1.json.gz,hard,Mug,80,2,"[1298, 1273]"
+26,FloorPlan_Train6_1.json.gz,easy,Mug,16,1,[1214]
+27,FloorPlan_Train6_1.json.gz,hard,SprayBottle,36,1,[1447]
+28,FloorPlan_Train6_1.json.gz,easy,SprayBottle,28,1,[1351]
+29,FloorPlan_Train6_1.json.gz,medium,SprayBottle,86,3,"[1375, 1458, 1407]"
+30,FloorPlan_Train6_1.json.gz,hard,Television,55,2,"[1552, 1547]"
+31,FloorPlan_Train6_1.json.gz,medium,Television,73,2,"[1568, 1514]"
+32,FloorPlan_Train6_1.json.gz,easy,Television,22,1,[1637]
+33,FloorPlan_Train6_1.json.gz,medium,Vase,66,2,"[1660, 1770]"
+34,FloorPlan_Train6_1.json.gz,hard,Vase,36,1,[1743]
+35,FloorPlan_Train6_1.json.gz,easy,Vase,48,2,"[1679, 1721]"
+0,FloorPlan_Train9_5.json.gz,medium,AlarmClock,42,2,"[31, 56]"
+1,FloorPlan_Train9_5.json.gz,hard,AlarmClock,87,3,"[53, 75, 76]"
+2,FloorPlan_Train9_5.json.gz,easy,AlarmClock,21,1,[131]
+3,FloorPlan_Train9_5.json.gz,easy,Apple,39,1,[262]
+4,FloorPlan_Train9_5.json.gz,medium,Apple,80,2,"[183, 245]"
+5,FloorPlan_Train9_5.json.gz,hard,Apple,31,1,[278]
+6,FloorPlan_Train9_5.json.gz,medium,BaseballBat,42,2,"[357, 309]"
+7,FloorPlan_Train9_5.json.gz,easy,BaseballBat,25,1,[393]
+8,FloorPlan_Train9_5.json.gz,hard,BaseballBat,83,3,"[407, 303, 378]"
+9,FloorPlan_Train9_5.json.gz,hard,BasketBall,62,2,"[535, 534]"
+10,FloorPlan_Train9_5.json.gz,medium,BasketBall,69,2,"[578, 555]"
+11,FloorPlan_Train9_5.json.gz,easy,BasketBall,19,1,[459]
+12,FloorPlan_Train9_5.json.gz,hard,Bowl,84,3,"[600, 732, 648]"
+13,FloorPlan_Train9_5.json.gz,medium,Bowl,38,1,[689]
+14,FloorPlan_Train9_5.json.gz,easy,Bowl,28,1,[743]
+15,FloorPlan_Train9_5.json.gz,medium,GarbageCan,48,2,"[769, 782]"
+16,FloorPlan_Train9_5.json.gz,hard,GarbageCan,81,3,"[754, 751, 834]"
+17,FloorPlan_Train9_5.json.gz,easy,GarbageCan,21,1,[885]
+18,FloorPlan_Train9_5.json.gz,hard,HousePlant,30,1,[1007]
+19,FloorPlan_Train9_5.json.gz,easy,HousePlant,45,2,"[902, 956]"
+20,FloorPlan_Train9_5.json.gz,medium,HousePlant,75,2,"[1002, 955]"
+21,FloorPlan_Train9_5.json.gz,medium,Laptop,75,2,"[1076, 1066]"
+22,FloorPlan_Train9_5.json.gz,hard,Laptop,40,1,[1162]
+23,FloorPlan_Train9_5.json.gz,easy,Laptop,35,1,[1130]
+24,FloorPlan_Train9_5.json.gz,easy,Mug,25,1,[1337]
+25,FloorPlan_Train9_5.json.gz,medium,Mug,47,2,"[1230, 1216]"
+26,FloorPlan_Train9_5.json.gz,hard,Mug,78,2,"[1325, 1255]"
+27,FloorPlan_Train9_5.json.gz,medium,SprayBottle,80,2,"[1357, 1481]"
+28,FloorPlan_Train9_5.json.gz,easy,SprayBottle,31,1,[1488]
+29,FloorPlan_Train9_5.json.gz,hard,SprayBottle,39,1,[1475]
+30,FloorPlan_Train9_5.json.gz,easy,Television,30,1,[1630]
+31,FloorPlan_Train9_5.json.gz,hard,Television,63,2,"[1646, 1510]"
+32,FloorPlan_Train9_5.json.gz,medium,Television,57,2,"[1531, 1619]"
+33,FloorPlan_Train9_5.json.gz,medium,Vase,66,2,"[1689, 1675]"
+34,FloorPlan_Train9_5.json.gz,hard,Vase,44,2,"[1771, 1764]"
+35,FloorPlan_Train9_5.json.gz,easy,Vase,40,1,[1750]
+0,FloorPlan_Train3_2.json.gz,medium,AlarmClock,84,3,"[24, 43, 73]"
+1,FloorPlan_Train3_2.json.gz,hard,AlarmClock,46,2,"[64, 96]"
+2,FloorPlan_Train3_2.json.gz,easy,AlarmClock,20,1,[78]
+3,FloorPlan_Train3_2.json.gz,hard,Apple,86,3,"[168, 221, 222]"
+4,FloorPlan_Train3_2.json.gz,easy,Apple,24,1,[281]
+5,FloorPlan_Train3_2.json.gz,medium,Apple,40,1,[273]
+6,FloorPlan_Train3_2.json.gz,medium,BaseballBat,75,2,"[420, 300]"
+7,FloorPlan_Train3_2.json.gz,hard,BaseballBat,57,2,"[412, 347]"
+8,FloorPlan_Train3_2.json.gz,easy,BaseballBat,18,1,[320]
+9,FloorPlan_Train3_2.json.gz,hard,BasketBall,78,2,"[591, 476]"
+10,FloorPlan_Train3_2.json.gz,medium,BasketBall,51,2,"[523, 483]"
+11,FloorPlan_Train3_2.json.gz,easy,BasketBall,21,1,[502]
+12,FloorPlan_Train3_2.json.gz,hard,Bowl,67,2,"[633, 691]"
+13,FloorPlan_Train3_2.json.gz,medium,Bowl,56,2,"[732, 673]"
+14,FloorPlan_Train3_2.json.gz,easy,Bowl,27,1,[629]
+15,FloorPlan_Train3_2.json.gz,hard,GarbageCan,50,2,"[814, 812]"
+16,FloorPlan_Train3_2.json.gz,medium,GarbageCan,77,2,"[805, 795]"
+17,FloorPlan_Train3_2.json.gz,easy,GarbageCan,23,1,[813]
+18,FloorPlan_Train3_2.json.gz,hard,HousePlant,80,2,"[1004, 901]"
+19,FloorPlan_Train3_2.json.gz,medium,HousePlant,50,2,"[1048, 1007]"
+20,FloorPlan_Train3_2.json.gz,easy,HousePlant,20,1,[986]
+21,FloorPlan_Train3_2.json.gz,hard,Laptop,61,2,"[1152, 1161]"
+22,FloorPlan_Train3_2.json.gz,medium,Laptop,73,2,"[1119, 1184]"
+23,FloorPlan_Train3_2.json.gz,easy,Laptop,16,1,[1062]
+24,FloorPlan_Train3_2.json.gz,hard,Mug,64,2,"[1337, 1255]"
+25,FloorPlan_Train3_2.json.gz,medium,Mug,49,2,"[1261, 1222]"
+26,FloorPlan_Train3_2.json.gz,easy,Mug,37,1,[1207]
+27,FloorPlan_Train3_2.json.gz,medium,SprayBottle,67,2,"[1441, 1421]"
+28,FloorPlan_Train3_2.json.gz,easy,SprayBottle,38,1,[1394]
+29,FloorPlan_Train3_2.json.gz,hard,SprayBottle,45,2,"[1456, 1437]"
+30,FloorPlan_Train3_2.json.gz,easy,Television,89,3,"[1530, 1625, 1505]"
+31,FloorPlan_Train3_2.json.gz,hard,Television,2,1,[1527]
+32,FloorPlan_Train3_2.json.gz,medium,Television,59,2,"[1580, 1514]"
+33,FloorPlan_Train3_2.json.gz,hard,Vase,84,3,"[1753, 1756, 1799]"
+34,FloorPlan_Train3_2.json.gz,medium,Vase,40,1,[1743]
+35,FloorPlan_Train3_2.json.gz,easy,Vase,26,1,[1682]
+0,FloorPlan_Train8_5.json.gz,hard,AlarmClock,22,1,[109]
+1,FloorPlan_Train8_5.json.gz,medium,AlarmClock,82,3,"[44, 119, 131]"
+2,FloorPlan_Train8_5.json.gz,easy,AlarmClock,46,2,"[78, 98]"
+3,FloorPlan_Train8_5.json.gz,medium,Apple,76,2,"[214, 216]"
+4,FloorPlan_Train8_5.json.gz,easy,Apple,28,1,[178]
+5,FloorPlan_Train8_5.json.gz,hard,Apple,46,2,"[169, 262]"
+6,FloorPlan_Train8_5.json.gz,hard,BaseballBat,21,1,[379]
+7,FloorPlan_Train8_5.json.gz,easy,BaseballBat,44,2,"[384, 304]"
+8,FloorPlan_Train8_5.json.gz,medium,BaseballBat,85,3,"[377, 343, 429]"
+9,FloorPlan_Train8_5.json.gz,medium,BasketBall,31,1,[597]
+10,FloorPlan_Train8_5.json.gz,easy,BasketBall,12,1,[452]
+11,FloorPlan_Train8_5.json.gz,hard,BasketBall,107,3,"[561, 572, 486]"
+12,FloorPlan_Train8_5.json.gz,hard,Bowl,45,2,"[665, 733]"
+13,FloorPlan_Train8_5.json.gz,easy,Bowl,47,2,"[713, 715]"
+14,FloorPlan_Train8_5.json.gz,medium,Bowl,58,2,"[650, 694]"
+15,FloorPlan_Train8_5.json.gz,hard,GarbageCan,112,3,"[836, 853, 806]"
+16,FloorPlan_Train8_5.json.gz,easy,GarbageCan,26,1,[894]
+17,FloorPlan_Train8_5.json.gz,medium,GarbageCan,12,1,[770]
+18,FloorPlan_Train8_5.json.gz,hard,HousePlant,20,1,[999]
+19,FloorPlan_Train8_5.json.gz,medium,HousePlant,97,3,"[917, 980, 1000]"
+20,FloorPlan_Train8_5.json.gz,easy,HousePlant,33,1,[1032]
+21,FloorPlan_Train8_5.json.gz,hard,Laptop,109,3,"[1192, 1170, 1162]"
+22,FloorPlan_Train8_5.json.gz,medium,Laptop,34,1,[1142]
+23,FloorPlan_Train8_5.json.gz,easy,Laptop,7,1,[1140]
+24,FloorPlan_Train8_5.json.gz,medium,Mug,90,3,"[1296, 1245, 1333]"
+25,FloorPlan_Train8_5.json.gz,hard,Mug,31,1,[1344]
+26,FloorPlan_Train8_5.json.gz,easy,Mug,29,1,[1269]
+27,FloorPlan_Train8_5.json.gz,hard,SprayBottle,50,2,"[1383, 1385]"
+28,FloorPlan_Train8_5.json.gz,medium,SprayBottle,73,2,"[1437, 1380]"
+29,FloorPlan_Train8_5.json.gz,easy,SprayBottle,27,1,[1416]
+30,FloorPlan_Train8_5.json.gz,medium,Television,23,1,[1560]
+31,FloorPlan_Train8_5.json.gz,hard,Television,113,3,"[1622, 1555, 1612]"
+32,FloorPlan_Train8_5.json.gz,easy,Television,14,1,[1582]
+33,FloorPlan_Train8_5.json.gz,medium,Vase,64,2,"[1796, 1701]"
+34,FloorPlan_Train8_5.json.gz,easy,Vase,42,2,"[1683, 1722]"
+35,FloorPlan_Train8_5.json.gz,hard,Vase,44,2,"[1689, 1680]"
+0,FloorPlan_Train3_4.json.gz,hard,AlarmClock,25,1,[114]
+1,FloorPlan_Train3_4.json.gz,medium,AlarmClock,90,3,"[28, 78, 111]"
+2,FloorPlan_Train3_4.json.gz,easy,AlarmClock,35,1,[44]
+3,FloorPlan_Train3_4.json.gz,medium,Apple,29,1,[225]
+4,FloorPlan_Train3_4.json.gz,hard,Apple,105,3,"[178, 166, 197]"
+5,FloorPlan_Train3_4.json.gz,easy,Apple,16,1,[183]
+6,FloorPlan_Train3_4.json.gz,easy,BaseballBat,29,1,[361]
+7,FloorPlan_Train3_4.json.gz,hard,BaseballBat,72,2,"[337, 411]"
+8,FloorPlan_Train3_4.json.gz,medium,BaseballBat,49,2,"[350, 334]"
+9,FloorPlan_Train3_4.json.gz,medium,BasketBall,80,2,"[587, 511]"
+10,FloorPlan_Train3_4.json.gz,easy,BasketBall,41,2,"[505, 548]"
+11,FloorPlan_Train3_4.json.gz,hard,BasketBall,29,1,[570]
+12,FloorPlan_Train3_4.json.gz,easy,Bowl,24,1,[720]
+13,FloorPlan_Train3_4.json.gz,medium,Bowl,21,1,[625]
+14,FloorPlan_Train3_4.json.gz,hard,Bowl,105,3,"[686, 644, 680]"
+15,FloorPlan_Train3_4.json.gz,easy,GarbageCan,24,1,[876]
+16,FloorPlan_Train3_4.json.gz,medium,GarbageCan,54,2,"[850, 792]"
+17,FloorPlan_Train3_4.json.gz,hard,GarbageCan,72,2,"[857, 869]"
+18,FloorPlan_Train3_4.json.gz,easy,HousePlant,30,1,[925]
+19,FloorPlan_Train3_4.json.gz,medium,HousePlant,93,3,"[1012, 1011, 923]"
+20,FloorPlan_Train3_4.json.gz,hard,HousePlant,27,1,[1014]
+21,FloorPlan_Train3_4.json.gz,hard,Laptop,103,3,"[1167, 1111, 1075]"
+22,FloorPlan_Train3_4.json.gz,easy,Laptop,19,1,[1125]
+23,FloorPlan_Train3_4.json.gz,medium,Laptop,28,1,[1181]
+24,FloorPlan_Train3_4.json.gz,medium,Mug,82,3,"[1253, 1337, 1207]"
+25,FloorPlan_Train3_4.json.gz,easy,Mug,43,2,"[1276, 1260]"
+26,FloorPlan_Train3_4.json.gz,hard,Mug,25,1,[1317]
+27,FloorPlan_Train3_4.json.gz,easy,SprayBottle,35,1,[1466]
+28,FloorPlan_Train3_4.json.gz,medium,SprayBottle,72,2,"[1456, 1426]"
+29,FloorPlan_Train3_4.json.gz,hard,SprayBottle,43,2,"[1399, 1385]"
+30,FloorPlan_Train3_4.json.gz,medium,Television,84,3,"[1638, 1539, 1534]"
+31,FloorPlan_Train3_4.json.gz,easy,Television,35,1,[1622]
+32,FloorPlan_Train3_4.json.gz,hard,Television,31,1,[1580]
+33,FloorPlan_Train3_4.json.gz,hard,Vase,84,3,"[1739, 1730, 1771]"
+34,FloorPlan_Train3_4.json.gz,medium,Vase,45,2,"[1654, 1767]"
+35,FloorPlan_Train3_4.json.gz,easy,Vase,21,1,[1731]
+0,FloorPlan_Train3_5.json.gz,medium,AlarmClock,61,2,"[4, 29]"
+1,FloorPlan_Train3_5.json.gz,hard,AlarmClock,63,2,"[110, 26]"
+2,FloorPlan_Train3_5.json.gz,easy,AlarmClock,26,1,[3]
+3,FloorPlan_Train3_5.json.gz,hard,Apple,66,2,"[296, 253]"
+4,FloorPlan_Train3_5.json.gz,medium,Apple,52,2,"[272, 246]"
+5,FloorPlan_Train3_5.json.gz,easy,Apple,32,1,[154]
+6,FloorPlan_Train3_5.json.gz,easy,BaseballBat,39,1,[305]
+7,FloorPlan_Train3_5.json.gz,medium,BaseballBat,78,2,"[438, 366]"
+8,FloorPlan_Train3_5.json.gz,hard,BaseballBat,33,1,[398]
+9,FloorPlan_Train3_5.json.gz,easy,BasketBall,30,1,[513]
+10,FloorPlan_Train3_5.json.gz,hard,BasketBall,43,2,"[475, 493]"
+11,FloorPlan_Train3_5.json.gz,medium,BasketBall,77,2,"[582, 524]"
+12,FloorPlan_Train3_5.json.gz,medium,Bowl,35,1,[681]
+13,FloorPlan_Train3_5.json.gz,easy,Bowl,28,1,[601]
+14,FloorPlan_Train3_5.json.gz,hard,Bowl,87,3,"[608, 720, 723]"
+15,FloorPlan_Train3_5.json.gz,hard,GarbageCan,82,3,"[865, 897, 809]"
+16,FloorPlan_Train3_5.json.gz,medium,GarbageCan,42,2,"[755, 893]"
+17,FloorPlan_Train3_5.json.gz,easy,GarbageCan,26,1,[801]
+18,FloorPlan_Train3_5.json.gz,easy,HousePlant,22,1,[979]
+19,FloorPlan_Train3_5.json.gz,medium,HousePlant,62,2,"[973, 1046]"
+20,FloorPlan_Train3_5.json.gz,hard,HousePlant,66,2,"[1022, 975]"
+21,FloorPlan_Train3_5.json.gz,hard,Laptop,43,2,"[1194, 1125]"
+22,FloorPlan_Train3_5.json.gz,medium,Laptop,85,3,"[1185, 1110, 1186]"
+23,FloorPlan_Train3_5.json.gz,easy,Laptop,22,1,[1083]
+24,FloorPlan_Train3_5.json.gz,medium,Mug,66,2,"[1337, 1200]"
+25,FloorPlan_Train3_5.json.gz,hard,Mug,62,2,"[1212, 1299]"
+26,FloorPlan_Train3_5.json.gz,easy,Mug,22,1,[1320]
+27,FloorPlan_Train3_5.json.gz,medium,SprayBottle,67,2,"[1425, 1387]"
+28,FloorPlan_Train3_5.json.gz,hard,SprayBottle,69,2,"[1440, 1370]"
+29,FloorPlan_Train3_5.json.gz,easy,SprayBottle,14,1,[1394]
+30,FloorPlan_Train3_5.json.gz,easy,Television,79,2,"[1547, 1566]"
+31,FloorPlan_Train3_5.json.gz,medium,Television,70,2,"[1611, 1586]"
+32,FloorPlan_Train3_5.json.gz,hard,Television,1,1,[1616]
+33,FloorPlan_Train3_5.json.gz,medium,Vase,25,1,[1746]
+34,FloorPlan_Train3_5.json.gz,hard,Vase,105,3,"[1671, 1725, 1719]"
+35,FloorPlan_Train3_5.json.gz,easy,Vase,20,1,[1655]
+0,FloorPlan_Train10_5.json.gz,medium,AlarmClock,52,2,"[10, 39]"
+1,FloorPlan_Train10_5.json.gz,hard,AlarmClock,64,2,"[145, 66]"
+2,FloorPlan_Train10_5.json.gz,easy,AlarmClock,34,1,[35]
+3,FloorPlan_Train10_5.json.gz,hard,Apple,81,3,"[263, 284, 242]"
+4,FloorPlan_Train10_5.json.gz,medium,Apple,44,2,"[233, 228]"
+5,FloorPlan_Train10_5.json.gz,easy,Apple,25,1,[203]
+6,FloorPlan_Train10_5.json.gz,medium,BaseballBat,63,2,"[425, 438]"
+7,FloorPlan_Train10_5.json.gz,easy,BaseballBat,21,1,[431]
+8,FloorPlan_Train10_5.json.gz,hard,BaseballBat,66,2,"[441, 366]"
+9,FloorPlan_Train10_5.json.gz,medium,BasketBall,82,3,"[527, 591, 529]"
+10,FloorPlan_Train10_5.json.gz,easy,BasketBall,37,1,[481]
+11,FloorPlan_Train10_5.json.gz,hard,BasketBall,31,1,[502]
+12,FloorPlan_Train10_5.json.gz,medium,Bowl,63,2,"[715, 630]"
+13,FloorPlan_Train10_5.json.gz,hard,Bowl,44,2,"[682, 718]"
+14,FloorPlan_Train10_5.json.gz,easy,Bowl,43,2,"[668, 727]"
+15,FloorPlan_Train10_5.json.gz,easy,GarbageCan,32,1,[785]
+16,FloorPlan_Train10_5.json.gz,hard,GarbageCan,74,2,"[889, 839]"
+17,FloorPlan_Train10_5.json.gz,medium,GarbageCan,44,2,"[856, 849]"
+18,FloorPlan_Train10_5.json.gz,hard,HousePlant,69,2,"[916, 1021]"
+19,FloorPlan_Train10_5.json.gz,medium,HousePlant,57,2,"[970, 1024]"
+20,FloorPlan_Train10_5.json.gz,easy,HousePlant,24,1,[1023]
+21,FloorPlan_Train10_5.json.gz,hard,Laptop,42,2,"[1159, 1143]"
+22,FloorPlan_Train10_5.json.gz,medium,Laptop,72,2,"[1066, 1162]"
+23,FloorPlan_Train10_5.json.gz,easy,Laptop,36,1,[1158]
+24,FloorPlan_Train10_5.json.gz,medium,Mug,62,2,"[1316, 1263]"
+25,FloorPlan_Train10_5.json.gz,hard,Mug,68,2,"[1296, 1305]"
+26,FloorPlan_Train10_5.json.gz,easy,Mug,20,1,[1282]
+27,FloorPlan_Train10_5.json.gz,hard,SprayBottle,59,2,"[1384, 1383]"
+28,FloorPlan_Train10_5.json.gz,medium,SprayBottle,68,2,"[1451, 1391]"
+29,FloorPlan_Train10_5.json.gz,easy,SprayBottle,23,1,[1496]
+30,FloorPlan_Train10_5.json.gz,easy,Television,22,1,[1500]
+31,FloorPlan_Train10_5.json.gz,medium,Television,68,2,"[1506, 1588]"
+32,FloorPlan_Train10_5.json.gz,hard,Television,60,2,"[1527, 1571]"
+33,FloorPlan_Train10_5.json.gz,medium,Vase,58,2,"[1685, 1781]"
+34,FloorPlan_Train10_5.json.gz,easy,Vase,29,1,[1678]
+35,FloorPlan_Train10_5.json.gz,hard,Vase,63,2,"[1723, 1771]"
+0,FloorPlan_Train6_4.json.gz,hard,AlarmClock,104,3,"[98, 1, 4]"
+1,FloorPlan_Train6_4.json.gz,medium,AlarmClock,30,1,[138]
+2,FloorPlan_Train6_4.json.gz,easy,AlarmClock,16,1,[7]
+3,FloorPlan_Train6_4.json.gz,medium,Apple,64,2,"[154, 297]"
+4,FloorPlan_Train6_4.json.gz,hard,Apple,62,2,"[200, 215]"
+5,FloorPlan_Train6_4.json.gz,easy,Apple,24,1,[294]
+6,FloorPlan_Train6_4.json.gz,hard,BaseballBat,89,3,"[301, 315, 435]"
+7,FloorPlan_Train6_4.json.gz,medium,BaseballBat,32,1,[359]
+8,FloorPlan_Train6_4.json.gz,easy,BaseballBat,29,1,[381]
+9,FloorPlan_Train6_4.json.gz,hard,BasketBall,34,1,[586]
+10,FloorPlan_Train6_4.json.gz,easy,BasketBall,48,2,"[521, 570]"
+11,FloorPlan_Train6_4.json.gz,medium,BasketBall,68,2,"[512, 596]"
+12,FloorPlan_Train6_4.json.gz,hard,Bowl,92,3,"[615, 651, 744]"
+13,FloorPlan_Train6_4.json.gz,medium,Bowl,33,1,[704]
+14,FloorPlan_Train6_4.json.gz,easy,Bowl,25,1,[625]
+15,FloorPlan_Train6_4.json.gz,easy,GarbageCan,41,2,"[807, 756]"
+16,FloorPlan_Train6_4.json.gz,hard,GarbageCan,76,2,"[870, 890]"
+17,FloorPlan_Train6_4.json.gz,medium,GarbageCan,33,1,[861]
+18,FloorPlan_Train6_4.json.gz,easy,HousePlant,25,1,[1043]
+19,FloorPlan_Train6_4.json.gz,hard,HousePlant,42,2,"[927, 1005]"
+20,FloorPlan_Train6_4.json.gz,medium,HousePlant,83,3,"[1020, 938, 920]"
+21,FloorPlan_Train6_4.json.gz,medium,Laptop,71,2,"[1059, 1170]"
+22,FloorPlan_Train6_4.json.gz,hard,Laptop,43,2,"[1136, 1173]"
+23,FloorPlan_Train6_4.json.gz,easy,Laptop,36,1,[1145]
+24,FloorPlan_Train6_4.json.gz,hard,Mug,40,1,[1235]
+25,FloorPlan_Train6_4.json.gz,medium,Mug,77,2,"[1285, 1266]"
+26,FloorPlan_Train6_4.json.gz,easy,Mug,33,1,[1300]
+27,FloorPlan_Train6_4.json.gz,medium,SprayBottle,83,3,"[1497, 1358, 1378]"
+28,FloorPlan_Train6_4.json.gz,hard,SprayBottle,43,2,"[1474, 1487]"
+29,FloorPlan_Train6_4.json.gz,easy,SprayBottle,24,1,[1422]
+30,FloorPlan_Train6_4.json.gz,easy,Television,40,1,[1643]
+31,FloorPlan_Train6_4.json.gz,medium,Television,82,3,"[1549, 1612, 1624]"
+32,FloorPlan_Train6_4.json.gz,hard,Television,28,1,[1523]
+33,FloorPlan_Train6_4.json.gz,hard,Vase,67,2,"[1738, 1721]"
+34,FloorPlan_Train6_4.json.gz,medium,Vase,72,2,"[1754, 1736]"
+35,FloorPlan_Train6_4.json.gz,easy,Vase,11,1,[1698]
+0,FloorPlan_Train7_2.json.gz,medium,AlarmClock,77,2,"[74, 105]"
+1,FloorPlan_Train7_2.json.gz,easy,AlarmClock,45,2,"[114, 51]"
+2,FloorPlan_Train7_2.json.gz,hard,AlarmClock,28,1,[94]
+3,FloorPlan_Train7_2.json.gz,medium,Apple,63,2,"[288, 284]"
+4,FloorPlan_Train7_2.json.gz,easy,Apple,33,1,[259]
+5,FloorPlan_Train7_2.json.gz,hard,Apple,54,2,"[212, 268]"
+6,FloorPlan_Train7_2.json.gz,easy,BaseballBat,29,1,[344]
+7,FloorPlan_Train7_2.json.gz,hard,BaseballBat,59,2,"[401, 316]"
+8,FloorPlan_Train7_2.json.gz,medium,BaseballBat,62,2,"[312, 345]"
+9,FloorPlan_Train7_2.json.gz,medium,BasketBall,91,3,"[552, 580, 470]"
+10,FloorPlan_Train7_2.json.gz,easy,BasketBall,40,1,[567]
+11,FloorPlan_Train7_2.json.gz,hard,BasketBall,19,1,[507]
+12,FloorPlan_Train7_2.json.gz,hard,Bowl,69,2,"[666, 628]"
+13,FloorPlan_Train7_2.json.gz,medium,Bowl,57,2,"[619, 736]"
+14,FloorPlan_Train7_2.json.gz,easy,Bowl,24,1,[738]
+15,FloorPlan_Train7_2.json.gz,hard,GarbageCan,128,4,"[890, 829, 863, 790]"
+16,FloorPlan_Train7_2.json.gz,medium,GarbageCan,13,1,[879]
+17,FloorPlan_Train7_2.json.gz,easy,GarbageCan,9,1,[831]
+18,FloorPlan_Train7_2.json.gz,medium,HousePlant,75,2,"[910, 1020]"
+19,FloorPlan_Train7_2.json.gz,hard,HousePlant,46,2,"[923, 1049]"
+20,FloorPlan_Train7_2.json.gz,easy,HousePlant,29,1,[926]
+21,FloorPlan_Train7_2.json.gz,hard,Laptop,107,3,"[1142, 1118, 1099]"
+22,FloorPlan_Train7_2.json.gz,medium,Laptop,27,1,[1102]
+23,FloorPlan_Train7_2.json.gz,easy,Laptop,16,1,[1199]
+24,FloorPlan_Train7_2.json.gz,medium,Mug,83,3,"[1302, 1240, 1268]"
+25,FloorPlan_Train7_2.json.gz,easy,Mug,28,1,[1239]
+26,FloorPlan_Train7_2.json.gz,hard,Mug,39,1,[1241]
+27,FloorPlan_Train7_2.json.gz,medium,SprayBottle,61,2,"[1437, 1406]"
+28,FloorPlan_Train7_2.json.gz,hard,SprayBottle,66,2,"[1496, 1395]"
+29,FloorPlan_Train7_2.json.gz,easy,SprayBottle,23,1,[1470]
+30,FloorPlan_Train7_2.json.gz,easy,Television,41,2,"[1524, 1504]"
+31,FloorPlan_Train7_2.json.gz,hard,Television,81,3,"[1573, 1649, 1571]"
+32,FloorPlan_Train7_2.json.gz,medium,Television,28,1,[1613]
+33,FloorPlan_Train7_2.json.gz,medium,Vase,101,3,"[1658, 1672, 1679]"
+34,FloorPlan_Train7_2.json.gz,easy,Vase,25,1,[1795]
+35,FloorPlan_Train7_2.json.gz,hard,Vase,24,1,[1744]
+0,FloorPlan_Train1_4.json.gz,medium,AlarmClock,60,2,"[91, 69]"
+1,FloorPlan_Train1_4.json.gz,hard,AlarmClock,63,2,"[136, 47]"
+2,FloorPlan_Train1_4.json.gz,easy,AlarmClock,27,1,[82]
+3,FloorPlan_Train1_4.json.gz,medium,Apple,86,3,"[197, 292, 204]"
+4,FloorPlan_Train1_4.json.gz,easy,Apple,26,1,[281]
+5,FloorPlan_Train1_4.json.gz,hard,Apple,38,1,[249]
+6,FloorPlan_Train1_4.json.gz,medium,BaseballBat,45,2,"[306, 332]"
+7,FloorPlan_Train1_4.json.gz,hard,BaseballBat,62,2,"[442, 301]"
+8,FloorPlan_Train1_4.json.gz,easy,BaseballBat,43,2,"[429, 398]"
+9,FloorPlan_Train1_4.json.gz,hard,BasketBall,41,2,"[461, 452]"
+10,FloorPlan_Train1_4.json.gz,medium,BasketBall,66,2,"[552, 475]"
+11,FloorPlan_Train1_4.json.gz,easy,BasketBall,43,2,"[562, 465]"
+12,FloorPlan_Train1_4.json.gz,medium,Bowl,66,2,"[659, 675]"
+13,FloorPlan_Train1_4.json.gz,hard,Bowl,47,2,"[661, 643]"
+14,FloorPlan_Train1_4.json.gz,easy,Bowl,37,1,[731]
+15,FloorPlan_Train1_4.json.gz,medium,GarbageCan,72,2,"[879, 880]"
+16,FloorPlan_Train1_4.json.gz,hard,GarbageCan,60,2,"[784, 833]"
+17,FloorPlan_Train1_4.json.gz,easy,GarbageCan,18,1,[864]
+18,FloorPlan_Train1_4.json.gz,hard,HousePlant,67,2,"[922, 1031]"
+19,FloorPlan_Train1_4.json.gz,medium,HousePlant,45,2,"[915, 923]"
+20,FloorPlan_Train1_4.json.gz,easy,HousePlant,38,1,[907]
+21,FloorPlan_Train1_4.json.gz,medium,Laptop,70,2,"[1121, 1082]"
+22,FloorPlan_Train1_4.json.gz,easy,Laptop,33,1,[1110]
+23,FloorPlan_Train1_4.json.gz,hard,Laptop,47,2,"[1052, 1139]"
+24,FloorPlan_Train1_4.json.gz,hard,Mug,99,3,"[1239, 1331, 1334]"
+25,FloorPlan_Train1_4.json.gz,medium,Mug,33,1,[1219]
+26,FloorPlan_Train1_4.json.gz,easy,Mug,18,1,[1218]
+27,FloorPlan_Train1_4.json.gz,medium,SprayBottle,63,2,"[1473, 1369]"
+28,FloorPlan_Train1_4.json.gz,hard,SprayBottle,67,2,"[1485, 1406]"
+29,FloorPlan_Train1_4.json.gz,easy,SprayBottle,20,1,[1449]
+30,FloorPlan_Train1_4.json.gz,medium,Television,71,2,"[1584, 1552]"
+31,FloorPlan_Train1_4.json.gz,easy,Television,42,2,"[1618, 1602]"
+32,FloorPlan_Train1_4.json.gz,hard,Television,37,1,[1623]
+33,FloorPlan_Train1_4.json.gz,hard,Vase,92,3,"[1790, 1712, 1786]"
+34,FloorPlan_Train1_4.json.gz,medium,Vase,43,2,"[1690, 1654]"
+35,FloorPlan_Train1_4.json.gz,easy,Vase,15,1,[1737]
+0,FloorPlan_Train9_4.json.gz,hard,AlarmClock,62,2,"[83, 10]"
+1,FloorPlan_Train9_4.json.gz,easy,AlarmClock,28,1,[75]
+2,FloorPlan_Train9_4.json.gz,medium,AlarmClock,60,2,"[126, 30]"
+3,FloorPlan_Train9_4.json.gz,easy,Apple,24,1,[191]
+4,FloorPlan_Train9_4.json.gz,medium,Apple,64,2,"[252, 207]"
+5,FloorPlan_Train9_4.json.gz,hard,Apple,62,2,"[226, 209]"
+6,FloorPlan_Train9_4.json.gz,hard,BaseballBat,85,3,"[346, 356, 341]"
+7,FloorPlan_Train9_4.json.gz,medium,BaseballBat,53,2,"[376, 352]"
+8,FloorPlan_Train9_4.json.gz,easy,BaseballBat,12,1,[440]
+9,FloorPlan_Train9_4.json.gz,hard,BasketBall,78,2,"[557, 577]"
+10,FloorPlan_Train9_4.json.gz,medium,BasketBall,57,2,"[548, 559]"
+11,FloorPlan_Train9_4.json.gz,easy,BasketBall,15,1,[515]
+12,FloorPlan_Train9_4.json.gz,hard,Bowl,37,1,[617]
+13,FloorPlan_Train9_4.json.gz,medium,Bowl,84,3,"[749, 633, 723]"
+14,FloorPlan_Train9_4.json.gz,easy,Bowl,29,1,[726]
+15,FloorPlan_Train9_4.json.gz,easy,GarbageCan,38,1,[894]
+16,FloorPlan_Train9_4.json.gz,medium,GarbageCan,56,2,"[769, 752]"
+17,FloorPlan_Train9_4.json.gz,hard,GarbageCan,56,2,"[877, 827]"
+18,FloorPlan_Train9_4.json.gz,medium,HousePlant,55,2,"[966, 906]"
+19,FloorPlan_Train9_4.json.gz,hard,HousePlant,68,2,"[1005, 929]"
+20,FloorPlan_Train9_4.json.gz,easy,HousePlant,27,1,[999]
+21,FloorPlan_Train9_4.json.gz,medium,Laptop,61,2,"[1179, 1198]"
+22,FloorPlan_Train9_4.json.gz,easy,Laptop,32,1,[1163]
+23,FloorPlan_Train9_4.json.gz,hard,Laptop,57,2,"[1195, 1161]"
+24,FloorPlan_Train9_4.json.gz,medium,Mug,46,2,"[1244, 1272]"
+25,FloorPlan_Train9_4.json.gz,hard,Mug,64,2,"[1211, 1289]"
+26,FloorPlan_Train9_4.json.gz,easy,Mug,40,1,[1228]
+27,FloorPlan_Train9_4.json.gz,medium,SprayBottle,62,2,"[1446, 1394]"
+28,FloorPlan_Train9_4.json.gz,hard,SprayBottle,50,2,"[1374, 1353]"
+29,FloorPlan_Train9_4.json.gz,easy,SprayBottle,38,1,[1497]
+30,FloorPlan_Train9_4.json.gz,hard,Television,61,2,"[1518, 1580]"
+31,FloorPlan_Train9_4.json.gz,medium,Television,58,2,"[1632, 1564]"
+32,FloorPlan_Train9_4.json.gz,easy,Television,31,1,[1568]
+33,FloorPlan_Train9_4.json.gz,medium,Vase,66,2,"[1719, 1659]"
+34,FloorPlan_Train9_4.json.gz,hard,Vase,40,1,[1760]
+35,FloorPlan_Train9_4.json.gz,easy,Vase,44,2,"[1750, 1757]"
+0,FloorPlan_Train4_5.json.gz,hard,AlarmClock,72,2,"[58, 28]"
+1,FloorPlan_Train4_5.json.gz,easy,AlarmClock,23,1,[18]
+2,FloorPlan_Train4_5.json.gz,medium,AlarmClock,55,2,"[38, 114]"
+3,FloorPlan_Train4_5.json.gz,hard,Apple,54,2,"[221, 177]"
+4,FloorPlan_Train4_5.json.gz,medium,Apple,62,2,"[178, 169]"
+5,FloorPlan_Train4_5.json.gz,easy,Apple,34,1,[234]
+6,FloorPlan_Train4_5.json.gz,hard,BaseballBat,37,1,[370]
+7,FloorPlan_Train4_5.json.gz,medium,BaseballBat,91,3,"[376, 363, 306]"
+8,FloorPlan_Train4_5.json.gz,easy,BaseballBat,22,1,[310]
+9,FloorPlan_Train4_5.json.gz,medium,BasketBall,71,2,"[486, 558]"
+10,FloorPlan_Train4_5.json.gz,hard,BasketBall,60,2,"[528, 519]"
+11,FloorPlan_Train4_5.json.gz,easy,BasketBall,19,1,[485]
+12,FloorPlan_Train4_5.json.gz,medium,Bowl,56,2,"[745, 651]"
+13,FloorPlan_Train4_5.json.gz,hard,Bowl,57,2,"[713, 704]"
+14,FloorPlan_Train4_5.json.gz,easy,Bowl,37,1,[682]
+15,FloorPlan_Train4_5.json.gz,medium,GarbageCan,48,2,"[854, 886]"
+16,FloorPlan_Train4_5.json.gz,hard,GarbageCan,63,2,"[817, 874]"
+17,FloorPlan_Train4_5.json.gz,easy,GarbageCan,39,1,[880]
+18,FloorPlan_Train4_5.json.gz,easy,HousePlant,18,1,[1020]
+19,FloorPlan_Train4_5.json.gz,hard,HousePlant,71,2,"[972, 968]"
+20,FloorPlan_Train4_5.json.gz,medium,HousePlant,61,2,"[917, 920]"
+21,FloorPlan_Train4_5.json.gz,medium,Laptop,54,2,"[1119, 1058]"
+22,FloorPlan_Train4_5.json.gz,hard,Laptop,59,2,"[1192, 1169]"
+23,FloorPlan_Train4_5.json.gz,easy,Laptop,37,1,[1167]
+24,FloorPlan_Train4_5.json.gz,easy,Mug,31,1,[1266]
+25,FloorPlan_Train4_5.json.gz,medium,Mug,54,2,"[1278, 1206]"
+26,FloorPlan_Train4_5.json.gz,hard,Mug,65,2,"[1304, 1340]"
+27,FloorPlan_Train4_5.json.gz,medium,SprayBottle,50,2,"[1351, 1492]"
+28,FloorPlan_Train4_5.json.gz,hard,SprayBottle,70,2,"[1384, 1476]"
+29,FloorPlan_Train4_5.json.gz,easy,SprayBottle,30,1,[1430]
+30,FloorPlan_Train4_5.json.gz,medium,Television,50,2,"[1548, 1521]"
+31,FloorPlan_Train4_5.json.gz,hard,Television,66,2,"[1637, 1539]"
+32,FloorPlan_Train4_5.json.gz,easy,Television,34,1,[1574]
+33,FloorPlan_Train4_5.json.gz,hard,Vase,47,2,"[1782, 1754]"
+34,FloorPlan_Train4_5.json.gz,medium,Vase,69,2,"[1652, 1792]"
+35,FloorPlan_Train4_5.json.gz,easy,Vase,34,1,[1722]
+0,FloorPlan_Train8_4.json.gz,medium,AlarmClock,70,2,"[92, 115]"
+1,FloorPlan_Train8_4.json.gz,hard,AlarmClock,65,2,"[107, 10]"
+2,FloorPlan_Train8_4.json.gz,easy,AlarmClock,15,1,[84]
+3,FloorPlan_Train8_4.json.gz,medium,Apple,72,2,"[222, 211]"
+4,FloorPlan_Train8_4.json.gz,hard,Apple,62,2,"[252, 172]"
+5,FloorPlan_Train8_4.json.gz,easy,Apple,16,1,[242]
+6,FloorPlan_Train8_4.json.gz,hard,BaseballBat,19,1,[360]
+7,FloorPlan_Train8_4.json.gz,medium,BaseballBat,77,2,"[358, 303]"
+8,FloorPlan_Train8_4.json.gz,easy,BaseballBat,54,2,"[344, 425]"
+9,FloorPlan_Train8_4.json.gz,medium,BasketBall,72,2,"[513, 571]"
+10,FloorPlan_Train8_4.json.gz,hard,BasketBall,42,2,"[451, 570]"
+11,FloorPlan_Train8_4.json.gz,easy,BasketBall,36,1,[560]
+12,FloorPlan_Train8_4.json.gz,hard,Bowl,82,3,"[697, 616, 605]"
+13,FloorPlan_Train8_4.json.gz,medium,Bowl,47,2,"[724, 743]"
+14,FloorPlan_Train8_4.json.gz,easy,Bowl,21,1,[604]
+15,FloorPlan_Train8_4.json.gz,medium,GarbageCan,73,2,"[787, 774]"
+16,FloorPlan_Train8_4.json.gz,hard,GarbageCan,37,1,[775]
+17,FloorPlan_Train8_4.json.gz,easy,GarbageCan,40,1,[821]
+18,FloorPlan_Train8_4.json.gz,hard,HousePlant,55,2,"[936, 968]"
+19,FloorPlan_Train8_4.json.gz,medium,HousePlant,70,2,"[1018, 988]"
+20,FloorPlan_Train8_4.json.gz,easy,HousePlant,25,1,[953]
+21,FloorPlan_Train8_4.json.gz,hard,Laptop,95,3,"[1112, 1101, 1068]"
+22,FloorPlan_Train8_4.json.gz,medium,Laptop,38,1,[1062]
+23,FloorPlan_Train8_4.json.gz,easy,Laptop,17,1,[1104]
+24,FloorPlan_Train8_4.json.gz,medium,Mug,67,2,"[1287, 1328]"
+25,FloorPlan_Train8_4.json.gz,hard,Mug,56,2,"[1226, 1249]"
+26,FloorPlan_Train8_4.json.gz,easy,Mug,27,1,[1232]
+27,FloorPlan_Train8_4.json.gz,hard,SprayBottle,102,3,"[1360, 1390, 1391]"
+28,FloorPlan_Train8_4.json.gz,easy,SprayBottle,21,1,[1499]
+29,FloorPlan_Train8_4.json.gz,medium,SprayBottle,27,1,[1458]
+30,FloorPlan_Train8_4.json.gz,hard,Television,19,1,[1515]
+31,FloorPlan_Train8_4.json.gz,easy,Television,65,2,"[1618, 1590]"
+32,FloorPlan_Train8_4.json.gz,medium,Television,66,2,"[1530, 1644]"
+33,FloorPlan_Train8_4.json.gz,hard,Vase,86,3,"[1680, 1724, 1787]"
+34,FloorPlan_Train8_4.json.gz,medium,Vase,50,2,"[1721, 1753]"
+35,FloorPlan_Train8_4.json.gz,easy,Vase,14,1,[1775]
+0,FloorPlan_Train2_1.json.gz,easy,AlarmClock,14,1,[128]
+1,FloorPlan_Train2_1.json.gz,hard,AlarmClock,61,2,"[97, 5]"
+2,FloorPlan_Train2_1.json.gz,medium,AlarmClock,75,2,"[112, 46]"
+3,FloorPlan_Train2_1.json.gz,hard,Apple,60,2,"[195, 186]"
+4,FloorPlan_Train2_1.json.gz,medium,Apple,62,2,"[155, 236]"
+5,FloorPlan_Train2_1.json.gz,easy,Apple,28,1,[184]
+6,FloorPlan_Train2_1.json.gz,easy,BaseballBat,47,2,"[306, 393]"
+7,FloorPlan_Train2_1.json.gz,medium,BaseballBat,41,2,"[431, 439]"
+8,FloorPlan_Train2_1.json.gz,hard,BaseballBat,62,2,"[359, 384]"
+9,FloorPlan_Train2_1.json.gz,hard,BasketBall,64,2,"[524, 470]"
+10,FloorPlan_Train2_1.json.gz,medium,BasketBall,57,2,"[590, 490]"
+11,FloorPlan_Train2_1.json.gz,easy,BasketBall,29,1,[579]
+12,FloorPlan_Train2_1.json.gz,medium,Bowl,48,2,"[621, 627]"
+13,FloorPlan_Train2_1.json.gz,hard,Bowl,72,2,"[748, 725]"
+14,FloorPlan_Train2_1.json.gz,easy,Bowl,30,1,[608]
+15,FloorPlan_Train2_1.json.gz,medium,GarbageCan,61,2,"[758, 756]"
+16,FloorPlan_Train2_1.json.gz,hard,GarbageCan,66,2,"[767, 778]"
+17,FloorPlan_Train2_1.json.gz,easy,GarbageCan,23,1,[882]
+18,FloorPlan_Train2_1.json.gz,hard,HousePlant,64,2,"[903, 1005]"
+19,FloorPlan_Train2_1.json.gz,easy,HousePlant,44,2,"[980, 1021]"
+20,FloorPlan_Train2_1.json.gz,medium,HousePlant,42,2,"[999, 975]"
+21,FloorPlan_Train2_1.json.gz,hard,Laptop,60,2,"[1067, 1160]"
+22,FloorPlan_Train2_1.json.gz,medium,Laptop,58,2,"[1074, 1087]"
+23,FloorPlan_Train2_1.json.gz,easy,Laptop,32,1,[1196]
+24,FloorPlan_Train2_1.json.gz,medium,Mug,64,2,"[1204, 1257]"
+25,FloorPlan_Train2_1.json.gz,hard,Mug,57,2,"[1278, 1214]"
+26,FloorPlan_Train2_1.json.gz,easy,Mug,29,1,[1297]
+27,FloorPlan_Train2_1.json.gz,hard,SprayBottle,46,2,"[1409, 1460]"
+28,FloorPlan_Train2_1.json.gz,easy,SprayBottle,15,1,[1481]
+29,FloorPlan_Train2_1.json.gz,medium,SprayBottle,89,3,"[1447, 1497, 1383]"
+30,FloorPlan_Train2_1.json.gz,hard,Television,58,2,"[1598, 1643]"
+31,FloorPlan_Train2_1.json.gz,medium,Television,52,2,"[1644, 1512]"
+32,FloorPlan_Train2_1.json.gz,easy,Television,40,1,[1524]
+33,FloorPlan_Train2_1.json.gz,medium,Vase,81,3,"[1747, 1752, 1667]"
+34,FloorPlan_Train2_1.json.gz,hard,Vase,51,2,"[1725, 1693]"
+35,FloorPlan_Train2_1.json.gz,easy,Vase,18,1,[1698]
+0,FloorPlan_Train6_2.json.gz,medium,AlarmClock,93,3,"[96, 58, 5]"
+1,FloorPlan_Train6_2.json.gz,hard,AlarmClock,32,1,[47]
+2,FloorPlan_Train6_2.json.gz,easy,AlarmClock,25,1,[74]
+3,FloorPlan_Train6_2.json.gz,easy,Apple,27,1,[288]
+4,FloorPlan_Train6_2.json.gz,hard,Apple,51,2,"[202, 169]"
+5,FloorPlan_Train6_2.json.gz,medium,Apple,72,2,"[275, 157]"
+6,FloorPlan_Train6_2.json.gz,medium,BaseballBat,89,3,"[306, 354, 323]"
+7,FloorPlan_Train6_2.json.gz,easy,BaseballBat,27,1,[374]
+8,FloorPlan_Train6_2.json.gz,hard,BaseballBat,34,1,[346]
+9,FloorPlan_Train6_2.json.gz,hard,BasketBall,68,2,"[483, 553]"
+10,FloorPlan_Train6_2.json.gz,medium,BasketBall,37,1,[475]
+11,FloorPlan_Train6_2.json.gz,easy,BasketBall,45,2,"[548, 595]"
+12,FloorPlan_Train6_2.json.gz,medium,Bowl,41,2,"[689, 614]"
+13,FloorPlan_Train6_2.json.gz,hard,Bowl,88,3,"[692, 721, 736]"
+14,FloorPlan_Train6_2.json.gz,easy,Bowl,21,1,[652]
+15,FloorPlan_Train6_2.json.gz,hard,GarbageCan,46,2,"[788, 838]"
+16,FloorPlan_Train6_2.json.gz,medium,GarbageCan,58,2,"[818, 785]"
+17,FloorPlan_Train6_2.json.gz,easy,GarbageCan,46,2,"[816, 776]"
+18,FloorPlan_Train6_2.json.gz,hard,HousePlant,79,2,"[940, 1012]"
+19,FloorPlan_Train6_2.json.gz,medium,HousePlant,45,2,"[906, 979]"
+20,FloorPlan_Train6_2.json.gz,easy,HousePlant,26,1,[977]
+21,FloorPlan_Train6_2.json.gz,hard,Laptop,52,2,"[1098, 1146]"
+22,FloorPlan_Train6_2.json.gz,easy,Laptop,19,1,[1051]
+23,FloorPlan_Train6_2.json.gz,medium,Laptop,79,2,"[1147, 1144]"
+24,FloorPlan_Train6_2.json.gz,medium,Mug,37,1,[1331]
+25,FloorPlan_Train6_2.json.gz,hard,Mug,93,3,"[1328, 1257, 1286]"
+26,FloorPlan_Train6_2.json.gz,easy,Mug,20,1,[1256]
+27,FloorPlan_Train6_2.json.gz,medium,SprayBottle,47,2,"[1380, 1497]"
+28,FloorPlan_Train6_2.json.gz,easy,SprayBottle,36,1,[1366]
+29,FloorPlan_Train6_2.json.gz,hard,SprayBottle,67,2,"[1424, 1422]"
+30,FloorPlan_Train6_2.json.gz,easy,Television,43,2,"[1559, 1535]"
+31,FloorPlan_Train6_2.json.gz,medium,Television,66,2,"[1624, 1623]"
+32,FloorPlan_Train6_2.json.gz,hard,Television,41,2,"[1583, 1545]"
+33,FloorPlan_Train6_2.json.gz,easy,Vase,24,1,[1712]
+34,FloorPlan_Train6_2.json.gz,medium,Vase,57,2,"[1690, 1794]"
+35,FloorPlan_Train6_2.json.gz,hard,Vase,69,2,"[1672, 1679]"
+0,FloorPlan_Train8_3.json.gz,medium,AlarmClock,89,3,"[84, 102, 83]"
+1,FloorPlan_Train8_3.json.gz,easy,AlarmClock,29,1,[60]
+2,FloorPlan_Train8_3.json.gz,hard,AlarmClock,32,1,[130]
+3,FloorPlan_Train8_3.json.gz,medium,Apple,61,2,"[233, 235]"
+4,FloorPlan_Train8_3.json.gz,easy,Apple,40,1,[257]
+5,FloorPlan_Train8_3.json.gz,hard,Apple,49,2,"[278, 196]"
+6,FloorPlan_Train8_3.json.gz,hard,BaseballBat,106,3,"[404, 327, 382]"
+7,FloorPlan_Train8_3.json.gz,easy,BaseballBat,14,1,[351]
+8,FloorPlan_Train8_3.json.gz,medium,BaseballBat,30,1,[424]
+9,FloorPlan_Train8_3.json.gz,hard,BasketBall,40,1,[514]
+10,FloorPlan_Train8_3.json.gz,medium,BasketBall,84,3,"[542, 518, 504]"
+11,FloorPlan_Train8_3.json.gz,easy,BasketBall,26,1,[497]
+12,FloorPlan_Train8_3.json.gz,hard,Bowl,111,3,"[705, 713, 642]"
+13,FloorPlan_Train8_3.json.gz,medium,Bowl,19,1,[719]
+14,FloorPlan_Train8_3.json.gz,easy,Bowl,20,1,[667]
+15,FloorPlan_Train8_3.json.gz,hard,GarbageCan,121,4,"[811, 828, 825, 876]"
+16,FloorPlan_Train8_3.json.gz,medium,GarbageCan,24,1,[891]
+17,FloorPlan_Train8_3.json.gz,easy,GarbageCan,5,1,[803]
+18,FloorPlan_Train8_3.json.gz,hard,HousePlant,48,2,"[962, 960]"
+19,FloorPlan_Train8_3.json.gz,medium,HousePlant,73,2,"[998, 967]"
+20,FloorPlan_Train8_3.json.gz,easy,HousePlant,29,1,[1003]
+21,FloorPlan_Train8_3.json.gz,easy,Laptop,52,2,"[1066, 1177]"
+22,FloorPlan_Train8_3.json.gz,medium,Laptop,80,2,"[1170, 1105]"
+23,FloorPlan_Train8_3.json.gz,hard,Laptop,18,1,[1094]
+24,FloorPlan_Train8_3.json.gz,medium,Mug,85,3,"[1292, 1253, 1254]"
+25,FloorPlan_Train8_3.json.gz,easy,Mug,32,1,[1286]
+26,FloorPlan_Train8_3.json.gz,hard,Mug,33,1,[1258]
+27,FloorPlan_Train8_3.json.gz,hard,SprayBottle,92,3,"[1419, 1441, 1403]"
+28,FloorPlan_Train8_3.json.gz,easy,SprayBottle,21,1,[1447]
+29,FloorPlan_Train8_3.json.gz,medium,SprayBottle,37,1,[1437]
+30,FloorPlan_Train8_3.json.gz,medium,Television,74,2,"[1558, 1563]"
+31,FloorPlan_Train8_3.json.gz,easy,Television,50,2,"[1521, 1526]"
+32,FloorPlan_Train8_3.json.gz,hard,Television,26,1,[1562]
+33,FloorPlan_Train8_3.json.gz,medium,Vase,71,2,"[1684, 1663]"
+34,FloorPlan_Train8_3.json.gz,hard,Vase,44,2,"[1731, 1660]"
+35,FloorPlan_Train8_3.json.gz,easy,Vase,35,1,[1724]
+0,FloorPlan_Train9_3.json.gz,easy,AlarmClock,26,1,[0]
+1,FloorPlan_Train9_3.json.gz,hard,AlarmClock,60,2,"[141, 91]"
+2,FloorPlan_Train9_3.json.gz,medium,AlarmClock,64,2,"[11, 149]"
+3,FloorPlan_Train9_3.json.gz,medium,Apple,48,2,"[178, 252]"
+4,FloorPlan_Train9_3.json.gz,hard,Apple,78,2,"[237, 247]"
+5,FloorPlan_Train9_3.json.gz,easy,Apple,24,1,[233]
+6,FloorPlan_Train9_3.json.gz,medium,BaseballBat,70,2,"[330, 449]"
+7,FloorPlan_Train9_3.json.gz,easy,BaseballBat,23,1,[322]
+8,FloorPlan_Train9_3.json.gz,hard,BaseballBat,57,2,"[411, 443]"
+9,FloorPlan_Train9_3.json.gz,medium,BasketBall,67,2,"[461, 524]"
+10,FloorPlan_Train9_3.json.gz,hard,BasketBall,52,2,"[464, 596]"
+11,FloorPlan_Train9_3.json.gz,easy,BasketBall,31,1,[585]
+12,FloorPlan_Train9_3.json.gz,easy,Bowl,26,1,[724]
+13,FloorPlan_Train9_3.json.gz,medium,Bowl,83,3,"[640, 748, 743]"
+14,FloorPlan_Train9_3.json.gz,hard,Bowl,41,2,"[737, 711]"
+15,FloorPlan_Train9_3.json.gz,medium,GarbageCan,63,2,"[842, 877]"
+16,FloorPlan_Train9_3.json.gz,hard,GarbageCan,59,2,"[896, 819]"
+17,FloorPlan_Train9_3.json.gz,easy,GarbageCan,28,1,[855]
+18,FloorPlan_Train9_3.json.gz,hard,HousePlant,75,2,"[961, 986]"
+19,FloorPlan_Train9_3.json.gz,easy,HousePlant,32,1,[953]
+20,FloorPlan_Train9_3.json.gz,medium,HousePlant,43,2,"[989, 965]"
+21,FloorPlan_Train9_3.json.gz,hard,Laptop,76,2,"[1183, 1083]"
+22,FloorPlan_Train9_3.json.gz,easy,Laptop,37,1,[1092]
+23,FloorPlan_Train9_3.json.gz,medium,Laptop,37,1,[1189]
+24,FloorPlan_Train9_3.json.gz,medium,Mug,61,2,"[1294, 1273]"
+25,FloorPlan_Train9_3.json.gz,easy,Mug,33,1,[1259]
+26,FloorPlan_Train9_3.json.gz,hard,Mug,56,2,"[1263, 1215]"
+27,FloorPlan_Train9_3.json.gz,easy,SprayBottle,31,1,[1387]
+28,FloorPlan_Train9_3.json.gz,medium,SprayBottle,63,2,"[1369, 1427]"
+29,FloorPlan_Train9_3.json.gz,hard,SprayBottle,56,2,"[1408, 1498]"
+30,FloorPlan_Train9_3.json.gz,medium,Television,81,3,"[1590, 1613, 1582]"
+31,FloorPlan_Train9_3.json.gz,easy,Television,26,1,[1606]
+32,FloorPlan_Train9_3.json.gz,hard,Television,43,2,"[1636, 1560]"
+33,FloorPlan_Train9_3.json.gz,medium,Vase,49,2,"[1715, 1701]"
+34,FloorPlan_Train9_3.json.gz,hard,Vase,67,2,"[1720, 1707]"
+35,FloorPlan_Train9_3.json.gz,easy,Vase,34,1,[1695]
+0,FloorPlan_Train12_2.json.gz,medium,AlarmClock,64,2,"[144, 138]"
+1,FloorPlan_Train12_2.json.gz,hard,AlarmClock,53,2,"[9, 76]"
+2,FloorPlan_Train12_2.json.gz,easy,AlarmClock,33,1,[103]
+3,FloorPlan_Train12_2.json.gz,easy,Apple,32,1,[235]
+4,FloorPlan_Train12_2.json.gz,medium,Apple,47,2,"[268, 267]"
+5,FloorPlan_Train12_2.json.gz,hard,Apple,71,2,"[181, 213]"
+6,FloorPlan_Train12_2.json.gz,medium,BaseballBat,85,3,"[426, 405, 359]"
+7,FloorPlan_Train12_2.json.gz,easy,BaseballBat,40,1,[353]
+8,FloorPlan_Train12_2.json.gz,hard,BaseballBat,25,1,[445]
+9,FloorPlan_Train12_2.json.gz,medium,BasketBall,37,1,[566]
+10,FloorPlan_Train12_2.json.gz,hard,BasketBall,84,3,"[559, 466, 528]"
+11,FloorPlan_Train12_2.json.gz,easy,BasketBall,29,1,[564]
+12,FloorPlan_Train12_2.json.gz,hard,Bowl,65,2,"[684, 646]"
+13,FloorPlan_Train12_2.json.gz,medium,Bowl,59,2,"[626, 701]"
+14,FloorPlan_Train12_2.json.gz,easy,Bowl,26,1,[614]
+15,FloorPlan_Train12_2.json.gz,hard,GarbageCan,38,1,[857]
+16,FloorPlan_Train12_2.json.gz,medium,GarbageCan,77,2,"[797, 785]"
+17,FloorPlan_Train12_2.json.gz,easy,GarbageCan,35,1,[791]
+18,FloorPlan_Train12_2.json.gz,medium,HousePlant,56,2,"[959, 999]"
+19,FloorPlan_Train12_2.json.gz,easy,HousePlant,22,1,[917]
+20,FloorPlan_Train12_2.json.gz,hard,HousePlant,72,2,"[918, 1017]"
+21,FloorPlan_Train12_2.json.gz,medium,Laptop,32,1,[1125]
+22,FloorPlan_Train12_2.json.gz,hard,Laptop,90,3,"[1128, 1077, 1091]"
+23,FloorPlan_Train12_2.json.gz,easy,Laptop,28,1,[1178]
+24,FloorPlan_Train12_2.json.gz,easy,Mug,30,1,[1243]
+25,FloorPlan_Train12_2.json.gz,hard,Mug,67,2,"[1319, 1315]"
+26,FloorPlan_Train12_2.json.gz,medium,Mug,53,2,"[1285, 1252]"
+27,FloorPlan_Train12_2.json.gz,hard,SprayBottle,33,1,[1459]
+28,FloorPlan_Train12_2.json.gz,easy,SprayBottle,32,1,[1467]
+29,FloorPlan_Train12_2.json.gz,medium,SprayBottle,85,3,"[1446, 1432, 1462]"
+30,FloorPlan_Train12_2.json.gz,medium,Television,72,2,"[1621, 1528]"
+31,FloorPlan_Train12_2.json.gz,hard,Television,44,2,"[1574, 1526]"
+32,FloorPlan_Train12_2.json.gz,easy,Television,34,1,[1639]
+33,FloorPlan_Train12_2.json.gz,hard,Vase,78,2,"[1771, 1651]"
+34,FloorPlan_Train12_2.json.gz,medium,Vase,54,2,"[1710, 1690]"
+35,FloorPlan_Train12_2.json.gz,easy,Vase,18,1,[1783]
+0,FloorPlan_Train4_4.json.gz,hard,AlarmClock,51,2,"[5, 38]"
+1,FloorPlan_Train4_4.json.gz,medium,AlarmClock,61,2,"[26, 117]"
+2,FloorPlan_Train4_4.json.gz,easy,AlarmClock,38,1,[109]
+3,FloorPlan_Train4_4.json.gz,easy,Apple,50,2,"[166, 274]"
+4,FloorPlan_Train4_4.json.gz,medium,Apple,57,2,"[273, 164]"
+5,FloorPlan_Train4_4.json.gz,hard,Apple,43,2,"[254, 201]"
+6,FloorPlan_Train4_4.json.gz,medium,BaseballBat,66,2,"[445, 417]"
+7,FloorPlan_Train4_4.json.gz,hard,BaseballBat,77,2,"[373, 325]"
+8,FloorPlan_Train4_4.json.gz,easy,BaseballBat,7,1,[378]
+9,FloorPlan_Train4_4.json.gz,easy,BasketBall,35,1,[555]
+10,FloorPlan_Train4_4.json.gz,medium,BasketBall,51,2,"[572, 538]"
+11,FloorPlan_Train4_4.json.gz,hard,BasketBall,64,2,"[460, 596]"
+12,FloorPlan_Train4_4.json.gz,easy,Bowl,31,1,[645]
+13,FloorPlan_Train4_4.json.gz,medium,Bowl,44,2,"[619, 749]"
+14,FloorPlan_Train4_4.json.gz,hard,Bowl,75,2,"[651, 733]"
+15,FloorPlan_Train4_4.json.gz,medium,GarbageCan,110,3,"[852, 776, 887]"
+16,FloorPlan_Train4_4.json.gz,easy,GarbageCan,30,1,[841]
+17,FloorPlan_Train4_4.json.gz,hard,GarbageCan,10,1,[861]
+18,FloorPlan_Train4_4.json.gz,easy,HousePlant,31,1,[924]
+19,FloorPlan_Train4_4.json.gz,hard,HousePlant,63,2,"[907, 921]"
+20,FloorPlan_Train4_4.json.gz,medium,HousePlant,56,2,"[964, 993]"
+21,FloorPlan_Train4_4.json.gz,hard,Laptop,65,2,"[1153, 1080]"
+22,FloorPlan_Train4_4.json.gz,medium,Laptop,54,2,"[1107, 1065]"
+23,FloorPlan_Train4_4.json.gz,easy,Laptop,31,1,[1146]
+24,FloorPlan_Train4_4.json.gz,hard,Mug,79,2,"[1291, 1302]"
+25,FloorPlan_Train4_4.json.gz,medium,Mug,42,2,"[1239, 1287]"
+26,FloorPlan_Train4_4.json.gz,easy,Mug,29,1,[1308]
+27,FloorPlan_Train4_4.json.gz,hard,SprayBottle,71,2,"[1494, 1361]"
+28,FloorPlan_Train4_4.json.gz,medium,SprayBottle,51,2,"[1462, 1371]"
+29,FloorPlan_Train4_4.json.gz,easy,SprayBottle,28,1,[1386]
+30,FloorPlan_Train4_4.json.gz,hard,Television,60,2,"[1640, 1562]"
+31,FloorPlan_Train4_4.json.gz,medium,Television,70,2,"[1559, 1573]"
+32,FloorPlan_Train4_4.json.gz,easy,Television,20,1,[1580]
+33,FloorPlan_Train4_4.json.gz,easy,Vase,29,1,[1740]
+34,FloorPlan_Train4_4.json.gz,hard,Vase,62,2,"[1746, 1719]"
+35,FloorPlan_Train4_4.json.gz,medium,Vase,59,2,"[1760, 1765]"
+0,FloorPlan_Train2_4.json.gz,hard,AlarmClock,60,2,"[77, 56]"
+1,FloorPlan_Train2_4.json.gz,medium,AlarmClock,61,2,"[69, 30]"
+2,FloorPlan_Train2_4.json.gz,easy,AlarmClock,29,1,[7]
+3,FloorPlan_Train2_4.json.gz,medium,Apple,59,2,"[211, 270]"
+4,FloorPlan_Train2_4.json.gz,hard,Apple,73,2,"[230, 265]"
+5,FloorPlan_Train2_4.json.gz,easy,Apple,18,1,[185]
+6,FloorPlan_Train2_4.json.gz,hard,BaseballBat,60,2,"[399, 324]"
+7,FloorPlan_Train2_4.json.gz,easy,BaseballBat,31,1,[385]
+8,FloorPlan_Train2_4.json.gz,medium,BaseballBat,59,2,"[440, 319]"
+9,FloorPlan_Train2_4.json.gz,hard,BasketBall,46,2,"[572, 499]"
+10,FloorPlan_Train2_4.json.gz,medium,BasketBall,72,2,"[473, 543]"
+11,FloorPlan_Train2_4.json.gz,easy,BasketBall,32,1,[532]
+12,FloorPlan_Train2_4.json.gz,medium,Bowl,81,3,"[723, 712, 642]"
+13,FloorPlan_Train2_4.json.gz,easy,Bowl,31,1,[678]
+14,FloorPlan_Train2_4.json.gz,hard,Bowl,38,1,[680]
+15,FloorPlan_Train2_4.json.gz,medium,GarbageCan,52,2,"[871, 775]"
+16,FloorPlan_Train2_4.json.gz,hard,GarbageCan,69,2,"[751, 848]"
+17,FloorPlan_Train2_4.json.gz,easy,GarbageCan,29,1,[876]
+18,FloorPlan_Train2_4.json.gz,hard,HousePlant,58,2,"[1003, 902]"
+19,FloorPlan_Train2_4.json.gz,medium,HousePlant,52,2,"[1019, 1029]"
+20,FloorPlan_Train2_4.json.gz,easy,HousePlant,40,1,[917]
+21,FloorPlan_Train2_4.json.gz,hard,Laptop,72,2,"[1138, 1109]"
+22,FloorPlan_Train2_4.json.gz,easy,Laptop,37,1,[1110]
+23,FloorPlan_Train2_4.json.gz,medium,Laptop,41,2,"[1095, 1104]"
+24,FloorPlan_Train2_4.json.gz,hard,Mug,56,2,"[1325, 1206]"
+25,FloorPlan_Train2_4.json.gz,medium,Mug,64,2,"[1241, 1278]"
+26,FloorPlan_Train2_4.json.gz,easy,Mug,30,1,[1314]
+27,FloorPlan_Train2_4.json.gz,easy,SprayBottle,27,1,[1382]
+28,FloorPlan_Train2_4.json.gz,medium,SprayBottle,61,2,"[1386, 1498]"
+29,FloorPlan_Train2_4.json.gz,hard,SprayBottle,62,2,"[1428, 1467]"
+30,FloorPlan_Train2_4.json.gz,easy,Television,37,1,[1558]
+31,FloorPlan_Train2_4.json.gz,medium,Television,51,2,"[1501, 1601]"
+32,FloorPlan_Train2_4.json.gz,hard,Television,62,2,"[1649, 1624]"
+33,FloorPlan_Train2_4.json.gz,medium,Vase,68,2,"[1799, 1757]"
+34,FloorPlan_Train2_4.json.gz,hard,Vase,64,2,"[1796, 1743]"
+35,FloorPlan_Train2_4.json.gz,easy,Vase,18,1,[1700]
+0,FloorPlan_Train4_1.json.gz,medium,AlarmClock,83,3,"[105, 15, 25]"
+1,FloorPlan_Train4_1.json.gz,hard,AlarmClock,44,2,"[54, 96]"
+2,FloorPlan_Train4_1.json.gz,easy,AlarmClock,23,1,[12]
+3,FloorPlan_Train4_1.json.gz,hard,Apple,69,2,"[182, 204]"
+4,FloorPlan_Train4_1.json.gz,medium,Apple,53,2,"[160, 194]"
+5,FloorPlan_Train4_1.json.gz,easy,Apple,28,1,[183]
+6,FloorPlan_Train4_1.json.gz,medium,BaseballBat,58,2,"[386, 367]"
+7,FloorPlan_Train4_1.json.gz,hard,BaseballBat,74,2,"[308, 413]"
+8,FloorPlan_Train4_1.json.gz,easy,BaseballBat,18,1,[445]
+9,FloorPlan_Train4_1.json.gz,easy,BasketBall,22,1,[504]
+10,FloorPlan_Train4_1.json.gz,medium,BasketBall,46,2,"[563, 518]"
+11,FloorPlan_Train4_1.json.gz,hard,BasketBall,82,3,"[500, 453, 460]"
+12,FloorPlan_Train4_1.json.gz,medium,Bowl,79,2,"[704, 698]"
+13,FloorPlan_Train4_1.json.gz,easy,Bowl,32,1,[730]
+14,FloorPlan_Train4_1.json.gz,hard,Bowl,39,1,[695]
+15,FloorPlan_Train4_1.json.gz,hard,GarbageCan,76,2,"[833, 823]"
+16,FloorPlan_Train4_1.json.gz,medium,GarbageCan,48,2,"[847, 819]"
+17,FloorPlan_Train4_1.json.gz,easy,GarbageCan,26,1,[874]
+18,FloorPlan_Train4_1.json.gz,medium,HousePlant,85,3,"[961, 1031, 1010]"
+19,FloorPlan_Train4_1.json.gz,hard,HousePlant,29,1,[1038]
+20,FloorPlan_Train4_1.json.gz,easy,HousePlant,36,1,[1034]
+21,FloorPlan_Train4_1.json.gz,medium,Laptop,79,2,"[1103, 1089]"
+22,FloorPlan_Train4_1.json.gz,hard,Laptop,31,1,[1069]
+23,FloorPlan_Train4_1.json.gz,easy,Laptop,40,1,[1096]
+24,FloorPlan_Train4_1.json.gz,medium,Mug,48,2,"[1205, 1328]"
+25,FloorPlan_Train4_1.json.gz,easy,Mug,38,1,[1300]
+26,FloorPlan_Train4_1.json.gz,hard,Mug,64,2,"[1349, 1244]"
+27,FloorPlan_Train4_1.json.gz,hard,SprayBottle,84,3,"[1395, 1490, 1427]"
+28,FloorPlan_Train4_1.json.gz,easy,SprayBottle,22,1,[1494]
+29,FloorPlan_Train4_1.json.gz,medium,SprayBottle,44,2,"[1401, 1421]"
+30,FloorPlan_Train4_1.json.gz,easy,Television,15,1,[1586]
+31,FloorPlan_Train4_1.json.gz,medium,Television,56,2,"[1504, 1524]"
+32,FloorPlan_Train4_1.json.gz,hard,Television,79,2,"[1532, 1597]"
+33,FloorPlan_Train4_1.json.gz,easy,Vase,60,2,"[1799, 1688]"
+34,FloorPlan_Train4_1.json.gz,hard,Vase,50,2,"[1663, 1759]"
+35,FloorPlan_Train4_1.json.gz,medium,Vase,40,1,[1735]
+0,FloorPlan_Train1_3.json.gz,hard,AlarmClock,101,3,"[11, 131, 138]"
+1,FloorPlan_Train1_3.json.gz,medium,AlarmClock,31,1,[27]
+2,FloorPlan_Train1_3.json.gz,easy,AlarmClock,18,1,[47]
+3,FloorPlan_Train1_3.json.gz,hard,Apple,59,2,"[173, 192]"
+4,FloorPlan_Train1_3.json.gz,medium,Apple,71,2,"[196, 270]"
+5,FloorPlan_Train1_3.json.gz,easy,Apple,20,1,[203]
+6,FloorPlan_Train1_3.json.gz,easy,BaseballBat,37,1,[386]
+7,FloorPlan_Train1_3.json.gz,medium,BaseballBat,70,2,"[363, 364]"
+8,FloorPlan_Train1_3.json.gz,hard,BaseballBat,43,2,"[384, 315]"
+9,FloorPlan_Train1_3.json.gz,hard,BasketBall,44,2,"[587, 533]"
+10,FloorPlan_Train1_3.json.gz,easy,BasketBall,35,1,[511]
+11,FloorPlan_Train1_3.json.gz,medium,BasketBall,71,2,"[532, 482]"
+12,FloorPlan_Train1_3.json.gz,hard,Bowl,60,2,"[619, 694]"
+13,FloorPlan_Train1_3.json.gz,medium,Bowl,68,2,"[735, 691]"
+14,FloorPlan_Train1_3.json.gz,easy,Bowl,22,1,[690]
+15,FloorPlan_Train1_3.json.gz,hard,GarbageCan,27,1,[870]
+16,FloorPlan_Train1_3.json.gz,easy,GarbageCan,61,2,"[793, 898]"
+17,FloorPlan_Train1_3.json.gz,medium,GarbageCan,62,2,"[884, 764]"
+18,FloorPlan_Train1_3.json.gz,medium,HousePlant,55,2,"[929, 984]"
+19,FloorPlan_Train1_3.json.gz,hard,HousePlant,79,2,"[1048, 988]"
+20,FloorPlan_Train1_3.json.gz,easy,HousePlant,16,1,[1041]
+21,FloorPlan_Train1_3.json.gz,easy,Laptop,24,1,[1167]
+22,FloorPlan_Train1_3.json.gz,hard,Laptop,72,2,"[1125, 1193]"
+23,FloorPlan_Train1_3.json.gz,medium,Laptop,54,2,"[1187, 1138]"
+24,FloorPlan_Train1_3.json.gz,hard,Mug,47,2,"[1315, 1268]"
+25,FloorPlan_Train1_3.json.gz,easy,Mug,28,1,[1234]
+26,FloorPlan_Train1_3.json.gz,medium,Mug,75,2,"[1225, 1299]"
+27,FloorPlan_Train1_3.json.gz,medium,SprayBottle,61,2,"[1469, 1464]"
+28,FloorPlan_Train1_3.json.gz,hard,SprayBottle,78,2,"[1450, 1431]"
+29,FloorPlan_Train1_3.json.gz,easy,SprayBottle,11,1,[1427]
+30,FloorPlan_Train1_3.json.gz,easy,Television,62,2,"[1608, 1515]"
+31,FloorPlan_Train1_3.json.gz,medium,Television,76,2,"[1601, 1611]"
+32,FloorPlan_Train1_3.json.gz,hard,Television,12,1,[1579]
+33,FloorPlan_Train1_3.json.gz,easy,Vase,17,1,[1662]
+34,FloorPlan_Train1_3.json.gz,hard,Vase,98,3,"[1673, 1719, 1687]"
+35,FloorPlan_Train1_3.json.gz,medium,Vase,35,1,[1718]
+0,FloorPlan_Train11_5.json.gz,hard,AlarmClock,76,2,"[2, 119]"
+1,FloorPlan_Train11_5.json.gz,medium,AlarmClock,60,2,"[133, 92]"
+2,FloorPlan_Train11_5.json.gz,easy,AlarmClock,14,1,[49]
+3,FloorPlan_Train11_5.json.gz,medium,Apple,62,2,"[155, 154]"
+4,FloorPlan_Train11_5.json.gz,hard,Apple,69,2,"[158, 182]"
+5,FloorPlan_Train11_5.json.gz,easy,Apple,19,1,[215]
+6,FloorPlan_Train11_5.json.gz,easy,BaseballBat,24,1,[448]
+7,FloorPlan_Train11_5.json.gz,hard,BaseballBat,54,2,"[397, 324]"
+8,FloorPlan_Train11_5.json.gz,medium,BaseballBat,72,2,"[348, 408]"
+9,FloorPlan_Train11_5.json.gz,medium,BasketBall,55,2,"[536, 486]"
+10,FloorPlan_Train11_5.json.gz,hard,BasketBall,69,2,"[525, 564]"
+11,FloorPlan_Train11_5.json.gz,easy,BasketBall,26,1,[553]
+12,FloorPlan_Train11_5.json.gz,hard,Bowl,72,2,"[637, 735]"
+13,FloorPlan_Train11_5.json.gz,easy,Bowl,36,1,[744]
+14,FloorPlan_Train11_5.json.gz,medium,Bowl,42,2,"[666, 690]"
+15,FloorPlan_Train11_5.json.gz,medium,GarbageCan,33,1,[844]
+16,FloorPlan_Train11_5.json.gz,hard,GarbageCan,99,3,"[771, 801, 803]"
+17,FloorPlan_Train11_5.json.gz,easy,GarbageCan,18,1,[772]
+18,FloorPlan_Train11_5.json.gz,hard,HousePlant,80,2,"[1039, 939]"
+19,FloorPlan_Train11_5.json.gz,easy,HousePlant,24,1,[1030]
+20,FloorPlan_Train11_5.json.gz,medium,HousePlant,46,2,"[912, 1035]"
+21,FloorPlan_Train11_5.json.gz,easy,Laptop,38,1,[1132]
+22,FloorPlan_Train11_5.json.gz,medium,Laptop,83,3,"[1077, 1128, 1152]"
+23,FloorPlan_Train11_5.json.gz,hard,Laptop,29,1,[1198]
+24,FloorPlan_Train11_5.json.gz,hard,Mug,90,3,"[1296, 1242, 1233]"
+25,FloorPlan_Train11_5.json.gz,medium,Mug,48,2,"[1218, 1227]"
+26,FloorPlan_Train11_5.json.gz,easy,Mug,12,1,[1312]
+27,FloorPlan_Train11_5.json.gz,medium,SprayBottle,55,2,"[1373, 1404]"
+28,FloorPlan_Train11_5.json.gz,hard,SprayBottle,79,2,"[1396, 1364]"
+29,FloorPlan_Train11_5.json.gz,easy,SprayBottle,16,1,[1493]
+30,FloorPlan_Train11_5.json.gz,medium,Television,84,3,"[1506, 1541, 1609]"
+31,FloorPlan_Train11_5.json.gz,easy,Television,63,2,"[1568, 1599]"
+32,FloorPlan_Train11_5.json.gz,hard,Television,3,1,[1555]
+33,FloorPlan_Train11_5.json.gz,easy,Vase,69,2,"[1753, 1745]"
+34,FloorPlan_Train11_5.json.gz,medium,Vase,81,3,"[1724, 1683, 1773]"
+0,FloorPlan_Train1_5.json.gz,hard,AlarmClock,8,1,[129]
+1,FloorPlan_Train1_5.json.gz,easy,AlarmClock,44,2,"[21, 65]"
+2,FloorPlan_Train1_5.json.gz,medium,AlarmClock,98,3,"[35, 145, 15]"
+3,FloorPlan_Train1_5.json.gz,medium,Apple,54,2,"[260, 179]"
+4,FloorPlan_Train1_5.json.gz,hard,Apple,54,2,"[241, 261]"
+5,FloorPlan_Train1_5.json.gz,easy,Apple,42,2,"[297, 293]"
+6,FloorPlan_Train1_5.json.gz,medium,BaseballBat,94,3,"[339, 377, 437]"
+7,FloorPlan_Train1_5.json.gz,hard,BaseballBat,4,1,[354]
+8,FloorPlan_Train1_5.json.gz,easy,BaseballBat,52,2,"[324, 375]"
+9,FloorPlan_Train1_5.json.gz,easy,BasketBall,32,1,[562]
+10,FloorPlan_Train1_5.json.gz,hard,BasketBall,68,2,"[467, 595]"
+11,FloorPlan_Train1_5.json.gz,medium,BasketBall,50,2,"[497, 512]"
+12,FloorPlan_Train1_5.json.gz,hard,Bowl,77,2,"[631, 619]"
+13,FloorPlan_Train1_5.json.gz,easy,Bowl,15,1,[609]
+14,FloorPlan_Train1_5.json.gz,medium,Bowl,58,2,"[677, 720]"
+15,FloorPlan_Train1_5.json.gz,hard,GarbageCan,54,2,"[840, 858]"
+16,FloorPlan_Train1_5.json.gz,medium,GarbageCan,71,2,"[797, 884]"
+17,FloorPlan_Train1_5.json.gz,easy,GarbageCan,25,1,[793]
+18,FloorPlan_Train1_5.json.gz,hard,HousePlant,92,3,"[994, 970, 1025]"
+19,FloorPlan_Train1_5.json.gz,easy,HousePlant,13,1,[985]
+20,FloorPlan_Train1_5.json.gz,medium,HousePlant,45,2,"[990, 1010]"
+21,FloorPlan_Train1_5.json.gz,hard,Laptop,47,2,"[1168, 1188]"
+22,FloorPlan_Train1_5.json.gz,easy,Laptop,54,2,"[1150, 1057]"
+23,FloorPlan_Train1_5.json.gz,medium,Laptop,49,2,"[1055, 1197]"
+24,FloorPlan_Train1_5.json.gz,hard,Mug,94,3,"[1304, 1261, 1349]"
+25,FloorPlan_Train1_5.json.gz,medium,Mug,44,2,"[1295, 1277]"
+26,FloorPlan_Train1_5.json.gz,easy,Mug,12,1,[1270]
+27,FloorPlan_Train1_5.json.gz,medium,SprayBottle,37,1,[1437]
+28,FloorPlan_Train1_5.json.gz,hard,SprayBottle,101,3,"[1389, 1458, 1402]"
+29,FloorPlan_Train1_5.json.gz,easy,SprayBottle,12,1,[1384]
+30,FloorPlan_Train1_5.json.gz,easy,Television,11,1,[1517]
+31,FloorPlan_Train1_5.json.gz,hard,Television,86,3,"[1513, 1608, 1627]"
+32,FloorPlan_Train1_5.json.gz,medium,Television,53,2,"[1548, 1539]"
+33,FloorPlan_Train1_5.json.gz,medium,Vase,67,2,"[1688, 1678]"
+34,FloorPlan_Train1_5.json.gz,hard,Vase,36,1,[1770]
+35,FloorPlan_Train1_5.json.gz,easy,Vase,47,2,"[1696, 1790]"
+0,FloorPlan_Train10_3.json.gz,easy,AlarmClock,49,2,"[121, 80]"
+1,FloorPlan_Train10_3.json.gz,hard,AlarmClock,45,2,"[18, 66]"
+2,FloorPlan_Train10_3.json.gz,medium,AlarmClock,56,2,"[56, 65]"
+3,FloorPlan_Train10_3.json.gz,hard,Apple,70,2,"[211, 200]"
+4,FloorPlan_Train10_3.json.gz,easy,Apple,26,1,[250]
+5,FloorPlan_Train10_3.json.gz,medium,Apple,54,2,"[174, 181]"
+6,FloorPlan_Train10_3.json.gz,easy,BaseballBat,23,1,[343]
+7,FloorPlan_Train10_3.json.gz,medium,BaseballBat,59,2,"[319, 377]"
+8,FloorPlan_Train10_3.json.gz,hard,BaseballBat,68,2,"[372, 363]"
+9,FloorPlan_Train10_3.json.gz,easy,BasketBall,30,1,[506]
+10,FloorPlan_Train10_3.json.gz,hard,BasketBall,56,2,"[473, 463]"
+11,FloorPlan_Train10_3.json.gz,medium,BasketBall,64,2,"[498, 474]"
+12,FloorPlan_Train10_3.json.gz,medium,Bowl,56,2,"[746, 708]"
+13,FloorPlan_Train10_3.json.gz,easy,Bowl,54,2,"[615, 733]"
+14,FloorPlan_Train10_3.json.gz,hard,Bowl,40,1,[684]
+15,FloorPlan_Train10_3.json.gz,medium,GarbageCan,59,2,"[872, 768]"
+16,FloorPlan_Train10_3.json.gz,easy,GarbageCan,23,1,[841]
+17,FloorPlan_Train10_3.json.gz,hard,GarbageCan,68,2,"[755, 837]"
+18,FloorPlan_Train10_3.json.gz,medium,HousePlant,77,2,"[921, 1034]"
+19,FloorPlan_Train10_3.json.gz,easy,HousePlant,41,2,"[971, 956]"
+20,FloorPlan_Train10_3.json.gz,hard,HousePlant,32,1,[980]
+21,FloorPlan_Train10_3.json.gz,hard,Laptop,47,2,"[1158, 1163]"
+22,FloorPlan_Train10_3.json.gz,easy,Laptop,30,1,[1196]
+23,FloorPlan_Train10_3.json.gz,medium,Laptop,73,2,"[1059, 1111]"
+24,FloorPlan_Train10_3.json.gz,medium,Mug,51,2,"[1223, 1327]"
+25,FloorPlan_Train10_3.json.gz,easy,Mug,28,1,[1242]
+26,FloorPlan_Train10_3.json.gz,hard,Mug,71,2,"[1202, 1305]"
+27,FloorPlan_Train10_3.json.gz,medium,SprayBottle,52,2,"[1350, 1413]"
+28,FloorPlan_Train10_3.json.gz,easy,SprayBottle,12,1,[1444]
+29,FloorPlan_Train10_3.json.gz,hard,SprayBottle,86,3,"[1440, 1468, 1490]"
+30,FloorPlan_Train10_3.json.gz,hard,Television,54,2,"[1562, 1547]"
+31,FloorPlan_Train10_3.json.gz,medium,Television,66,2,"[1502, 1581]"
+32,FloorPlan_Train10_3.json.gz,easy,Television,30,1,[1594]
+33,FloorPlan_Train10_3.json.gz,medium,Vase,56,2,"[1687, 1671]"
+34,FloorPlan_Train10_3.json.gz,hard,Vase,83,3,"[1712, 1721, 1782]"
+35,FloorPlan_Train10_3.json.gz,easy,Vase,11,1,[1705]
+0,FloorPlan_Train2_3.json.gz,easy,AlarmClock,25,1,[104]
+1,FloorPlan_Train2_3.json.gz,hard,AlarmClock,57,2,"[21, 70]"
+2,FloorPlan_Train2_3.json.gz,medium,AlarmClock,68,2,"[63, 52]"
+3,FloorPlan_Train2_3.json.gz,hard,Apple,74,2,"[175, 192]"
+4,FloorPlan_Train2_3.json.gz,medium,Apple,55,2,"[222, 294]"
+5,FloorPlan_Train2_3.json.gz,easy,Apple,21,1,[214]
+6,FloorPlan_Train2_3.json.gz,hard,BaseballBat,75,2,"[355, 420]"
+7,FloorPlan_Train2_3.json.gz,medium,BaseballBat,60,2,"[350, 309]"
+8,FloorPlan_Train2_3.json.gz,easy,BaseballBat,15,1,[379]
+9,FloorPlan_Train2_3.json.gz,hard,BasketBall,71,2,"[514, 470]"
+10,FloorPlan_Train2_3.json.gz,medium,BasketBall,63,2,"[550, 589]"
+11,FloorPlan_Train2_3.json.gz,easy,BasketBall,16,1,[581]
+12,FloorPlan_Train2_3.json.gz,hard,Bowl,78,2,"[662, 749]"
+13,FloorPlan_Train2_3.json.gz,easy,Bowl,25,1,[617]
+14,FloorPlan_Train2_3.json.gz,medium,Bowl,47,2,"[653, 641]"
+15,FloorPlan_Train2_3.json.gz,hard,GarbageCan,53,2,"[841, 848]"
+16,FloorPlan_Train2_3.json.gz,easy,GarbageCan,49,2,"[760, 834]"
+17,FloorPlan_Train2_3.json.gz,medium,GarbageCan,48,2,"[766, 898]"
+18,FloorPlan_Train2_3.json.gz,medium,HousePlant,109,3,"[1042, 997, 946]"
+19,FloorPlan_Train2_3.json.gz,easy,HousePlant,40,1,[1001]
+20,FloorPlan_Train2_3.json.gz,hard,HousePlant,1,1,[1028]
+21,FloorPlan_Train2_3.json.gz,hard,Laptop,64,2,"[1090, 1169]"
+22,FloorPlan_Train2_3.json.gz,medium,Laptop,49,2,"[1051, 1104]"
+23,FloorPlan_Train2_3.json.gz,easy,Laptop,37,1,[1156]
+24,FloorPlan_Train2_3.json.gz,medium,Mug,61,2,"[1341, 1253]"
+25,FloorPlan_Train2_3.json.gz,easy,Mug,28,1,[1310]
+26,FloorPlan_Train2_3.json.gz,hard,Mug,61,2,"[1238, 1306]"
+27,FloorPlan_Train2_3.json.gz,hard,SprayBottle,75,2,"[1450, 1358]"
+28,FloorPlan_Train2_3.json.gz,medium,SprayBottle,56,2,"[1368, 1499]"
+29,FloorPlan_Train2_3.json.gz,easy,SprayBottle,19,1,[1375]
+30,FloorPlan_Train2_3.json.gz,hard,Television,54,2,"[1593, 1649]"
+31,FloorPlan_Train2_3.json.gz,medium,Television,57,2,"[1594, 1504]"
+32,FloorPlan_Train2_3.json.gz,easy,Television,39,1,[1601]
+33,FloorPlan_Train2_3.json.gz,easy,Vase,32,1,[1747]
+34,FloorPlan_Train2_3.json.gz,medium,Vase,61,2,"[1711, 1760]"
+35,FloorPlan_Train2_3.json.gz,hard,Vase,57,2,"[1776, 1779]"
+0,FloorPlan_Train6_3.json.gz,hard,AlarmClock,102,3,"[87, 149, 106]"
+1,FloorPlan_Train6_3.json.gz,easy,AlarmClock,16,1,[132]
+2,FloorPlan_Train6_3.json.gz,medium,AlarmClock,32,1,[30]
+3,FloorPlan_Train6_3.json.gz,medium,Apple,75,2,"[197, 235]"
+4,FloorPlan_Train6_3.json.gz,hard,Apple,37,1,[152]
+5,FloorPlan_Train6_3.json.gz,easy,Apple,38,1,[281]
+6,FloorPlan_Train6_3.json.gz,easy,BaseballBat,38,1,[400]
+7,FloorPlan_Train6_3.json.gz,hard,BaseballBat,80,2,"[414, 402]"
+8,FloorPlan_Train6_3.json.gz,medium,BaseballBat,32,1,[351]
+9,FloorPlan_Train6_3.json.gz,medium,BasketBall,56,2,"[542, 494]"
+10,FloorPlan_Train6_3.json.gz,easy,BasketBall,59,2,"[553, 487]"
+11,FloorPlan_Train6_3.json.gz,hard,BasketBall,35,1,[560]
+12,FloorPlan_Train6_3.json.gz,hard,Bowl,43,2,"[718, 627]"
+13,FloorPlan_Train6_3.json.gz,easy,Bowl,33,1,[637]
+14,FloorPlan_Train6_3.json.gz,medium,Bowl,74,2,"[728, 619]"
+15,FloorPlan_Train6_3.json.gz,medium,GarbageCan,28,1,[804]
+16,FloorPlan_Train6_3.json.gz,easy,GarbageCan,17,1,[765]
+17,FloorPlan_Train6_3.json.gz,hard,GarbageCan,105,3,"[869, 847, 887]"
+18,FloorPlan_Train6_3.json.gz,easy,HousePlant,33,1,[914]
+19,FloorPlan_Train6_3.json.gz,medium,HousePlant,86,3,"[936, 1017, 991]"
+20,FloorPlan_Train6_3.json.gz,hard,HousePlant,31,1,[929]
+21,FloorPlan_Train6_3.json.gz,medium,Laptop,71,2,"[1139, 1067]"
+22,FloorPlan_Train6_3.json.gz,easy,Laptop,41,2,"[1093, 1180]"
+23,FloorPlan_Train6_3.json.gz,hard,Laptop,38,1,[1157]
+24,FloorPlan_Train6_3.json.gz,easy,Mug,20,1,[1237]
+25,FloorPlan_Train6_3.json.gz,medium,Mug,34,1,[1232]
+26,FloorPlan_Train6_3.json.gz,hard,Mug,96,3,"[1291, 1309, 1327]"
+27,FloorPlan_Train6_3.json.gz,medium,SprayBottle,70,2,"[1371, 1369]"
+28,FloorPlan_Train6_3.json.gz,hard,SprayBottle,64,2,"[1397, 1499]"
+29,FloorPlan_Train6_3.json.gz,easy,SprayBottle,16,1,[1463]
+30,FloorPlan_Train6_3.json.gz,medium,Television,64,2,"[1611, 1533]"
+31,FloorPlan_Train6_3.json.gz,easy,Television,36,1,[1618]
+32,FloorPlan_Train6_3.json.gz,hard,Television,50,2,"[1640, 1538]"
+33,FloorPlan_Train6_3.json.gz,easy,Vase,13,1,[1703]
+34,FloorPlan_Train6_3.json.gz,medium,Vase,95,3,"[1720, 1788, 1729]"
+35,FloorPlan_Train6_3.json.gz,hard,Vase,42,2,"[1774, 1761]"
+0,FloorPlan_Train1_1.json.gz,hard,AlarmClock,75,2,"[112, 77]"
+1,FloorPlan_Train1_1.json.gz,easy,AlarmClock,37,1,[104]
+2,FloorPlan_Train1_1.json.gz,medium,AlarmClock,38,1,[16]
+3,FloorPlan_Train1_1.json.gz,medium,Apple,91,3,"[293, 158, 212]"
+4,FloorPlan_Train1_1.json.gz,hard,Apple,43,2,"[276, 213]"
+5,FloorPlan_Train1_1.json.gz,easy,Apple,16,1,[211]
+6,FloorPlan_Train1_1.json.gz,easy,BaseballBat,46,2,"[361, 347]"
+7,FloorPlan_Train1_1.json.gz,hard,BaseballBat,58,2,"[324, 424]"
+8,FloorPlan_Train1_1.json.gz,medium,BaseballBat,46,2,"[427, 388]"
+9,FloorPlan_Train1_1.json.gz,hard,BasketBall,28,1,[566]
+10,FloorPlan_Train1_1.json.gz,medium,BasketBall,66,2,"[556, 507]"
+11,FloorPlan_Train1_1.json.gz,easy,BasketBall,56,2,"[484, 457]"
+12,FloorPlan_Train1_1.json.gz,hard,Bowl,103,3,"[639, 724, 601]"
+13,FloorPlan_Train1_1.json.gz,easy,Bowl,23,1,[638]
+14,FloorPlan_Train1_1.json.gz,medium,Bowl,24,1,[668]
+15,FloorPlan_Train1_1.json.gz,hard,GarbageCan,101,3,"[888, 774, 842]"
+16,FloorPlan_Train1_1.json.gz,easy,GarbageCan,19,1,[807]
+17,FloorPlan_Train1_1.json.gz,medium,GarbageCan,30,1,[777]
+18,FloorPlan_Train1_1.json.gz,easy,HousePlant,21,1,[945]
+19,FloorPlan_Train1_1.json.gz,hard,HousePlant,63,2,"[1046, 951]"
+20,FloorPlan_Train1_1.json.gz,medium,HousePlant,66,2,"[1001, 906]"
+21,FloorPlan_Train1_1.json.gz,medium,Laptop,87,3,"[1052, 1121, 1054]"
+22,FloorPlan_Train1_1.json.gz,hard,Laptop,36,1,[1151]
+23,FloorPlan_Train1_1.json.gz,easy,Laptop,27,1,[1068]
+24,FloorPlan_Train1_1.json.gz,hard,Mug,52,2,"[1256, 1335]"
+25,FloorPlan_Train1_1.json.gz,medium,Mug,76,2,"[1202, 1336]"
+26,FloorPlan_Train1_1.json.gz,easy,Mug,22,1,[1338]
+27,FloorPlan_Train1_1.json.gz,hard,SprayBottle,96,3,"[1418, 1393, 1459]"
+28,FloorPlan_Train1_1.json.gz,medium,SprayBottle,42,2,"[1428, 1436]"
+29,FloorPlan_Train1_1.json.gz,easy,SprayBottle,12,1,[1360]
+30,FloorPlan_Train1_1.json.gz,medium,Television,99,3,"[1547, 1551, 1516]"
+31,FloorPlan_Train1_1.json.gz,easy,Television,43,2,"[1633, 1605]"
+32,FloorPlan_Train1_1.json.gz,hard,Television,8,1,[1563]
+33,FloorPlan_Train1_1.json.gz,medium,Vase,56,2,"[1674, 1791]"
+34,FloorPlan_Train1_1.json.gz,hard,Vase,58,2,"[1684, 1785]"
+35,FloorPlan_Train1_1.json.gz,easy,Vase,36,1,[1781]
