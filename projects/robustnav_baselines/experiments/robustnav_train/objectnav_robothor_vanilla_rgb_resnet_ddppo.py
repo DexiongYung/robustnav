@@ -215,7 +215,7 @@ class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
 
     # DD-PPO Base
     def training_pipeline(self, **kwargs):
-        ppo_steps = int(40000000)
+        ppo_steps = int(25000000)
         lr = 3e-4
         num_mini_batch = 1
         update_repeats = 4
