@@ -22,3 +22,11 @@ ctrl+a+b -> : then type 'detach'
 
 # Scroll in screen
 `ctrl-a esc`
+
+# Kill process
+`sudo pkill -9 <PID>` in terminal
+or
+`sudo kill -9 <PID>` in terminal
+
+# Kill all processes
+`sudo killall -u dyung6`
