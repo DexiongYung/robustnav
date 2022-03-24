@@ -1,5 +1,5 @@
 # Command to run 5% test data on clean
-python main.py -o storage/5_percent_clean -b projects/robustnav_baselines/experiments/robustnav_train objectnav_robothor_vanilla_rgb_resnet_ddppo -trd dylan/subsample_task/5_percent/train -vld dylan/subsample_task/5_percent/val
+python main.py -o storage/2p5_percent_clean -b projects/robustnav_baselines/experiments/robustnav_train objectnav_robothor_vanilla_rgb_resnet_ddppo -trd dylan/subsample_task/2p5_percent/train
 
 # How to remote access Tensorboard running on server
 https://gist.github.com/mrnabati/009c43b9b981ec2879008c7bff2fbb22
