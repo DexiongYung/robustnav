@@ -24,4 +24,6 @@ ctrl+a+b -> : then type 'detach'
 `ctrl-a esc`
 
 # Kill process
-`sudo pkill -9 <PID>`
+`sudo pkill -9 <PID>` in terminal
+or
+`sudo kill -9 <PID>` in terminal
