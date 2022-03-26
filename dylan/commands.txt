@@ -22,3 +22,6 @@ ctrl+a+b -> : then type 'detach'
 
 # Scroll in screen
 `ctrl-a esc`
+
+# Kill process
+`sudo pkill -9 <PID>`
