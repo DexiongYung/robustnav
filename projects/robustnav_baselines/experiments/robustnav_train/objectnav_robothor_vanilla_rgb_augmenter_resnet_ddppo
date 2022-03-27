@@ -24,6 +24,7 @@ from allenact.base_abstractions.experiment_config import MachineParams
 from allenact.base_abstractions.preprocessor import SensorPreprocessorGraph
 from allenact.base_abstractions.sensor import SensorSuite, ExpertActionSensor
 from allenact.base_abstractions.task import TaskSampler
+from allenact.embodiedai.preprocessors.identity import IdentityPreprocessor
 
 from allenact.utils.experiment_utils import evenly_distribute_count_into_bins
 from allenact.utils.system import get_logger
@@ -53,14 +54,12 @@ from allenact.embodiedai.preprocessors.resnet import ResNetPreprocessor
 from allenact.algorithms.onpolicy_sync.losses import PPO
 from allenact.algorithms.onpolicy_sync.losses.ppo import PPOConfig
 
-from projects.objectnav_baselines.models.object_nav_models import (
-    ResnetTensorObjectNavActorCritic,
-)
+from projects.objectnav_baselines.models.object_nav_models import AugmentedResnetTensorObjectNavActorCritic
 
 from allenact.base_abstractions.sensor import DepthSensor, RGBSensor
 
 
-class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
+class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
     """A ObjectNav Experiment Config using RGB sensors and DDPPO"""
 
     def __init__(self):
@@ -121,7 +120,7 @@ class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
 
         self.PREPROCESSORS = [
             Builder(
-                ResNetPreprocessor,
+                IdentityPreprocessor,
                 {
                     "input_height": self.SCREEN_SIZE,
                     "input_width": self.SCREEN_SIZE,
@@ -189,11 +188,7 @@ class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
 
     def monkey_patch_sensor(
         self,
-        corruptions=None,
-        severities=None,
-        random_crop=False,
-        color_jitter=False,
-        random_shift=False,
+        *arg
     ):
         self.SENSORS = [
             # TODO!!!: Make another class and turn off augmentations for RGBSesnor
@@ -202,13 +197,13 @@ class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
                 width=self.SCREEN_SIZE,
                 use_resnet_normalization=True,
                 uuid="rgb_lowres",
-                corruptions=corruptions,
-                severities=severities,
-                random_crop=random_crop,
-                random_translate=random_shift,
+                corruptions=None,
+                severities=None,
+                random_crop=False,
+                random_translate=False,
                 crop_height=self.CROP_HEIGHT,
                 crop_width=self.CROP_WIDTH,
-                color_jitter=color_jitter,
+                color_jitter=False,
             ),
             GoalObjectTypeThorSensor(object_types=self.TARGET_TYPES,),
         ]
@@ -253,7 +248,7 @@ class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
         rgb_uuid = "rgb_resnet"
         goal_sensor_uuid = "goal_object_type_ind"
 
-        return ResnetTensorObjectNavActorCritic(
+        return AugmentedResnetTensorObjectNavActorCritic(
             action_space=gym.spaces.Discrete(len(ObjectNavTask.class_action_names())),
             observation_space=kwargs["sensor_preprocessor_graph"].observation_spaces,
             goal_sensor_uuid=goal_sensor_uuid,

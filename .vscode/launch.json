@@ -5,15 +5,15 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Current File",
+            "name": "Run main.py",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "${workspaceFolder}/main.py",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "args": ["-o", "storage/simple_test_clean",
-                "-b", "projects/robustnav_baselines/experiments/robustnav_train", "objectnav_robothor_vanilla_rgb_resnet_ddppo",
-                "-trd", "dylan/subsample_task/5_percent/train",  "-vld", "dylan/subsample_task/5_percent/val"]
+            "args": ["-o", "storage/test",
+                "-b", "projects/robustnav_baselines/experiments/robustnav_train", "objectnav_robothor_vanilla_rgb_augmenter_resnet_ddppo",
+                "-trd", "dylan/subsample_task/1_percent/train"]
         }
     ]
 }
