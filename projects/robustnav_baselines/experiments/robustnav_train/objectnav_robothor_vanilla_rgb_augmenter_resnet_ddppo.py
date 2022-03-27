@@ -54,7 +54,7 @@ from allenact.embodiedai.preprocessors.resnet import ResNetPreprocessor
 from allenact.algorithms.onpolicy_sync.losses import PPO
 from allenact.algorithms.onpolicy_sync.losses.ppo import PPOConfig
 
-from projects.objectnav_baselines.models.object_nav_models import AugmentedResnetTensorObjectNavActorCritic
+from projects.objectnav_baselines.models.object_nav_augmented_models import AugmentedResnetTensorObjectNavActorCritic
 
 from allenact.base_abstractions.sensor import DepthSensor, RGBSensor
 
@@ -134,6 +134,16 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
                 },
             ),
         ]
+
+        self.RESNET_PREPROCESSOR = ResNetPreprocessor(input_height = self.SCREEN_SIZE, 
+            input_width = self.SCREEN_SIZE,
+            output_width = 7,
+            output_height = 7,
+            output_dims = 512,
+            pool = False,
+            torchvision_resnet_model = models.resnet18,
+            input_uuids = ["rgb_lowres"],
+            output_uuid = "rgb_resnet")
 
         OBSERVATIONS = [
             "rgb_resnet",
@@ -247,6 +257,8 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
     def create_model(cls, **kwargs) -> nn.Module:
         rgb_uuid = "rgb_resnet"
         goal_sensor_uuid = "goal_object_type_ind"
+
+        # TODO!!!: Put ResnetPreprocessor in ActorCritic model here?
 
         return AugmentedResnetTensorObjectNavActorCritic(
             action_space=gym.spaces.Discrete(len(ObjectNavTask.class_action_names())),
