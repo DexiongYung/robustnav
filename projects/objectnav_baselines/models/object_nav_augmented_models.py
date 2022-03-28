@@ -125,6 +125,7 @@ class AugmentedResnetTensorObjectNavActorCritic(ActorCriticModel[CategoricalDist
         if not isinstance(self.preprocessor, ResNetPreprocessor):
             raise ValueError(f'self.preprocessor is set to {type(self.preprocessor)}, but should be ResnetPreprocessor')
         
+        observations[self.rgb_resnet_preprocessor_uuid] = observations[self.rgb_resnet_preprocessor_uuid].squeeze(0)
         observations[self.rgb_resnet_preprocessor_uuid] = self.preprocessor.process(observations)
     
         x = self.goal_visual_encoder(observations)
