@@ -65,10 +65,13 @@ class IdentityPreprocessor(Preprocessor):
 
     def process(self, obs: Dict[str, Any], *args: Any, **kwargs: Any) -> Any:
         # Don't need reshape, because resnet preprocessor is later and there's the below reshape there.
-        # x = obs[self.input_uuids[0]].to(self.device).permute(0, 3, 1, 2)  # bhwc -> bchw
+        x = obs[self.input_uuids[0]].to(self.device).permute(0, 3, 1, 2)  # bhwc -> bchw
+        # TODO!!: Need to ensure it's in BHWC or BCHW to PIL images. Use RAD augs
         # If the input is depth, repeat it across all 3 channels
-        # if x.shape[1] == 1:
-        #     x = x.repeat(1, 3, 1, 1)
-        # return x.to(self.device)
+        if x.shape[1] == 1:
+            x = x.repeat(1, 3, 1, 1)
+        return x.to(self.device)
+        # Not handling the case when feeding in depth observations. You have
+        # to repeat along the color channel dimension for RGB-D
 
-        return obs[self.input_uuids[0]].to(self.device)
+        # return obs[self.input_uuids[0]].to(self.device)

@@ -15,6 +15,7 @@ from allenact.algorithms.onpolicy_sync.policy import (
 )
 from allenact.base_abstractions.distributions import CategoricalDistr
 from allenact.base_abstractions.misc import ActorCriticOutput
+from allenact.base_abstractions.preprocessor import ResNetEmbedder
 from allenact.embodiedai.preprocessors.resnet import ResNetPreprocessor
 from allenact.embodiedai.models.basic_models import SimpleCNN, RNNStateEncoder
 from .object_nav_models import ResnetDualTensorGoalEncoder, ResnetTensorGoalEncoder
@@ -26,6 +27,8 @@ class AugmentedResnetTensorObjectNavActorCritic(ActorCriticModel[CategoricalDist
         observation_space: SpaceDict,
         goal_sensor_uuid: str,
         rgb_resnet_preprocessor_uuid: Optional[str],
+        resnet_model,
+        pool: bool,
         depth_resnet_preprocessor_uuid: Optional[str] = None,
         hidden_size: int = 512,
         goal_dims: int = 32,
@@ -77,9 +80,11 @@ class AugmentedResnetTensorObjectNavActorCritic(ActorCriticModel[CategoricalDist
         if self.include_auxiliary_head:
             self.auxiliary_actor = LinearActorHead(self._hidden_size, action_space.n)
         
-        self.preprocessor = None
+        self.embedder = ResNetEmbedder(resnet=resnet_model, pool=pool)
 
         self.train()
+        # TODO!!!: Freeze embedder only
+
 
     @property
     def recurrent_hidden_state_size(self) -> int:
@@ -122,19 +127,23 @@ class AugmentedResnetTensorObjectNavActorCritic(ActorCriticModel[CategoricalDist
         prev_actions: torch.Tensor,
         masks: torch.FloatTensor,
     ) -> Tuple[ActorCriticOutput[DistributionType], Optional[Memory]]:
-        if not isinstance(self.preprocessor, ResNetPreprocessor):
-            raise ValueError(f'self.preprocessor is set to {type(self.preprocessor)}, but should be ResnetPreprocessor')
+        # if not isinstance(self.preprocessor, ResNetPreprocessor):
+        #     raise ValueError(f'self.preprocessor is set to {type(self.preprocessor)}, but should be ResnetPreprocessor')
         
-        # observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([1, 15, 224, 224, 3])
-        observations[self.rgb_resnet_preprocessor_uuid] = observations[self.rgb_resnet_preprocessor_uuid].squeeze(0)
-        # Both loops: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([15, 224, 224, 3])
-        observations[self.rgb_resnet_preprocessor_uuid] = self.preprocessor.process(observations)
-        # First loop around: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([1, 15, 224, 224, 3])
-        # Second loop around: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([15, 512, 7, 7])
+        # # observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([1, 15, 224, 224, 3])
+        # observations[self.rgb_resnet_preprocessor_uuid] = observations[self.rgb_resnet_preprocessor_uuid].squeeze(0)
+        # # Both loops: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([15, 224, 224, 3])
+        # observations[self.rgb_resnet_preprocessor_uuid] = self.preprocessor.process(observations)
+        # # First loop around: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([1, 15, 224, 224, 3])
+        # # Second loop around: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([15, 512, 7, 7])
 
-        device_visual_encoder = next(self.goal_visual_encoder.parameters()).device
-        if observations[self.rgb_resnet_preprocessor_uuid].is_cuda is not device_visual_encoder:
-            observations[self.rgb_resnet_preprocessor_uuid] = observations[self.rgb_resnet_preprocessor_uuid].to(device_visual_encoder)
+        # device_visual_encoder = next(self.goal_visual_encoder.parameters()).device
+        # if observations[self.rgb_resnet_preprocessor_uuid].is_cuda is not device_visual_encoder:
+        #     observations[self.rgb_resnet_preprocessor_uuid] = observations[self.rgb_resnet_preprocessor_uuid].to(device_visual_encoder)
+
+        # Step 1: Make sure RGB observation is resized appropriately for Resnet embedder
+        # Step 2: Forward pass through embedder
+        observations[self.rgb_resnet_preprocessor_uuid] = self.embedder(observations[self.rgb_resnet_preprocessor_uuid])
 
         x = self.goal_visual_encoder(observations)
         x, rnn_hidden_states = self.state_encoder(x, memory.tensor("rnn"), masks)

@@ -208,7 +208,7 @@ class PointNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
         num_mini_batch = 1
         update_repeats = 4
         num_steps = 128
-        save_interval = 166666
+        save_interval = 200000
         log_interval = 1000 if torch.cuda.is_available() else 1
         gamma = 0.99
         use_gae = True

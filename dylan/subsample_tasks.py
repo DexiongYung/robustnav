@@ -79,22 +79,25 @@ def read_gz(frac, gz_path, save_folder):
         json_bytes = json_str.encode('utf-8')
         fout.write(json_bytes)
     
-    logger.info(f"Completed: {file_name}")
-    return info_list
+    logger.info(f"Completed: {file_name} with: {sub_sample_count} number of samples")
+    return info_list, sub_sample_count
 
 def iterate_over_ep_folder(folder_path, frac, save_folder):
     info_df = None
+    sub_sample_total = 0
     for file in os.listdir(folder_path):
         if file.endswith(".gz"):
             file_path_abs = os.path.join(folder_path, file)
-            info_list = read_gz(frac=frac, gz_path=file_path_abs, save_folder=save_folder)
+            info_list, sub_sample_count = read_gz(frac=frac, gz_path=file_path_abs, save_folder=save_folder)
 
+            sub_sample_total += sub_sample_count
             file_df = pd.DataFrame(info_list, columns=['File Name', 'Difficulty', 'Target', 'Original Count', 'Sub-sample Count', 'Sampled Ids'])
             if info_df is None:
                 info_df = file_df
             else:
                 info_df = info_df.append(file_df)
     
+    logger.info(f"Finished! With a total of: {sub_sample_total} sub-samples")
     info_df.to_csv(save_folder + '/meta.csv')
 
 if __name__ == "__main__":

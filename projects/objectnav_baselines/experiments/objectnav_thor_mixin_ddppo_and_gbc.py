@@ -26,12 +26,12 @@ class ObjectNavThorMixInPPOAndGBCConfig(ObjectNavBaseConfig):
     )
 
     def training_pipeline(self, **kwargs):
-        ppo_steps = int(25000000)
+        ppo_steps = int(30000000)
         lr = 3e-4
         num_mini_batch = 1
         update_repeats = 4
         num_steps = 128
-        save_interval = 166666
+        save_interval = 200000
         log_interval = 1000
         gamma = 0.99
         use_gae = True

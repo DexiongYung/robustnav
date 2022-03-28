@@ -213,12 +213,12 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
 
     # DD-PPO Base
     def training_pipeline(self, **kwargs):
-        ppo_steps = int(25000000)
+        ppo_steps = int(30000000)
         lr = 3e-4
         num_mini_batch = 1
         update_repeats = 4
         num_steps = 128
-        save_interval = 166666
+        save_interval = 200000
         log_interval = 1000 if torch.cuda.is_available() else 1
         gamma = 0.99
         use_gae = True
@@ -251,7 +251,7 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
         rgb_uuid = "rgb_resnet"
         goal_sensor_uuid = "goal_object_type_ind"
 
-        model = AugmentedResnetTensorObjectNavActorCritic(
+        return AugmentedResnetTensorObjectNavActorCritic(
             action_space=gym.spaces.Discrete(len(ObjectNavTask.class_action_names())),
             observation_space=kwargs["sensor_preprocessor_graph"].observation_spaces,
             goal_sensor_uuid=goal_sensor_uuid,
@@ -260,18 +260,18 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
             goal_dims=32,
         )
 
-        model.preprocessor = ResNetPreprocessor(
-            input_height = SCREEN_SIZE, 
-            input_width = SCREEN_SIZE,
-            output_width = 7,
-            output_height = 7,
-            output_dims = 512,
-            pool = False,
-            torchvision_resnet_model = models.resnet18,
-            input_uuids = ["rgb_resnet"],
-            output_uuid = "rgb_resnet")
+        # model.preprocessor = ResNetPreprocessor(
+        #     input_height = SCREEN_SIZE, 
+        #     input_width = SCREEN_SIZE,
+        #     output_width = 7,
+        #     output_height = 7,
+        #     output_dims = 512,
+        #     pool = False,
+        #     torchvision_resnet_model = models.resnet18,
+        #     input_uuids = ["rgb_resnet"],
+        #     output_uuid = "rgb_resnet")
         
-        return model
+        # return model
 
     def machine_params(self, mode="train", **kwargs):
         sampler_devices: Sequence[int] = []
