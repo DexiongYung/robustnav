@@ -41,6 +41,7 @@ def read_gz(frac, gz_path, save_folder):
     # The key is defined as (difficulty, target)
     count_dict = dict()
     id_dict = dict()
+    sub_sample_total = 0
 
     for idx, floor_plan_meta in enumerate(data):
         difficulty = floor_plan_meta['difficulty']
@@ -64,6 +65,7 @@ def read_gz(frac, gz_path, save_folder):
     for key, count in count_dict.items():
         id_list = id_dict[key]
         sub_sample_count = ceil(count * frac)
+        sub_sample_total += sub_sample_count
 
         if sub_sample_count == count:
             logger.warning(f"File name: {file_name}, key: {key} has too few tasks: {count}, sub-sample equal to {count}")
@@ -80,7 +82,7 @@ def read_gz(frac, gz_path, save_folder):
         fout.write(json_bytes)
     
     logger.info(f"Completed: {file_name} with: {sub_sample_count} number of samples")
-    return info_list, sub_sample_count
+    return info_list, sub_sample_total
 
 def iterate_over_ep_folder(folder_path, frac, save_folder):
     info_df = None

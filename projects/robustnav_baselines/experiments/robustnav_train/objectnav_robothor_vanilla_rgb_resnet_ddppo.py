@@ -76,8 +76,8 @@ class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
         self.STOCHASTIC = True
         self.HORIZONTAL_FIELD_OF_VIEW = 79
 
-        self.CAMERA_WIDTH = 400
-        self.CAMERA_HEIGHT = 300
+        self.CAMERA_WIDTH = 300
+        self.CAMERA_HEIGHT = 225
         self.SCREEN_SIZE = 224
         self.MAX_STEPS = 500
 
@@ -215,7 +215,7 @@ class ObjectNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
 
     # DD-PPO Base
     def training_pipeline(self, **kwargs):
-        ppo_steps = int(30000000)
+        ppo_steps = int(75000000)
         lr = 3e-4
         num_mini_batch = 1
         update_repeats = 4

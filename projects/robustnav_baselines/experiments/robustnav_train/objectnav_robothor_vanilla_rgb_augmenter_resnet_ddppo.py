@@ -59,8 +59,6 @@ from projects.objectnav_baselines.models.object_nav_augmented_models import Augm
 from allenact.base_abstractions.sensor import DepthSensor, RGBSensor
 
 
-SCREEN_SIZE = None
-
 class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
     """A ObjectNav Experiment Config using RGB sensors and DDPPO"""
 
@@ -77,10 +75,9 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
         self.STOCHASTIC = True
         self.HORIZONTAL_FIELD_OF_VIEW = 79
 
-        self.CAMERA_WIDTH = 400
-        self.CAMERA_HEIGHT = 300
+        self.CAMERA_WIDTH = 300
+        self.CAMERA_HEIGHT = 225
         self.SCREEN_SIZE = 224
-        SCREEN_SIZE = self.SCREEN_SIZE
         self.MAX_STEPS = 500
 
         # Random crop specifications for data augmentations
@@ -213,7 +210,7 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
 
     # DD-PPO Base
     def training_pipeline(self, **kwargs):
-        ppo_steps = int(30000000)
+        ppo_steps = int(75000000)
         lr = 3e-4
         num_mini_batch = 1
         update_repeats = 4

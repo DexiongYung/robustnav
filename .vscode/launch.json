@@ -14,6 +14,14 @@
             "args": ["-o", "storage/test",
                 "-b", "projects/robustnav_baselines/experiments/robustnav_train", "objectnav_robothor_vanilla_rgb_augmenter_resnet_ddppo",
                 "-trd", "dylan/subsample_task/1_percent/train"]
+        },
+        {
+            "name": "Run subsample_tasks.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/dylan/subsample_tasks.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
         }
     ]
 }

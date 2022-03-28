@@ -79,8 +79,8 @@ class PointNavS2SRGBResNetDDPPO(ExperimentConfig, ABC):
         self.STOCHASTIC = True
         self.HORIZONTAL_FIELD_OF_VIEW = 39.5
 
-        self.CAMERA_WIDTH = 400
-        self.CAMERA_HEIGHT = 300
+        self.CAMERA_WIDTH = 300
+        self.CAMERA_HEIGHT = 225
         self.SCREEN_SIZE = 224
         self.MAX_STEPS = 300
 
