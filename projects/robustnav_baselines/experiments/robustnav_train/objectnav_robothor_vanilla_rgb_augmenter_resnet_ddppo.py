@@ -59,6 +59,8 @@ from projects.objectnav_baselines.models.object_nav_augmented_models import Augm
 from allenact.base_abstractions.sensor import DepthSensor, RGBSensor
 
 
+SCREEN_SIZE = None
+
 class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
     """A ObjectNav Experiment Config using RGB sensors and DDPPO"""
 
@@ -78,6 +80,7 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
         self.CAMERA_WIDTH = 400
         self.CAMERA_HEIGHT = 300
         self.SCREEN_SIZE = 224
+        SCREEN_SIZE = self.SCREEN_SIZE
         self.MAX_STEPS = 500
 
         # Random crop specifications for data augmentations
@@ -134,16 +137,6 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
                 },
             ),
         ]
-
-        self.RESNET_PREPROCESSOR = ResNetPreprocessor(input_height = self.SCREEN_SIZE, 
-            input_width = self.SCREEN_SIZE,
-            output_width = 7,
-            output_height = 7,
-            output_dims = 512,
-            pool = False,
-            torchvision_resnet_model = models.resnet18,
-            input_uuids = ["rgb_lowres"],
-            output_uuid = "rgb_resnet")
 
         OBSERVATIONS = [
             "rgb_resnet",
@@ -258,9 +251,7 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
         rgb_uuid = "rgb_resnet"
         goal_sensor_uuid = "goal_object_type_ind"
 
-        # TODO!!!: Put ResnetPreprocessor in ActorCritic model here?
-
-        return AugmentedResnetTensorObjectNavActorCritic(
+        model = AugmentedResnetTensorObjectNavActorCritic(
             action_space=gym.spaces.Discrete(len(ObjectNavTask.class_action_names())),
             observation_space=kwargs["sensor_preprocessor_graph"].observation_spaces,
             goal_sensor_uuid=goal_sensor_uuid,
@@ -268,6 +259,19 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
             hidden_size=512,
             goal_dims=32,
         )
+
+        model.preprocessor = ResNetPreprocessor(
+            input_height = SCREEN_SIZE, 
+            input_width = SCREEN_SIZE,
+            output_width = 7,
+            output_height = 7,
+            output_dims = 512,
+            pool = False,
+            torchvision_resnet_model = models.resnet18,
+            input_uuids = ["rgb_lowres"],
+            output_uuid = "rgb_resnet")
+        
+        return model
 
     def machine_params(self, mode="train", **kwargs):
         sampler_devices: Sequence[int] = []
