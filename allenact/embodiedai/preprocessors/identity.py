@@ -64,6 +64,7 @@ class IdentityPreprocessor(Preprocessor):
         return self
 
     def process(self, obs: Dict[str, Any], *args: Any, **kwargs: Any) -> Any:
+        # Don't need reshape, because resnet preprocessor is later and there's the below reshape there.
         # x = obs[self.input_uuids[0]].to(self.device).permute(0, 3, 1, 2)  # bhwc -> bchw
         # If the input is depth, repeat it across all 3 channels
         # if x.shape[1] == 1:

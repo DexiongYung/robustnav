@@ -125,9 +125,17 @@ class AugmentedResnetTensorObjectNavActorCritic(ActorCriticModel[CategoricalDist
         if not isinstance(self.preprocessor, ResNetPreprocessor):
             raise ValueError(f'self.preprocessor is set to {type(self.preprocessor)}, but should be ResnetPreprocessor')
         
+        # observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([1, 15, 224, 224, 3])
         observations[self.rgb_resnet_preprocessor_uuid] = observations[self.rgb_resnet_preprocessor_uuid].squeeze(0)
+        # Both loops: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([15, 224, 224, 3])
         observations[self.rgb_resnet_preprocessor_uuid] = self.preprocessor.process(observations)
-    
+        # First loop around: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([1, 15, 224, 224, 3])
+        # Second loop around: observations[self.rgb_resnet_preprocessor_uuid].shape = torch.Size([15, 512, 7, 7])
+
+        device_visual_encoder = next(self.goal_visual_encoder.parameters()).device
+        if observations[self.rgb_resnet_preprocessor_uuid].is_cuda is not device_visual_encoder:
+            observations[self.rgb_resnet_preprocessor_uuid] = observations[self.rgb_resnet_preprocessor_uuid].to(device_visual_encoder)
+
         x = self.goal_visual_encoder(observations)
         x, rnn_hidden_states = self.state_encoder(x, memory.tensor("rnn"), masks)
         return (

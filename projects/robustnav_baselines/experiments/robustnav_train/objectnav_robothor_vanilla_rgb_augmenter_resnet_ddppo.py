@@ -268,7 +268,7 @@ class ObjectNavS2SRGBAugmenterResNetDDPPO(ExperimentConfig, ABC):
             output_dims = 512,
             pool = False,
             torchvision_resnet_model = models.resnet18,
-            input_uuids = ["rgb_lowres"],
+            input_uuids = ["rgb_resnet"],
             output_uuid = "rgb_resnet")
         
         return model
